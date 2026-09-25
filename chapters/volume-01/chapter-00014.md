@@ -2,7 +2,7 @@
 
 Sable Orin had been on the stone floor of the ninth ward on Saturday night with a strip of glass in her hand and an aneroid under her coat, and it had given her a number, and the number was right, and on the Tuesday morning she went out and told the world so, and the world declined.
 
-She had also, by half past nine on the Tuesday, been told no four times by people who were not being rude, which was the part she was not prepared for.
+She had also, by twenty past eleven on the Tuesday morning, been told no four times by people who were not being rude, which was the part she was not prepared for.
 
 The sheet went up on the drying-room wall at eight, at the same place as always, with the same two hooks, and the room was warm and smelled of hot linen and the damp of a ventilation system shut against the coal. There were seven people in it, four of them old and out for the warmth and one of them asleep in the chair by the door, and none of them read the sheet, and that was fine, because the sheet had never been for the people in the room. It was for the people who came in.
 
@@ -118,6 +118,6 @@ Then she took out a fourth notebook, which was the cheapest one in the shop, and
 
 *Declined. Who. Why, in their words. Date.*
 
-And she wrote four lines that afternoon, and there were to be a great many more, and by the end of that autumn it would run to two hundred and eleven, and it would be the second half of the first thing anybody ever built out of all the things this city had thrown away.
+And she wrote four lines before it was light, and there were to be a great many more, because there would be other people turning things down in rooms, with reasons that were correct, for as long as there were offices like hers and sheets like that one on a drying-room wall. She did not know what the book was for. She was not going to decide it that night, and she wrote that down too, in the same hand, on the line under the heading: *not yet.*
 
 She did not take the sheet down off the wall.

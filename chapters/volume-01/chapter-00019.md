@@ -8,7 +8,7 @@ It did not go away.
 
 A Bellweather had come and gone and the trade was still true, in the same way that a fact about money is true after a market closes. The yards' return lane ran on that draw. The lower basin's floodplain drained on it. Both districts had signed the request and neither had withdrawn it, and every day it hung there a Deputy with a basin to get under a roof got one day closer to having to answer it.
 
-Marek read it standing up on the Sunday morning at half past nine, with the chart room to himself and the whole of the north wall sweating behind the frames, and he had four hundred and thirty words of procedure in a drawer downstairs and a term sheet in his coat that he had not written and had been not-writing for six days, and he found that the one thing in the world he wanted to do on the seventeenth day of a wet autumn was go and stand in front of a board at Kestrel Yards and put numbers on it.
+Marek read it standing up on the Sunday morning at half past nine, with the chart room to himself and the whole of the north wall sweating behind the frames, and he had four hundred and thirty words of procedure in a drawer downstairs that he had promised to a woman in a corridor on the ninth day and had been not-writing for eight days, and a term sheet in his coat that a captain had asked him for and that he had not started either, and he found that the one thing in the world he wanted to do on the seventeenth day of a wet autumn was go and stand in front of a board at Kestrel Yards and put numbers on it.
 
 It was a completely unprofessional reason and he went anyway.
 
@@ -74,7 +74,7 @@ He said it too quickly, and heard himself, and sat back.
 
 ---
 
-It took them until four o'clock in the afternoon and one sortie and a great deal of argument, and what came out of it was four lines on the back of a slate, and the four lines are these:
+It took them until four o'clock in the afternoon and one sortie and a great deal of argument, and what came out of it was four lines on the back of a slate, which were the Monday's four terms restated and turned round to face the Office instead of the Exchange, and they are these:
 
 **1. The Line flies the lane on its own reading. Not the Office's.**
 **2. The Office publishes the Line's reading, with the hour on it, and the Office's own figure beside it, and does not substitute one for the other.**
@@ -101,7 +101,7 @@ The Captain Sorn was in the route office with the charter book open when they go
 
 "Eleven crews in this yard take work off our name," she said. "Every one of them is a family. If the Office publishes a figure that differs from ours and the figure is right, we will have proved a point for a season and earned nothing for a year. If we are wrong, we do not get insured and the yard's cover goes."
 
-"Then say the number," said Marek. "Both numbers. With the hour on each, and the dates, and a column for the difference. That is all the fourth line is."
+"Then say the number," said Marek. "Both numbers. With the hour on each, and the dates, and a column for the difference. That is all the third line is."
 
 "And who pays for the column?" said Ilva Sorn. "Ink."
 

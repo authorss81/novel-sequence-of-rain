@@ -22,7 +22,7 @@ He had thought about this for two days. He had thought about it the way you thin
 
 Here is what he had.
 
-He had a plate. He had read the order off it four times, cold, and the order was the same every time, and there was no instrument in Veyra that could confirm one syllable of it, and the six movements that were going to reach the low ground of the ninth ward in about half an hour were going to reach it in an order that no man in this building, and possibly no man in this city, was presently able to write down.
+He had a plate. He had read the order off it four times, cold, and the order was the same every time, and there was no instrument in Veyra that could confirm one syllable of it, and the six movements that were still coming down on the low ground of the ninth ward that night were going to arrive in an order that no man in this building, and possibly no man in this city, was presently able to write down.
 
 He had no chain. He had a piece of glass cut out of the crown of a pane this district had paid for and never been given, which was sitting in a tube in his coat because he had made it in a glassblower's shop on a Wednesday afternoon on a private arrangement, and a two-year docket in the name of a maintenance hand that said he owed the tower glasswork and that nobody in the district had ever read and nobody in the district ever would.
 

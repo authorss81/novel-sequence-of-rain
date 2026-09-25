@@ -12,7 +12,7 @@ Hesk was about forty and dressed like a man who has money and has decided that b
 
 "Slate's agency report," said Tarin.
 
-"Slate's agency report," Hesk agreed. "Which he filed on the Wednesday of the collision and which I have had read out to me by a man who does not understand any of it and understood every word of it. *Time of observation, instrument, and the source of the contradiction.* He is quite right that the source was your board, and he is quite right that the Office's window was understated at the time of sale, and neither of those things is the interesting part."
+"Slate's agency report," Hesk agreed. "Which he filed on the Wednesday, the day after your board carried an hour that anybody could check and three days before the collision, and which I have had read out to me by a man who does not understand any of it and understood every word of it. *Time of observation, instrument, and the source of the contradiction.* He is quite right that the source was your board, and he is quite right that the Office's window was understated at the time of sale, and neither of those things is the interesting part."
 
 "What is the interesting part."
 
@@ -91,15 +91,15 @@ The board says: *LOWER SILL CULVERT — SHORING TIMBER AND REPLACEMENT DEWATERIN
 
 Nobody has cancelled it. That was the part Tarin could never get anybody to hear. There was no decision in any building in Veyra to not repair the Lower Sill culvert. It was simply that it was classified as maintenance, and maintenance has a queue, and the queue had been behind it for two years, and the timber had been banded and the pump had been on a pallet and nine men had been assigned, and in two years the crew had not once been stood down by anybody; they had simply not been required, because the thing they were loaded for was not weather.
 
-The reach levels mattered more than anything else, and the reach only went down in a dry fortnight, and the dry fortnight was in the spring and the spring had been wet, and the reach had been high all through the Bellweather, and the board had been repainted in the autumn with a new date on it and nobody had looked at the date since.
+The reach levels mattered more than anything else, and the reach only came down when the basin's draw was on it, and the draw comes with a soft dry spring, and this had been a wet one, so the reach had been high all through the Bellweather and the flat at the bottom of it was a foot under the mud and staying there, and the board had been repainted in the autumn with a new date on it and nobody had looked at the date since.
 
-"Window?" said Tarin to the shed foreman, who was a grey man called Petrie who had been keeping that shed since before her father.
+"Window?" said Tarin to the shed foreman, who was a grey man called Petrie who had been keeping that shed since before her father. Behind him the shed door stood open on the flat, and out at the edge of it where the hard ground gave up there was a post with a weathered mark cut round it at about the height of a man's knee, and the mud stood four inches over the mark, and had for weeks.
 
-"Levels come down about the tenth," said Petrie.
+"Levels come down about the end of the month," said Petrie. "That is when the mark shows."
 
-"Ten days."
+"Nineteen days."
 
-"A week, maybe. There is a fortnight of it when it is right and about nine days of it when the low flat will take a loaded flatbed and a pump, and it is not weather, captain, it is water, and it will come when it comes."
+"Nineteen days, near enough. There is a fortnight of it when it is right and about nine days of it when the low flat will take a loaded flatbed and a pump, and it is not weather, captain, it is water, and it will come when it comes."
 
 "Right," said Tarin. "So nobody has to decide anything."
 

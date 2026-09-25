@@ -90,13 +90,13 @@ It was a small job. Thirty minutes with a spanner and a lapping plate and a smea
 
 Then he was alone in front of the plate.
 
-It had been in its seat since ten o'clock on Friday night. He had carried it up the ladder in the dark, put it in cold, written nothing, and said nothing, and inside twenty minutes the ninth ward's own feed had come back up on the Office's glass, and it had been running ever since, and it was now the only instrument in the city that had recorded the collision in full.
+It had been in its seat since ten o'clock on Friday night. It was the tower's own plate — the replacement he had cut out of Office stock on the Wednesday a week before and ground to the feed's thickness in an afternoon, and fitted on that Wednesday afternoon, the one Malle had put a knuckle against and passed in nine minutes — and he had carried it up this ladder in the dark on the Friday, put it in cold, written nothing, and said nothing, and inside twenty minutes the ninth ward's feed had come back up on it, and it had been running ever since. It was Office glass in an Office holder in a public building, and it was the only instrument in the city that had the whole of the collision on it.
 
 There it was.
 
 He put his hand on the frame the way he would on any instrument and read it standing up, the way you read a pressure trace: down through the whole of it, then up through the whole of it again, and then once more with the frame cold, because a man who reads a plate once has read a mood.
 
-Five days. Friday night's drainage, the whole of Saturday, the collision at about six, the eleven minutes of Release, the Witness out of order on top of the Break, the flat green light in the west, and then the drainage behind it — the basin emptying itself at the low end for two days and stopping on Sunday, which is when the low ground's drains and the low ground itself agree, and which is the single most useful line on the entire plate, and which nobody in the world could be told about by Marek Vale because he had a piece of glass in a locked room in a poor ward's tower and no chain of any kind.
+Four and a half days. Friday night's drainage, the whole of Saturday, the collision at about six, the eleven minutes of Release, the Witness out of order on top of the Break, the flat green light in the west, and then the drainage behind it — the basin emptying itself at the low end for two days and stopping on Sunday, which is when the low ground's drains and the low ground itself agree, and which is the single most useful line on the entire plate, and which nobody in the world could be told about by Marek Vale because he had a piece of glass in a locked room in a poor ward's tower and no chain of any kind.
 
 He could have drawn it. He had a pencil in his coat and a folding rule and a sheet of bench paper in the roll, and there is no faster way in the world to make a copy of a sequence trace than to put a rule across it and copy the lines, and it would have taken him about forty minutes, and the copy would have been exact, and it would have been in his coat by four o'clock.
 

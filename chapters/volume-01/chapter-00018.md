@@ -2,7 +2,7 @@
 
 He went up the ladder at eight on the Saturday morning with the spare plate's box in one hand and no reason at all in the other, which is a luxury he had not had since he was nineteen, and he had been on the low ground five days without sleeping and had noticed on the Thursday that he could no longer keep two things in his head at once unless one of them was glass.
 
-The document was in the second drawer of his bench on the ridge. He had started it on the Wednesday. It had four hundred and thirty words in it and every one of them was procedure, and the three sentences that were not procedure were in a different ink because he had gone back to them twice and had left them alone again, and he had got as far as the top of the third one and had understood that he was about to write the sentence *and my own reading of the order is not confirmed by any instrument in the Office*, which is true, and which is also an admission that a reader on a stone floor spoke six movements out loud to four hundred people on the strength of a piece of glass he had cut out of their own unpaid notice.
+The document was in the second drawer of his bench on the ridge. He had promised it to Anwen Sarr in a corridor on the ninth day and started it on the Wednesday, and it was the seventh day of the promise and the third day of the work, and the two numbers had been sitting in his head together for two days without turning into a sentence. It had four hundred and thirty words in it and every one of them was procedure, and the three sentences that were not procedure were in a different ink because he had gone back to them twice and had left them alone again, and he had got as far as the top of the third one and had understood that he was about to write the sentence *and my own reading of the order is not confirmed by any instrument in the Office*, which is true, and which is also an admission that a reader on a stone floor spoke six movements out loud to four hundred people on the strength of a piece of glass he had cut out of their own unpaid notice.
 
 There was a better version of that sentence. He had not found it yet.
 
@@ -10,15 +10,15 @@ So he was on Tannery Walk at eight on the sixteenth day of the Bellweather autum
 
 ---
 
-The feed seat was under the copper tank and the tank sweated, and the plate in it was the one he had carried up a ladder in the dark at ten o'clock on the Friday night of the previous week, and it was warm.
+The feed seat was under the copper tank and the tank sweated, and the plate in it was the tower's own. It was the replacement he had cut out of Office stock on the Wednesday morning of the week before last and ground to the feed's thickness in an afternoon, and fitted that same Wednesday afternoon, and it was the one Malle had put a knuckle against and said *plate* about and passed in nine minutes. It was the plate he had carried up this ladder in the dark at ten o'clock on the Friday night, and it was warm.
 
-That was the first thing: a sequence plate in a live seat should be cooler than the hand that goes near it, because the feed is a cold circuit. This one was warm. It had been running for eight days in a brick shaft in a cold season, and it was warm to within a degree of his own palm, and that meant the feed had been doing what a healthy feed does, which is holding a steady low gradient with the water moving, and a steady low gradient in a feed is the difference between a plate that shows a sequence and a plate that shows a smear.
+That was the first thing: a sequence plate in a live seat should be cooler than the hand that goes near it, because the feed is a cold circuit. This one was warm. It had been running seven days and ten hours in a brick shaft in a cold season, and it was warm to within a degree of his own palm, and that meant the feed had been doing what a healthy feed does, which is holding a steady low gradient with the water moving, and a steady low gradient in a feed is the difference between a plate that shows a sequence and a plate that shows a smear.
 
 He set the lamp up and read it.
 
 He did it properly, which took two hours, and the proper way is the way he had done it a few hundred times in his life and would have taught a glass-tender's apprentice in a fortnight. Down through the whole run, once, to find what the instrument was. Then up through it again, movement by movement, naming each one out loud under his breath because a man who reads silently has no way of knowing later whether he read a thing or remembered reading it. Then the whole run again with the lamp cold, and then once more with the frame tilted, because a tilt changes the incidence of the film and some things only show you at an angle.
 
-Friday night's drainage. All of Saturday, and the whole shape of the collision, which he had read off a plate in his coat on a stone floor, and which was here in a form that would survive him: Gather alone; Break standing in for an unfinished Weight; Route doubled, short hook under long one; Release at about five to seven, eleven minutes, complete; Witness out of order on top of the Break, at about ten past seven, which nobody in the world had published and which had been sitting in a locked room in a poor ward's tower for a week.
+Friday night's drainage. All of Saturday, and then the whole shape of the collision, which he had said out loud on a stone floor that same evening with the first of it already on the glass and the rest of it still to come, and which was here in a form that would survive him: Gather alone at about six; Break standing in for an unfinished Weight; Route doubled, short hook under long one; Release at about nine, eleven minutes, complete; Witness out of order on top of the Break, at about a quarter past nine, which nobody in the world had published and which had been sitting in a locked room in a poor ward's tower for a week.
 
 The basin emptying itself at the low end for two days and stopping on the Sunday.
 
@@ -66,13 +66,21 @@ The date was old enough to have browned the paper on a chart margin and there wa
 
 Above it, in the legible run, the rest of that night's registration was the ordinary business of a ward with a dry spell in it: a little water, a little pressure, nothing. The claim had not been made in that night. It had been made twelve years before that, in the same seat, in the same shaft, and whatever was left of it had come up through the glass underneath five days of ordinary weather and made itself visible because a man had gone back six days instead of stopping at two.
 
+And then he understood the part that was going to keep him awake, which was that it was not in this plate alone.
+
+There were two pieces of glass. On the Wednesday of the week before last he had run the pair in that seat face to face with a finger of air between them, the tower's own and the other one, because a plate ground to a feed's thickness seats behind a holder like that one and two plates in one holder take the same trace off the same feed. He had taken the other one out on the Friday morning and it had been in the tube in his coat ever since, and on Saturday evening it had been on a bench in a corridor on the ridge with a lamp behind it while nineteen people on a stone floor wrote down what he had said.
+
+So they were not two witnesses. Anything the cold under the fine trace was holding, it had been holding in both of them, on the same water, at the same hour, and the whole of the difference between them was a matter of who owned which, and not one syllable of evidence.
+
+The one he owned was in his coat, and the one that mattered was in a locked room in a poor ward's tower, and the poor ward's tower was on the Office's schedule.
+
 He could not account for it.
 
 That was the part he had to write down, if he was going to write down anything, and he was not going to write down anything, and so he said it to himself instead, standing in a cold shaft with a lamp in his hand:
 
 *There is no instrument in the maintenance manual in the office at the ridge that will tell me how a working plate holds a twelve-year-old registration, and I have read the manual, and it does not say, and there is no index in that building I am permitted to read that would tell me, and the only two people alive who have ever asked that question are both in offices I cannot get into without a reason, and I do not have a reason, and I am not going to manufacture one out of a piece of glass I have no right to remove.*
 
-He put his hand on the feed seat's frame, where the plate was sitting, warm from eight days of running, correctly installed, in its correct place, in a public building with a door and a keeper and a weather book and a glass book that had nothing in it since March.
+He put his hand on the feed seat's frame, where the plate was sitting, warm from seven days and ten hours of running, correctly installed, in its correct place, in a public building with a door and a keeper and a weather book and a glass book that had nothing in it since March.
 
 He did not take the plate.
 

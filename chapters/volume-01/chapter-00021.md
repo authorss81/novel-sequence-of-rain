@@ -20,7 +20,7 @@ The claim was on the bench in front of him in Sabin Orle's neat hand, and it rea
 *Sponsor: S. Orle, assessor, water scheduling.*
 *Concurring seat: Nacre Holds.*
 
-"Narrow," Sabin Orle said, from the other end of the bench, "bounded, an expiry inside thirty-one hours, an alternative that is worse for the district and is written down. Hearthward would not look at it. I am not bitter about that. Are you?"
+"Narrow," Sabin Orle said, from the other end of the bench, "bounded, an expiry at the second watch of the twenty-first, an alternative that is worse for the district and is written down. Hearthward would not look at it. I am not bitter about that. Are you?"
 
 "No," Marek said.
 
@@ -53,9 +53,9 @@ It did not say which turn. It did not say whose. It gave him the exact words Sab
 
 He had seen a panel like that once before, on a bench on the ridge, at eleven o'clock on a Thursday, in front of a copy clerk and four people who had walked up a hill in the rain. He had not slept properly for four days afterwards and a district had got six rooms wet and a season's seed into a market hall, and the claim had been true.
 
-The bell went. Not the entry bell — the certification bell, which is a hand bell, rung once, by the assessor.
+The bell went at ten. Not the entry bell — the certification bell, which is a hand bell, rung once, by the assessor.
 
-"Right," said Sabin Orle. "That is entered. It binds on the trigger and not before, and the trigger is the release, and the release is at 04:40 on the twenty-first, and the district has thirty-one hours to do whatever it is going to do. Thank you, Mr Vale. You are free to go or you are welcome to sit at the back, and if you sit at the back I am going to ask you to say nothing, and I want to explain the asking before I do it."
+"Right," said Sabin Orle. "That is entered at ten, and it binds on the trigger and not before, and the trigger is the release, and the release is at 04:40 on the twenty-first, and the district has just under forty-three hours to do whatever it is going to do. Thank you, Mr Vale. You are free to go or you are welcome to sit at the back, and if you sit at the back I am going to ask you to say nothing, and I want to explain the asking before I do it."
 
 She came down the bench and sat on the end of the right-hand one, in the seat next to him, which she had not had any reason to do.
 
@@ -79,7 +79,7 @@ The second was a count: a crossing schedule, a number of passes at intervals, in
 
 The third was not an instrument's at all. It was two entries, side by side, small, in a hand — and a sequence plate does not hold handwriting, so what he was looking at was not handwriting but the shape a set of marks leaves in a registration when a person has gone near an instrument that is writing everything down. Two entries. Two. He could not have told a soul what they were for.
 
-Three preparations, and he had seen the third of those shapes in a chart room the month before, on a strip of paper with a piece taken off the top of it, and the two things were the same kind of thing: a hole in a record, made by somebody who was not shaking.
+Three preparations, and there was a fourth shape he had seen the month before in a chart room, on a strip of paper with a piece taken off the top of it, and the two were not the same kind of thing and he was not going to pretend they were: the paper had had a piece cut off it by a hand, and what he was describing had been done to a room full of people by a bell.
 
 He could not produce one word of it.
 
@@ -113,7 +113,7 @@ The afternoon session filled the room to about eighty, which was more than that 
 
 Sabin Orle reported the certification at two o'clock and every part of it was correct. A claim entered under the Charter with a named sponsor, a published expiry, a listed alternative, a reader's attestation and a concurring seat. A release scheduled for 04:40 on the twenty-first. And then three pieces of paper from the district, and the room was warm about all three, and it was right to be.
 
-A market factor with forty years' reputation in the northern basin had booked eleven carts and two barrows for first light on the twenty-first, on the strength of a claim entered nine hours ago.
+A market factor with forty years' reputation in the northern basin had booked eleven carts and two barrows for first light on the twenty-first, on the strength of a claim entered four hours ago.
 
 The Nacre Holds grain convoy's agent had taken the 04:40 to 08:00 window with four chartered barges, and had lodged the booking through the Council's own office, with a time on it, before the day was out.
 
@@ -145,7 +145,7 @@ What he said was this. He said it slowly and in plain words, and he had not deci
 
 He heard the room change, and he kept going, because stopping was the thing he had always done.
 
-"There is a smear in the Release on that gate's record plate. It is not a dropout — a dropout drops hard and leaves a hard edge and a crescent, and this feed has one in it in March with a cause written on a tag in a drawer, and I have filed the cause. This thinned. It came back on a shallow slope, forty minutes late, with nothing behind it. That is the shape of a Release that has had the thing standing behind it taken away. It happened about ninety minutes ago, in this room, when that bell was rung.
+"There is a smear in the Release on that gate's record plate. It is not a dropout — a dropout drops hard and leaves a hard edge and a crescent, and this feed has one in it in March with a cause written on a tag in a drawer, and I have filed the cause. This thinned. It came back on a shallow slope, forty minutes late, with nothing behind it. That is the shape of a Release that has had the thing standing behind it taken away. It happened at ten o'clock this morning, in this room, when that bell was rung.
 
 "And under the plate, in the registration, there are three preparations still legible, and they have gone out.
 

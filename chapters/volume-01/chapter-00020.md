@@ -30,7 +30,7 @@ She put her hand flat on it.
 
 "Yes," said Anwen. "Sit at the end, Sabin, and let her come to the table when she wants to."
 
-Sabin Orle was forty-four and had been in the Council's technical cell for eleven years, and she had come up the hill on a Sunday evening coach because a district clerk had telephoned her on Monday morning and told her, in the clipped voice of a woman with a ledger open, that the Hearthward rain-garden assembly was declining to concur and would like to know the reasons for the record before they left the room.
+Sabin Orle was forty-four and had been in the Council's technical cell for eleven years, and she had come up the hill on a Sunday evening coach because a district clerk had telephoned her on Sunday morning and told her, in the clipped voice of a woman with a ledger open, that the Hearthward rain-garden assembly was going to decline to concur and wanted the reasons on the record before anything was filed.
 
 She came to the table now, and she was not defensive about it, and she had a folder.
 
@@ -86,7 +86,7 @@ Anwen Sarr signed at the bottom. Kell Bray countersigned it as clerk. He stamped
 
 "Clause four," said Sabin Orle, standing up and taking her folder. "Is that a legal requirement or a moral one?"
 
-"It is a legal requirement in the first sentence and a moral one in the second, and it is drafted so that a Council can satisfy the first and fail the second, and I have done that on purpose." Anwen Sarr held her hand out. "I have wanted to have this conversation for two years and you have given me forty minutes of it for free on a Sunday evening, and I would like it recorded that I think the trial is a good idea and that I am refusing it because you have got the order of your own experiment wrong, and those are two different sentences."
+"It is a legal requirement in the first sentence and a moral one in the second, and it is drafted so that a Council can satisfy the first and fail the second, and I have done that on purpose." Anwen Sarr held her hand out. "I have wanted to have this conversation for two years and you have given me forty minutes of it for free and a coach to get here, and I would like it recorded that I think the trial is a good idea and that I am refusing it because you have got the order of your own experiment wrong, and those are two different sentences."
 
 "They are two different sentences," said Sabin Orle, "and one of them is going to be in the minutes and it is not going to be the one you want."
 

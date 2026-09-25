@@ -10,7 +10,7 @@ Last completed chapter: **0021 — The Minutes**
 
 Last batch summary: `state/batch-summaries.md`, *Volume 01 — Batch 0002 (Chapters 11–21)*
 
-Prose status: **twenty-one chapters exist**, in `chapters/volume-01/`, approximately 52,000 words. **Three of the four planned bindings in Volume 01 are now dramatized**: the Hearthward conditional claim in Chapter 5, the Nacre Gate trial claim in Chapter 21, and the Kestrel corridor claim is still ahead in Chapter 29. Sable Orin's Chapter 8 binding remains, as it must, permanently unidentified. **The convoy's failure, the Lower Sill culvert's failure, the dry line, the spent-turn column, Tovan's demotion, the Oren chapter, the Chapter 47 routing fragment, and Marek's hearing loss are all still outline-level and must not be treated as having happened.** The **[proposed]** items in the Working canon block of `outline/volume-01.md` are collected in `state/continuity.md`; fold them into the bible at the volume audit.
+Prose status: **twenty-one chapters exist**, in `chapters/volume-01/`, **69,236 words** (Batch 0001, Chapters 1–10: 36,161; Batch 0002, Chapters 11–21: 33,075). Corrected at the Batch 0002 review; the earlier figure of 52,000 understated the manuscript by some 17,000 words and should not be used for pacing calls. **Three of the four planned bindings in Volume 01 are now dramatized**: the Hearthward conditional claim in Chapter 5, the Nacre Gate trial claim in Chapter 21, and the Kestrel corridor claim is still ahead in Chapter 29. Sable Orin's Chapter 8 binding remains, as it must, permanently unidentified. **The convoy's failure, the Lower Sill culvert's failure, the dry line, the spent-turn column, Tovan's demotion, the Oren chapter, the Chapter 47 routing fragment, and Marek's hearing loss are all still outline-level and must not be treated as having happened.** The **[proposed]** items in the Working canon block of `outline/volume-01.md` are collected in `state/continuity.md`; fold them into the bible at the volume audit.
 
 **Batch 0002 reconciliations, all recorded in the batch summary:** nothing in Chapters 1–10 was restarted, rewritten, or renumbered, and no contradiction with it was found. The two Chapter 8 dates remain unresolved in prose and no character in Chapters 11–21 states which is correct. The Office's *collision* hour and its *corridor* hour are now used separately and correctly, and no hours-to-arrival appears anywhere. A plate's readable depth was resolved on the page (two days of fine trace over a longer cold substrate), which is what makes the Chapter 18 twelve-year Witness possible. Chapter 5's plant was not restated. Malle's Chapter 21 anecdote was rewritten to end without deaths, because Volume 01 contains none.
 
@@ -25,6 +25,32 @@ Current power state: Marek is a Reader. He has made two certified or sponsored b
 Planning decisions locked this phase:
 
 - **Weekday map.** Day four = Monday, so day ten = Sunday, eleven Monday, twelve Tuesday, thirteen Wednesday, fourteen Thursday, fifteen Friday, sixteen Saturday, seventeen Sunday, eighteen Monday, nineteen Tuesday. **The collision reached the basin at about 18:00 on day nine.** No chapter states an absolute hours-to-arrival and none may, and no outline card may reintroduce one. State a clock time and a day.
+- **Chapter → day, prose canon, Chapters 1–21. Added at the Batch 0002 review because the retired card table was the only place this lived and the loss of it is what let two chapters drift a day apart without anybody noticing.** Use this, not the card tables.
+
+| Ch | Day | Weekday | Where the clock sits |
+| --- | --- | --- | --- |
+| 1 | 4 | Monday | 21:40. The Office's published figure. |
+| 2 | 5 | Tuesday | from 06:00. |
+| 3 | 6 | Wednesday | 10:00–16:00. The pane is cut in the afternoon. |
+| 4 | 7 | Thursday | 09:15. The ward ledger bench. |
+| 5 | 7 | Thursday | 11:00. The Hearthward conditional claim; leading rain arrives 23:00. |
+| 6 | 7–8 | Thu night | 23:00. The night the Hearthward row floods. |
+| 7 | 8 | Friday | 08:30. The bench; the second belt 01:20–04:40. |
+| 8 | 8 | Friday | 16:00. The low ground. |
+| 9 | 9 | Saturday | 10:30. The market hall. |
+| 10 | 9 | Saturday | 17:00, then 17:20 on the ridge. The collision comes at about 18:00. |
+| 11 | 9–10 | Sat eve | 18:10 on the ward floor, into the small hours of Sunday. |
+| 12 | 10 | **Sunday** | 08:00, district office. The prose says Sunday; the lost wages are Friday's. |
+| 13 | 11 | **Monday** | Kestrel Yards. Slate's agency report was filed on the Wednesday of the sixth. |
+| 14 | 12 | **Tuesday** | The drying room, from 08:00; the fourth refusal at 11:20. |
+| 15 | 13 | **Wednesday** | The Ninth Ward tower; he walks down Tannery Walk at the end. |
+| 16 | 14 | **Thursday** | The outfall from 16:30. **He did not go to the kitchen on the Wednesday; the outfall is the next day.** |
+| 17 | 14–15 | Thu–Fri | Ferrygate. The Thursday is the fourteenth, the ordinary return goes on the Friday the fifteenth. |
+| 18 | 16 | **Saturday** | The Ninth Ward tower from 08:00. |
+| 19 | 17 | **Sunday** | The Weatherglass at 09:30, then the yards. |
+| 20 | 18 | **Monday** | Hearthward assembly rooms. The corridor conversation is the Sunday night before. |
+| 21 | 19 | **Tuesday** | The Council's technical cell. The certification bell is rung at ten. |
+
 - **The cuff holds exactly two readings and one filing mark, in three blocks of space.** A mark is not a reading. The third block is full and he has twice declined to write in it. Do not write "three readings."
 - **The trial claim's cost is a compound branch of three linked preparations and it is unprovable.** No later batch may produce a document, a witness, a name, or a paper that comes close, and no state file may describe how anyone could prove it. The institution's answer is already on the page: the unprovability is the design.
 - **Exactly one binding remains in Volume 01: the Kestrel corridor claim in Chapter 29.** The convoy is loaded and does not move until Chapter 31, and nobody says it will not go.

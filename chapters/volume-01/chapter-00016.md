@@ -1,6 +1,6 @@
 # Chapter 16 — A Pipe That Is Already Full
 
-He did not go to the kitchen first. He went to the outfall, because there was a reason to go to the outfall, and because a man who has arranged to visit his father puts the visit after the errand, and because he had been constructing reasons since the top of Tannery Walk.
+He did not go to the kitchen first. He walked down Tannery Walk to the bottom of it on the Wednesday and then went back up the hill again, because two streets is not a distance and the whole of the afternoon had gone on deciding that it was. He went to the outfall on the Thursday instead, because there was a reason to go to the outfall, and because a man who has arranged to visit his father puts the visit after the errand, and because he had been constructing reasons since the top of Tannery Walk.
 
 The reason was a plate and a gauge and about eleven minutes' work, and it was a real reason. The ninth ward's low ground drains through a run that comes out under a stone apron at the bottom of Sump Lane, and the apron had a tide-gauge on it that the district read by eye and the Office did not read at all, and Marek had a strip of glass in a tube and forty minutes before the light went off the outfall completely.
 
@@ -52,7 +52,7 @@ He put a plate on the table.
 
 "Uh."
 
-"One is a document Anwen Sarr has asked me for and I have promised her, and I haven't written it, and I've had four days to write it and I haven't."
+"One is a document Anwen Sarr has asked me for and I have promised her, and I haven't written it, and I've had five days to write it and I haven't."
 
 "Then you don't know what goes in it," said Oren Vale.
 
@@ -132,7 +132,7 @@ There was a long moment.
 
 "No," said Oren Vale. "You could, and I would tell you, and it would not be any use to you, and I have not got the energy this week and neither have you. Sit down and finish your tea and go back up that hill."
 
-He did not say the thing. He had come down Tannery Walk with a plate in a tube and a gap in a moisture trace and a document he owed a woman, and he had come two streets off his own errand to find out whether the man who had been the reason the low ground had a rota was the man who had been the reason the ward had no glass, and he had spent an hour and three quarters inside a kitchen with him and had got his mechanism and had not said the sentence.
+He did not say the thing. He had come down Tannery Walk with a plate in a tube and a gap in a moisture trace and a document he owed a woman, and he had come two streets off his own errand to find out whether the man who had been the reason the low ground had a rota was the man who had been the reason the ward had no glass, and he had spent an hour and a half inside a kitchen with him and had got his mechanism and had not said the sentence.
 
 He got up and put his coat on.
 

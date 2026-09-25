@@ -1,6 +1,6 @@
 # Chapter 12 — The Fifth Line
 
-At eight in the morning on the tenth day, the district office on the corner of Sump Lane had a kettle, three people who had not been to bed, and eleven people who had gone to bed at nine and been woken at four by water.
+At eight in the morning on the tenth day, which was a Sunday and the only morning any of them was going to get, the district office on the corner of Sump Lane had a kettle, three people who had not been to bed, and eleven people who had gone to bed at nine and been woken at four by water.
 
 That was the whole of the victory, and nobody in the room called it a victory, because a district that has come through a Bellweather without a death does not congratulate itself before breakfast; it counts.
 
@@ -42,7 +42,7 @@ They were going to ask it in about two minutes and she was going to have to answ
 
 "The ward is a word for a building," said the captain of the third block.
 
-"Yes," said Neris Kade. "It is, and I am the one in it, and I emptied that school on my own authority on Friday evening at six o'clock without a forecast, without a claim, and without anybody upstairs's signature, and it has cost this district a morning of wages. Put it in the book. I will put it in the book. It is in the book already because Ott was awake when I wrote it down at four this morning, and it says *school closed on the warden's own authority, no notice, wages not recovered*, and there it is, and nobody has to raise it again."
+"Yes," said Neris Kade. "It is, and I am the one in it, and I shut that school on Friday morning at ten on my own authority with no notice and no claim, and I emptied it again on Friday evening at six o'clock and kept it shut all night, and it has cost this district a morning of wages, and a morning of wages is the cheapest thing the ward owns. Put it in the book. I will put it in the book. It is in the book already because Ott was awake when I wrote it down at four this morning, and it says *school closed on the warden's own authority, no notice, wages not recovered*, and there it is, and nobody has to raise it again."
 
 The captain of the third block looked at the notebook for a while.
 

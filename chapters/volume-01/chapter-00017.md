@@ -2,7 +2,11 @@
 
 Nell Cray had been the clerk of the Ferrygate district assembly for nineteen years and her entire professional ambition, which she had stated out loud to a council at the time of her appointment and had been gently mocked for ever since, was to get through a week in which nothing interesting happened.
 
-The week of the fifteenth day of the Bellweather autumn was the best week she had had in four years. The western airs went soft and warm on the Thursday and the reach drained down past the low marker by the Friday afternoon, the road up from the ferry landing dried out to the top layer and stopped, and the only weather item on her board was a *possible* release at the Nacre Gate some time in the next ten days, of an uncertain size, at an uncertain hour, which is the single most useful kind of item a district can have on a board, because there is nothing at all to do about it yet.
+The week of the fifteenth day of the Bellweather autumn was the best week she had had in four years. The western airs went soft and warm on the Thursday and the reach drained down past the low marker by the Friday afternoon, the road up from the ferry landing dried out to the top layer and stopped, and the only weather item on her board was a *possible* release at the Nacre Gate some time in the next ten days, of an uncertain size, at an uncertain hour, which is the single most useful kind of an item a district can have on a board, because there is nothing at all to do about it yet.
+
+The low marker was the cart marker, cut for the wheel of a loaded barrow at the turn where the causeway leaves the quay steps, and everything the market needed came off the reach above it.
+
+The flat was a different water and a foot and a half lower, below the marker and below the hard ground at the freight turn, and it gave its water up at the bottom of the ebb and not before, and the bottom of the ebb was not due until the end of the month. No cart had ever gone down there. Nobody in Ferrygate knew it by sight.
 
 The market was the thing. The Ferrygate market was three hundred yards of cobbles and canvas between the ferry landing and the gate road, and it had opened on the Saturday and had done so every Saturday for two hundred years, and it was the reason anybody came to Ferrygate at all, and the reason the Ferrygate district existed as a body that met, was that when the low flat is soft the carts cannot get in and out and a market that has to close is not a market, it is a room with vegetables in it.
 
@@ -113,7 +117,7 @@ And then she turned round and said: "You're still doing the sheet?"
 
 ---
 
-Nell Cray walked back up the lane at half past five on the Thursday with the wet-season release band in her pocket and nothing at all on her board for Friday, and the two of them at number four still in the ground-floor rooms with a barometer with no glass in it and a boat hook in the corner, and the causeway dry, and the reach down, and the market that had opened on the Saturday and would open on the Saturday after that.
+Nell Cray walked back up the lane at half past five on the Thursday with the wet-season release band in her pocket and nothing at all on her board for Friday, and the two of them at number four still in the ground-floor rooms with a barometer with no glass in it and a boat hook in the corner, and the causeway dry, and the cart marker's post standing out of the mud at the turn like a bad tooth, and the market that had opened on the Saturday and would open on the Saturday after that.
 
 She had been doing the sheet for six years. She had never once written on it why.
 
@@ -123,7 +127,7 @@ On the Friday morning a clerk from the water office came down on the market bus 
 
 Nell Cray read it, said thank you, put it in the district book, and went out to the market.
 
-The causeway was dry. The channels were clear. The rain gardens were cut back and the beds were doing nothing, which was what rain gardens do in a dry fortnight, and the two crews on the rota had turned out at ten on the Tuesday and at ten on the Thursday and had cleared the low side and gone home, and the ferryman had his extra hours posted on the board by the landing in case the lane went, which it had not, and would post them again in the wet, and nobody in Ferrygate had given that a second thought in six years because it was not a thought; it was just Tuesday.
+The causeway was dry. The channels were clear. The rain gardens were cut back and the beds were doing nothing, which was what rain gardens do in a dry spell, and the two crews on the rota had turned out at ten on the Tuesday and at ten on the Thursday and had cleared the low side and gone home, and the ferryman had his extra hours posted on the board by the landing in case the lane went, which it had not, and would post them again in the wet, and nobody in Ferrygate had given that a second thought in six years because it was not a thought; it was just Tuesday.
 
 She got through the Friday.
 

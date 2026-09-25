@@ -28,7 +28,7 @@ Where the cast stands at the end of the most recently completed batch. For plann
 
 ## Neris Kade
 
-**Where she is:** Low Spindle, the eleventh day, with a five-line page in a locked drawer, a wet notebook copied out in her own district's hand, a school day and a morning of wages paid for by the ward, and a letter outstanding at a yard.
+**Where she is:** Low Spindle and then a drying room, **last seen on the twelfth day**, with a five-line page in a locked drawer, a wet notebook copied out in her own district's hand, one morning of wages paid for by the ward and a school opened again on the Saturday morning because the water had not come, and a letter outstanding at a yard.
 
 **State:** **Anger has become a document.** She has written the fifth line and it is not the one anybody expected, and she knows she got away with something by writing it. She has asked the city for a *turn* rather than a window, in a district she can be answerable for, and has made herself a reader as well as a warden. She has told Sable Orin, in a drying room, exactly why she is not going to translate a corridor into four blocks a second time, and it was the correct reason.
 
@@ -36,7 +36,7 @@ Where the cast stands at the end of the most recently completed batch. For plann
 
 ## Corrin Malle
 
-**State:** Came up the hill on a Sunday coach, out of hours, to clap for a method he staffs, with a sandwich. **He read clause four on the nineteenth of the month in a bed in a rented room and told Marek the price of saying it in a certifying room, and he was right about the price, and Marek did it anyway.** He has now said aloud that the Office cannot use a man who has been shown to be unprovable in public, which is the decision he made in advance. He has not yet buried anything, because the spend he will bury has not happened. **He still holds the Bellweather entry.**
+**State:** Came up the hill on a Sunday coach, out of hours, to clap for a method he staffs, with a sandwich. **He had clause four on his desk from the previous afternoon — the eighteenth — and had read it four times before he came up the hill, and he told Marek the price of saying it in a certifying room, and he was right about the price, and Marek did it anyway.** He has now said aloud that the Office cannot use a man who has been shown to be unprovable in public, which is the decision he made in advance. He has not yet buried anything, because the spend he will bury has not happened. **He still holds the Bellweather entry.**
 
 ## Lior Venn
 
@@ -52,7 +52,7 @@ Where the cast stands at the end of the most recently completed batch. For plann
 
 ## Sabin Orle
 
-**New in prose this batch.** Forty-four. Council assessor for water scheduling, eleven years in the technical cell, sponsor of the trial claim. Four certified claims behind her, all of them true, three of them true where an uncertified forecast would have been wrong. Drove up on a Sunday evening to hear a refusal. **Not a villain, not offended, and loses nothing for saying the sentence that is the thesis of the volume: it is not accidental that a claim's cost cannot be documented; it is the design.** She is the method's champion and its honest one, and the first person to be genuinely glad Marek is in the room and genuinely sorry afterwards.
+**New in prose this batch.** Forty-four. Council assessor for water scheduling, eleven years in the technical cell, sponsor of the trial claim. Four certified claims behind her, all of them true, three of them true where an uncertified forecast would have been wrong. Was telephoned by the Hearthward clerk on the Sunday morning and came up on the Sunday evening coach to hear a refusal before anything was filed. **Not a villain, not offended, and loses nothing for saying the sentence that is the thesis of the volume: it is not accidental that a claim's cost cannot be documented; it is the design.** She is the method's champion and its honest one, and the first person to be genuinely glad Marek is in the room and genuinely sorry afterwards.
 
 ## Nell Cray
 
@@ -66,18 +66,21 @@ Where the cast stands at the end of the most recently completed batch. For plann
 
 **State:** **Present in prose for the first time in this batch, and not reconciled.** Sixty-one, retired culvert and pump mechanic, nine years in the ninth ward's outfall run and eleven years telling the ward that the ward runs on a rota and not on a glass. **He gave Marek the full-pipe mechanism, unprompted and better than the Weather Office has it, and Marek arrived already knowing it.** He knows nothing about the claim, the plate, the feed fault, the cuff, the private plate, the trace, or the trial. **He does not mention Anja and refuses in advance of the question.** There is a bent bracket off the third hook that has been bent for a year and neither of them touched it. He said: *come on a Tuesday when it's a nuisance and nothing's happened.* Chapter 34 is still the Oren chapter and it is not a chapter in which they are right with each other.
 
-## Tarin, Kell Bray, Ott Belm, Gant Ollis, Maro Hesk, Ivo Slate, Nell Cray, Ferren
+## Ferren
 
-- **Gant Ollis:** keeper of the Ninth Ward tower, eleven years. Carried two plates down a ladder at first light and has never asked. Keeps everything, including about a decade of Oren Vale's arithmetic in the tower's outfall-run book. Has a brass surround now.
+**State:** **Restored at the Batch 0002 review, which found his state had been dropped in error.** At the bottom of Hearthward's lowest row with a barrow he did not use. Says he has no memory of the night he did not work, that nobody stood him down, and that he cannot get past the fact that nothing went wrong and he was glad. Not lying. Counter-memory, first appearance, delivered to a stranger on purpose. **In Batch 0002 he is present and silent at the back of the Hearthward assembly in Chapter 20, in his cap, while the one prepared district in the basin refuses to sign, and nobody asks him for his account a second time. He is nine years the rain-garden foreman and the standing order on that row is the same length as his tenure; the water steward has been telling him when to come for three years.** Nobody may make him the mechanism of the Hearthward spend. He is the first of the two counter-memory appearances, and the loud one is Chapter 33.
+
+## Kell Bray, Ott Belm, Gant Ollis, Maro Hesk, Ivo Slate
+
+- **Gant Ollis:** keeper of the Ninth Ward tower, eleven years, sixty-three or sixty-four. Carried two plates down a ladder at first light and has never asked. Keeps everything, including about a decade of Oren Vale's arithmetic in the tower's outfall-run book. Has a brass surround now, and a working feed, and for the first time in two years a boxed spare he will never be told about.
 - **Ott Belm:** the ninth ward's district copy, nineteen, in the service nine weeks. Wrote the order down as it was said, with the times, and did not tidy it up. **His wet notebook is the only document in Veyra that says any of what happened that night.**
 - **Kell Bray:** Hearthward assembly clerk, thirty-one, twenty years in a ledger, writes without lifting the pen. Filed a four-clause refusal as it was read aloud to him and was given a second page without being asked.
 - **Maro Hesk:** forty-one, weather-window broker and insurer. In prose, with contracts, and **not an antagonist.** The Exchange is the customer of the pressure, not its author.
-- **Ivo Slate:** courteous, licensed, and has now written the Kestrel Line's four conditions on his own Exchange board and agreed to read them out to anybody who asks.
-- **Ferren:** present and silent in Chapter 20, in his cap, at the back. His account of Thursday is unchanged and nobody in this batch asked him for it.
+- **Ivo Slate:** courteous, licensed, and has now written the Kestrel Line's four conditions on his own Exchange board and agreed to read them out to anybody who asks. **His small agency report was filed on the Wednesday of the sixth, the day after the Kestrel board carried an hour that anybody could check and three days before the collision** — it follows the board and precedes the collision, and may not be described as a response to the collision.
 
-## Cassian Rook, Ione Sere, Anja Vale, Juba Tren, Sabin Orle's file
+## Cassian Rook, Ione Sere, Anja Vale, Juba Tren
 
 - **Cassian Rook:** **has still not appeared in prose and is not named.** His approval stamp does not exist on anything yet.
 - **Ione Sere:** **has still not appeared in prose and is not named.** Her lie is Chapter 47.
 - **Juba Tren:** appeared once, on the front steps, with a shovel. Has not appeared since and has said almost nothing on purpose.
-- **Anja Vale:** named in a hand on a chart margin, and now — **separately and without connection made by any character** — a date twelve years back in the substrate of a plate in her son's coat pocket. She is dead and unrecoverable and the reader has been told nothing about how or why.
+- **Anja Vale:** named in a hand on a chart margin, and now — **separately and without connection made by any character** — a date twelve years back in the substrate of the tower's own plate, in a locked room in a poor ward's tower, **and in the substrate of the second plate that ran face to face with it off the same feed, which is the one in her son's coat.** The room is where the record is; the coat is where the only other copy of it is, and the two are not independent. She is dead and unrecoverable and the reader has been told nothing about how or why.
