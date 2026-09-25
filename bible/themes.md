@@ -47,6 +47,18 @@ The Marek–Tarin relationship develops through professional disagreement and ma
 
 Storms are physical hazards, not evil creatures. The final enemy is not a monstrous sky. The final conflict is a human habit of turning shared conditions into private command. A city that can acknowledge interdependence without demanding perfect obedience is the story’s positive image.
 
+## Competing positions
+
+The story should not make every institution a disguised version of Rook.
+
+- **Rook** believes decisive central claims are the only humane response to a moving crisis.
+- **The Cloud Exchange** believes private prices are a fair way to allocate scarce weather windows, even when public alternatives disappear.
+- **Local assemblies** value consent and repair but can be timid, fragmented, and tempted to hide costs from outsiders.
+- **The No-Forecast Assembly** values untouched choice and can accept real loss rather than let a binding claim decide for them.
+- **Marek** wants useful action, but his mistake is treating expertise as permission to narrow the world alone.
+
+These positions are not settled by one speech. Each must be tested by a practical situation in which its preferred solution creates a different kind of harm.
+
 ## Recurring tests for the plot
 
 Every major choice should answer at least one of these questions:
@@ -59,3 +71,11 @@ Every major choice should answer at least one of these questions:
 6. Does the solution preserve agency for the people who must live with the result?
 
 The story should not repeat the same answer in a louder voice. Progress means changing the terms of the choice: from private certainty, to public evidence; from a single official claim, to a bounded local network; from a protected subject, to a participant with standing.
+
+## Physical motifs
+
+- **Water marks** on glass, walls, and maps record where a sequence reached and what it displaced.
+- **Paper trails** of forecast copies, permits, repair orders, and compensation claims make authority visible.
+- **Hands** repairing instruments, signing records, holding a rudder, or reaching for a stranger’s rope show that weather work is labor, not prophecy.
+- **Open doors and closed routes** recur in different scales, from a ward culvert to a basin-wide forecast.
+- **Grief without restoration** keeps the story from turning loss into a reward or a puzzle to be solved.

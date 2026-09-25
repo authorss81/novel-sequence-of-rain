@@ -2,11 +2,15 @@
 
 ## The city of Veyra
 
-Veyra is a dense city-state built in the shallow basin known as **the Sill**. Lake Orra lies to the west, the Nacre Range closes the northern horizon, and the broad floodplain of the **Low Sill** opens toward the southern farms. The city has grown around nine watersheds rather than a single street plan. Each watershed has its own storm ward, reservoir, market, and local assembly.
+Veyra is a dense city-state built in the shallow basin known as **the Sill**. Lake Orra lies to the west, the Nacre Range closes the northern horizon, and the broad floodplain of the **Lower Sill** opens toward the southern farms. The city has grown around nine watersheds rather than a single street plan. Each watershed has its own storm ward, reservoir, market, and local assembly; several watershed boundaries continue beyond Veyra into Morrow Fen, Red Sill, and Ternway.
 
 Veyra is modern in its civic life but not frictionless. Electric trams run beneath elevated weather rails. Airships dock at the Kestrel Yards. Print presses, radio weather bulletins, pneumatic dispatch tubes, mechanical calculators, and storm-glass instruments sit alongside older communal rain gauges. Most people do not think of the weather as untouched nature; they think of it as a dependency that must be maintained, budgeted, and distrusted.
 
 The skyline is low enough to see weather coming. Copper gutters divide the roofs. Water tanks line the upper terraces. On clear mornings, the nine ward towers show as thin black lines above the haze, each carrying a different color of signal glass.
+
+Veyra is the largest city-state in the **Ninefold Basin**, but it is not isolated. The basin’s weather moves across several polities with different needs, and the city’s central forecasts often travel farther than the authority that made them. **Morrow Fen** to the north supplies peat, reed, and cheap grain but depends on Veyra’s rain capture. **Nacre Holds** in the mountains supplies glass, copper, and ore in exchange for food and medicine. **Red Sill** to the south grows fruit and olives on the basin’s driest farms and argues that Veyra’s towers steal too much rain from its soil. **Ternway** controls several airship passages through the western updrafts and sells route access to anyone who can pay. Their governments send delegates to the Weather Council, but none accepts Veyra’s right to bind a forecast over their farms or ports.
+
+The basin’s main trade routes are practical rather than heroic. Grain moves south on barges, glass and metal move down from the Nacre Holds, and medicine moves west on Ternway’s airships. A disputed forecast can therefore close a market, a repair window, or a medicine route before anyone in Veyra understands why. Regional trade is the reason the city cannot retreat into a purely local solution.
 
 ## Weather in ordinary life
 
@@ -21,6 +25,16 @@ Veyra has several kinds of weather work:
 - **Ledger clerks** record what was predicted, what was spent, who relied on the claim, and what compensation remains unpaid.
 
 The official weather office is trusted for its instruments and feared for its omissions. A district can accept a forecast, challenge it, or refuse it if it can show that it has a workable alternative and accepts the consequences. In practice, that right has been narrowed by law, budgets, and the assumption that only experts can calculate the cost of being wrong.
+
+## The regional weather pattern
+
+Rain enters the Ninefold Basin from the Nacre Range, stalls against the lake, and then divides among three broad paths. A wet north-east flow feeds Morrow Fen and the upper reservoirs. A southward split warms over Red Sill and can become a dry wind. A western draw through Ternway produces the fast pressure turns that make airship windows valuable and dangerous. The pattern is ordinary enough to measure and strange enough to resist a single regional rule.
+
+The Meridian can make a local sequence more orderly, but it cannot make the basin receive unlimited water. A forecast that sends rain toward one region may dry another; a forecast that opens a western wind can save a ship while flooding a low ward. The story’s political conflicts grow from this physical fact: the same movement can be a gift to one trade route and a theft from another.
+
+The **Weather Council** is a regional treaty body with nine Veyran watershed seats, three rotating regional seats that represent the neighboring polities, and a Crown Basin custodian who controls the central lock. The regional seats rotate among Morrow Fen, Nacre Holds, Red Sill, and Ternway; each of those communities also has a standing, non-voting seat in the relevant forecast cell and can refuse a merge that threatens its own watershed. A basin-wide claim requires eight of the twelve Council votes, a named local sponsor, and a published expiry. An emergency mandate can be withdrawn by the same eight-vote quorum, including at least one regional seat. The Council can certify a basin-wide claim, suspend a tower, and authorize a merge of local forecasts. It cannot rewrite local land law, but it controls the instruments and contracts that make regional coordination possible. Its charter is the legal source of the central authority the Meridian later obeys.
+
+The central lock recognizes the quorum, not the director’s personal command. A director can still force the lock with a physical key, but doing so overrides the recognized witness and creates a counterturn rather than a clean authorization. This distinction is why Rook can be removed from the mandate without pretending that a compromised machine becomes harmless.
 
 ## The Meridian
 
@@ -48,9 +62,11 @@ After a decade of relative stability, the Weather Council centralized the networ
 
 ### The Meridian Cut
 
-Twelve years before the opening, a group attempted to disconnect a failing ward without triggering a basin-wide sequence reversal. Forecast researcher **Anja Vale** discovered that the office had been hiding the cost of several “successful” forecasts. During the Meridian Cut, she entered Crown Basin to preserve an unspent evacuation route. The official account says she was lost when the Cut collapsed. In truth, she deliberately closed a branch that would have sent the collapse into Low Spindle, and the route she preserved was later erased from the public record.
+Twelve years before the opening, the Weather Council ordered a failing Ninth Ward tower disconnected during a dry inversion. The emergency director at the time, **Cassian Rook**, signed the order after a council vote that concealed the projected effect on Low Spindle. Forecast researcher **Anja Vale** discovered that earlier “successful” forecasts had spent the branches needed for a low-ward evacuation and entered Crown Basin to preserve the remaining Ninth Ward corridor.
 
-The Cut remains a legal scar. The Weather Office calls it a maintenance accident. Families in Low Spindle call it the year the rain learned to lie.
+During the Cut, Anja deliberately closed one branch to keep the reversal out of Low Spindle. She failed to save the route she had hoped to preserve, and the collapse killed her. The Ninth Ward corridor itself was not spent: its physical maintenance passage and the local witnesses remained. Rook ordered the route marked unsafe and instructed the records office to remove the supporting readings. The Office’s later custodians turned that concealment into a clean maintenance story.
+
+The Cut remains a legal scar. The Weather Office calls it a maintenance accident. Families in Low Spindle call it the year the rain learned to lie. Ione Sere signed the first deletion order under pressure; her confession matters because she helped make Rook’s decision durable, not because she was the only hand in the chain.
 
 ## Regions and locations
 
@@ -78,6 +94,8 @@ The dry central basin above the Meridian’s upper chambers. It contains the old
 
 Each tower serves a watershed and connects to the Meridian through buried veins. Towers can be repaired locally, but a tower that reconnects without a public warrant can be used to issue a hidden claim. The tower network is both infrastructure and a political map.
 
+No two towers have identical work. The Low Spindle tower watches drainage and heat trapped around the workshops. Kestrel Yards’ tower records wind shear over the lake. Hearthward’s tower protects rooftop seed vaults and markets. The northern farms’ tower measures soil moisture and late frost; the Red Sill tower tracks the dry split; the remaining towers maintain canals, mountain melt, public transit, and the water supply. A local reader can know one of these systems intimately and still be dangerous when asked to speak for all nine.
+
 ## Factions and institutions
 
 ### Veyran Weather Office
@@ -96,6 +114,8 @@ A private market for airship windows, storm charters, rain credit, and weather i
 
 Neighborhood bodies that manage schools, water, roads, and emergency shelters. They can issue local weather notices, challenge Office claims, and refuse a binding forecast if they assume responsibility for an alternative plan. The Weather Council has spent decades narrowing this authority.
 
+Some assemblies are conservative and want stronger central claims because a single answer is easier to fund and defend. The **No-Forecast Assembly** in Hearthward is a separate movement, not a secret faction: it argues that any binding claim is violence against the future and wants all towers shut down. Its members are willing to accept crop loss and flood risk rather than let officials close doors on their behalf. The movement is a useful moral counterweight and can cause genuine harm when its districts are hit by a preventable storm.
+
 ### The Quiet Ledger
 
 A dispersed network of archivists, instrument makers, former Office clerks, and ward technicians who preserve suppressed forecast records. The name comes from their habit of leaving blank columns in old ledgers. The group is not a uniform cult. Some members want truth published; some believe dangerous knowledge should remain controlled; some are simply preserving evidence of what the Office did.
@@ -108,4 +128,4 @@ The absence is real. It is not proof that every person remembers every lost poss
 
 ## Author-facing world endpoint
 
-By the ending, Veyra is not a city without weather danger. It is a city with a **Weather Commons**: nine locally governed forecast cells, public records of binding claims, visible compensation, an appeal process, and a rotating council. The Meridian still coordinates atmospheric sequence, but it can no longer merge all local claims into one unquestionable answer. The final safety is shared uncertainty, not perfect control.
+By the ending, Veyra is not a city without weather danger. It is part of a **Weather Commons**: nine watershed-governed forecast cells, with Veyran towers as their local instruments and standing seats for the neighboring basin communities, plus public records of binding claims, visible compensation, an appeal process, and a rotating council. The Meridian still coordinates atmospheric sequence, but it can no longer merge all local claims into one unquestionable answer. The final safety is shared uncertainty, not perfect control.
