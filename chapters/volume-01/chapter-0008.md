@@ -114,7 +114,7 @@ The number was *second belt, low blocks first, 01:20 to 04:40, and the undercrof
 
 "Yes."
 
-"It was right. The water came exactly where you said." She put the card in her coat. "It changed things afterwards, though. We had run that rota for six years off a sheet of paper the ward copied out once and never looked at again. After that night the list was different, and when I asked, the woman who had written the original out said she could not remember doing it, and she was not playing at anything, she had plainly forgotten, and the original in my own book at home does not match the rota that ran. Nobody can find the sheet it was copied from. That is not anybody's fault and it is not a small thing to me, Sergeant, that I cannot find out."
+"It was right. The water came exactly where you said." She put the card in her coat. "It changed things afterwards, though. We had run that rota for six years off a sheet of paper the ward copied out once and never looked at again. After that night the list was different, and when I asked, the woman who had written the original out said she could not remember doing it, and she was not playing at anything, she had plainly forgotten, and the original in my own book at home does not match the rota that ran. Nobody can find the sheet it was copied from. That is not anybody's fault and it is not a small thing to me, that I cannot find out."
 
 "Yes," said Sable Orin, and stopped, and for the first time in twenty minutes did not have a sentence ready.
 
@@ -130,11 +130,11 @@ She did it on her own authority, as a warden, under a standing order that let he
 
 Which is the whole bargain, thought Neris Kade, standing in the wet in front of forty-one children. Nothing spent. That was the word for it. Nobody's possibility had closed. The only thing that had gone was a morning, and the morning had belonged to them and not to the weather, and the Office would never put it in a book because nothing had happened in the sky.
 
-The glazier who came at first light to look at the market's storm pane told her, on her way down, that the Hearthward assembly chair had been up at the Weatherglass twice this week and had read the same claim on the ward board both times through a glass, and had gone away saying nothing either time, and had come back on Saturday morning with a clerk and a man in a wet coat. Neris wrote that down as well.
+The glazier who came at first light to look at the market's storm pane told her, on her way down, that the Hearthward assembly chair had been up at the Weatherglass twice this week and had read the same claim on the ward board both times through a glass, and had gone away saying nothing either time. Neris wrote that down as well.
 
 She got back to the district office at a quarter past eight with Sable Orin's card still in her coat, and she pinned the card to the board, and she wrote the pump order off it, which was the real work of the night: the low blocks first, the Sump Lane grate crew up onto the terrace and into the school undercroft before midnight, both crews on the terrace end of the drain run standing by at the second pump house, and the ward's own line to the assembly rooms open by ten. It took two hours and forty minutes and she would not remember writing it down. She did not ring the Office and tell them where she had got the shape of it. There was nobody in the number to ring, and nothing in it that named a district, and by the middle of the night four hundred and forty people in this district had moved when they moved because of a figure set in a drying room above a public bath.
 
-That one had a witness in it somewhere. It was simply not her and not the Office, and she was not going to find out which, and she was going to do it anyway, tonight, on that number, because the alternative was forty children standing in an undercroft at two in the morning on the strength of a published word called *between*.
+That one had a witness in it somewhere. It was simply not her and not the Office, and she was not going to find out which, and she was going to do it anyway, tonight, on that number, because the alternative was forty-one children standing in an undercroft at two in the morning on the strength of a published word called *between*.
 
 Then she took a fresh ruled page out of the drawer at the back of the desk, where she kept the district's own records because the Office's records had a two-year wait in them, and she wrote a heading at the top, and then she wrote a line, and then she wrote three more.
 

@@ -34,7 +34,7 @@ Marek Vale set the tube on the bench and drew out of it a strip about nine inche
 
 "Wrong how?"
 
-"Break comes where Weight should be. Witness comes in the last third, where Release belongs. There's a doubled Route in the middle and Release doesn't finish." He said it evenly. "It's a collision. Three air masses inside one cycle, so the six movements are going to reach the basin out of order. The ridge has had the front at sixty-eight to seventy-four hours for three days and can't agree by six, and the six hours is exactly what you get when you've timed movements against each other and the movements turn up shuffled."
+"Break comes where Weight should be. Witness comes in the last third, where Release belongs. There's a doubled Route in the middle and Release doesn't finish." He said it evenly. "It's a collision. Three air masses inside one cycle, so the six movements are going to reach the basin out of order. The ridge has had the front two days and three days out for three days and can't agree by six, and the six hours is exactly what you get when you've timed movements against each other and the movements turn up shuffled."
 
 Tovan put the glass down.
 
@@ -124,4 +124,4 @@ Behind her, a younger man put a ledger on the bench and opened it and squared th
 
 Tovan Iles looked at the four of them, and then at the maintenance hand from the glass shop standing at the end of her bench with a strip of sequence glass on the table and a tube under his arm, and she had a very clear and completely unprofessional thought, which was: oh, no.
 
-Because she could see, without any weather instrument at all, that the only shape that would get a district anything before a storm arrived was a claim. And to write a claim she needed a place, a time, an effect, and a witness, and she had one of those four in her hand and a bell she had never struck for a weather claim in her life, and it was five past ten, and the front was forty-three hours out.
+Because she could see, without any weather instrument at all, that the only shape that would get a district anything before a storm arrived was a claim. And to write a claim she needed a place, a time, an effect, and a witness, and she had one of those four in her hand and a bell she had never struck for a weather claim in her life, and it was five past ten, and the front was sitting on the ridge where it had been sitting for three days while everybody upstairs agreed to a different hour.

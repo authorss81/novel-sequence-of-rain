@@ -30,7 +30,7 @@ His hand was not braced on the frame. The bench came up and met him in the back 
 
 He sat on the floor with his back against bench two for a while and let his eyes go. The headache arrived from behind his left eye and settled in, the way it did, and joined the older ache that had been living in the base of his skull since the summer he was twenty-six. He had a bent needle in his left hand. He did not remember picking it up. It had come from the aneroid, and the aneroid was four feet away, and there was no version of the last ninety seconds in which that was possible.
 
-He sat on the floor with his back against bench two and could not get his eyes down off the room. There was nothing in it to look at. There was a cold shop, a paraffin heater giving up, and a plate on the floor with the film still sliding down it, and he looked at all of it anyway, the way a man looks at a door that has just been locked in a room he is still standing in.
+He could not get his eyes down off the room. There was nothing in it to look at. There was a cold shop, a paraffin heater giving up, and a plate on the floor with the film still sliding down it, and he looked at all of it anyway, the way a man looks at a door that has just been locked in a room he is still standing in.
 
 "Right," he said. He got up. He put the plate back under the oilcloth. He washed the frame, dried it, and stood for a moment with both hands on the copper rail while the shop ticked and cooled around him.
 
@@ -74,11 +74,11 @@ Then, because the shop was empty and the heater had gone to a sullen glow, and b
 
 He said it twice, because once is a thought and twice is a promise he might keep.
 
-The clock in the shop said eleven. Four hours of sleep, if he went now. The plate was under the oilcloth and the trace was on the plate and the trace was a fact about the sky four days out, in a sequence he had no instrument chain for, in a ward whose tower was fed by glass from a bundle that had been cracked in two places in the same four years.
+The clock in the shop said half past eleven. Four hours of sleep, if he went now. The plate was under the oilcloth and the trace was on the plate and the trace was a fact about the sky four days out, in a sequence he had no instrument chain for, in a ward whose tower was fed by glass from a bundle that had been cracked in two places in the same four years.
 
 He turned the other thought over, because there was another one under it and it was the one that would keep him awake. The Office had the front at four days and could not narrow it, and the disagreement between its six best instruments was six hours, and it had been six hours for three days without one sentence written upstairs about why. He knew why now. The instruments timed the movements against one another. If the movements arrive shuffled, then the timings are measuring the wrong thing, and every number on the ridge is a true number about an order that is not the one in the air.
 
-He wrote on the inside of his left cuff, in pencil, small and neat against the lining: *21:40 — N9 feed 4471 — cut 23:20.* Time, plate number, tower. Three facts and no interpretation. Then he wrote the thing that actually mattered, which was the word order, because a trace without an order is a photograph of a room: *G W B/B R Rel Wt — Rels, 3 before 2.*
+He wrote on the inside of his left cuff, in pencil, small and neat against the lining: *21:40 — N9 feed 4471 — cut 22:05.* Time, plate number, tower. Three facts and no interpretation. Then he wrote the thing that actually mattered, which was the word order, because a trace without an order is a photograph of a room: *G · Wt B · R R · Rel— · Wt. Rel began and did not finish.*
 
 The chart room's register was two floors up and he was not going to it. He had done eleven years of weather work and he had never once written anything into that register that was not backed by an instrument chain, and there was no chain in the building tonight that had produced this, because the aneroids and the wet cells could tell him *how much* and *how fast* and *from which quarter* and none of them could tell him *in what order*, and order was the whole of it.
 

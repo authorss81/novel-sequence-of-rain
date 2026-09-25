@@ -6,7 +6,7 @@ Marek had the plate on the bench under a clean cloth and the rig lit, and he had
 
 He had brought it down himself at ten past six, wrapped in a sailcloth, out of the Ninth Ward tower's feed seat, with the tower keeper standing beside him holding a lamp and not asking, because a docket on the tower's account said Marek Vale was to do its glasswork at his own hand and no charge to the ward, and a man carrying a plate down a hill at dawn in a sailcloth is performing a task the docket already describes. The feed was on a dead seat before he put it in his coat, and it is on a dead seat now. There is no spare in that tower. There has not been a spare in that tower for two years.
 
-This was the tower's own plate. The replacement he had cut in the shop on the Monday night and fitted on the Wednesday afternoon, the one Malle had put a knuckle against and said *plate* about, and it had done nothing interesting for a day and a half. The other piece of glass was in the tube against the wall and stayed there.
+This was the tower's own plate. The replacement he had cut in the shop on the Monday night and fitted on the Wednesday afternoon, the one Malle had put a knuckle against and said *plate* about, and it had done nothing interesting for a day and a half. The second piece of glass had come down the hill inside the same sailcloth, and there was a reason for that, and he had had it at seven o'clock on Thursday evening when he put it back.
 
 The plate was nine inches square and it had just under two days on it, and the two days were laid out on the bench rig in the six traces, and the traces were the ordinary ones — pressure, moisture, charge, three temperatures and a witness line — and everything about them was instrumented and dull and behaving, and that was the horror of it, because the whole of the six movements on that plate had worked exactly as the textbooks say they work.
 
@@ -28,7 +28,7 @@ It was not a fault. He was as sure of that as he had ever been of anything in hi
 
 Because he had a second plate that showed it.
 
-It was in the tube against the wall, nine inches square, ground edge, cut off the crown of a poor ward's unpaid replacement pane on a Wednesday by a glassblower in a shop at the end of a lane. Marek had cut it to the feed's thickness and had put it in the Ninth Ward's seat himself on the Wednesday afternoon, and had taken it out again on Thursday morning to put in front of a copy clerk, and had put it back at seven o'clock that evening when he got it off the bench, and it had been in the tower ever since until ten past six this morning. He had known within an hour of having it that he would need to be able to say how the tower's own glass behaved when he was not in front of it, and the only way to know that with a piece of glass is to have two pieces of glass and to swap them.
+It had been ground to the feed's thickness, which is a thing you can do and which costs an afternoon you do not get back, and a plate ground to a feed's thickness seats behind a holder like that one, face to face with the ward's own plate and a finger of air between them, and two plates in a holder take the same trace off the same feed. Marek had put it in himself on the Wednesday afternoon, and had carried it down the hill on Thursday morning to put in front of a copy clerk at the ward ledger bench, and had put it back at seven o'clock that evening when he got it off her bench. He had known within an hour of having it that he would one day need to be able to say how the tower's own glass behaved when he was not standing in front of it, and the only way to know that with a piece of glass is to have a second piece of glass and to swap them, and the only way to run two is to run them together.
 
 It showed the same absence. The same thinning, the same two hours and a half, the same forty minutes.
 
@@ -96,15 +96,15 @@ The plate came out of a tower that had a dead feed seat and no spare, at ten pas
 
 And the worst of it, the reason he was going to do it, and he was honest about the reason even with himself, which he thought of at the time as a kind of honesty and which was not:
 
-If he filed it and it was a dropout, he would have spent a week of the Office's credibility, in the last forty hours before a collision nobody else could see the inside of, on the word of a foreman who could not remember his own Thursday. And if it was not a dropout, then the Office would have to tell a ward that its own published claim had emptied its drains by existing, and there was no version of that sentence that anybody would believe from a maintenance hand in a sailcloth.
+If he filed it and it was a dropout, he would have spent a week of the Office's credibility, in the last day of it before a collision nobody else could see the inside of, on the word of a foreman who could not remember his own Thursday. And if it was not a dropout, then the Office would have to tell a ward that its own published claim had emptied its drains by existing, and there was no version of that sentence that anybody would believe from a maintenance hand in a sailcloth.
 
-So the case was unprovable, and a man with a real case would have gone and got it proved. Marek put the sheet in the drawer and shut the drawer and washed his hands, and what he told himself, in words he did not write down anywhere, was that the ward's water was held and the upper rows were dry and a hundred and forty terraces were above the line and a season of Hearthward was in a market hall, and that the man who had spent it had been asked for it by four people who had walked up a hill in the rain, and that a woman's dignity about the *upper* rows and a man's muddled memory about a *Thursday* were not the same weight, and he had eight hours before the front and a collision to get in front of anybody, and he could not spend them on a dispute about a wet cell.
+So the case was unprovable, and a man with a real case would have gone and got it proved. Marek put the sheet in the drawer and shut the drawer and washed his hands, and what he told himself, in words he did not write down anywhere, was that the ward's water was held and the upper rows were dry and a hundred and sixty people were above the line and a season of Hearthward was in a market hall, and that the man who had spent it had been asked for it by four people who had walked up a hill in the rain, and that a woman's dignity about the *upper* rows and a man's muddled memory about a *Thursday* were not the same weight, and he had the whole of the last day in front of him and a collision to get in front of anybody, and he could not spend them on a dispute about a wet cell.
 
 He noticed, about four seconds after he had finished that sentence, that not one word of it had been about Hearthward's low row.
 
 ---
 
-Malle was in his office at a quarter past ten with the door shut and six rosters on the floor, and he was so far inside the forty hours that he had stopped being a person and become a procedure.
+Malle was in his office at a quarter past ten with the door shut and six rosters on the floor, and he was so far inside the last day of it that he had stopped being a person and become a procedure.
 
 "Sit. No, don't sit, you'll sit in the chair with the rosters." He put a pencil behind his ear. "I have got nine minutes. Tell me about the collision and then tell me what I do with it at four o'clock this afternoon, and if you tell me those in the wrong order I will put you out of this room."
 
@@ -152,7 +152,7 @@ At half past eleven Marek went to the observation floor with the tube under his 
 
 Behind him, low down on the eastern ground, the Ninth Ward tower had a dead feed seat, a bubbled temporary pane that had been unreadable for a fortnight, and one of the most weather-dependent populations in the city living off what four women with pen and ink could get onto a board by hand.
 
-He had taken the first thing off that ward's public glass to make the plate in his coat. And now, for the first time in his life, he had a piece of evidence that could not be made to count anywhere at all, and the reason it could not be made to count was that he had converted a poor ward's warning into a private certainty and had then discovered that certainty does not travel.
+He had cut the only good glass that ward had ever paid for into a plate and put it in his coat. And now, for the first time in his life, he had a piece of evidence that could not be made to count anywhere at all, and the reason it could not be made to count was that he had spent a poor ward's glass on a private certainty and had then discovered that certainty does not travel.
 
 The taste of a coin was still in his mouth. The pressure behind his left ear was still there. And the fine sound on that side of his head was thin in a way that a lamp and a long night could not entirely account for, and he noticed it, and he put it in the drawer with everything else, and went down to the yard board to see what the city had been told.
 

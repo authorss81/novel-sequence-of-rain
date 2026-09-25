@@ -24,11 +24,11 @@ The Weatherglass at ten forty in the morning is a place where a man in a wet coa
 
 "Warden," Marek said, and stopped, because she had not asked for the pane. She had come three thousand steps up a hill to ask him for something else, and she was standing there waiting for it, and he had about two seconds in which to be a better man than he was.
 
-"The low blocks," she said. "Four hundred and forty people and the second belt is coming in about four hours and I have a pump house and four crews and a school I emptied last night at my own cost, and I have the middle of a Bellweather bulletin that says *between the second and fourth watch*. I need a time."
+"The low blocks," she said. "Four hundred and forty people, the front sitting on the ridge, and the Office's own number moved again this morning and nobody will tell me where it landed. I have a pump house and four crews and a school I emptied last night at my own cost, and all I have got of yours is the middle of a Bellweather bulletin that says *between the second and fourth watch*. I need a time."
 
 Marek had a plate in a tube in the room behind him that would have given her a time.
 
-He had cut it out of the crown of her ward's public notice on the Wednesday afternoon, nine inches square, ground edge, annealed, and it had been in the ninth ward's own feed seat since seven o'clock the previous evening, and it had the second turn on it — the collision, out of order, Release begun and not finished, and then two hours and a half of nothing in the middle of it, where the tower's own plate has the same nothing, and the tower's own plate is back up on Tannery Walk in its seat because a Deputy told him to put it back and say nothing. And if he put that plate on her district's glass and read her the low blocks' hour the way he had read it to himself two mornings ago, she would have had a number before lunch, and she would have had a number that was right, and the crews could have gone out on it.
+He had cut it out of the crown of a pane her ward had paid for and never been given, on the Wednesday afternoon, nine inches square, ground edge, annealed, and it had been in the ninth ward's own feed seat since seven o'clock the previous evening, and it had the second turn on it — the collision, out of order, Release begun and not finished, and then two hours and a half of nothing in the middle of it, where the tower's own plate has the same nothing, and the tower's own plate is back up on Tannery Walk in its seat because a Deputy told him to put it back and say nothing. And if he put that plate on her district's glass and read her the low blocks' hour the way he had read it to himself two mornings ago, she would have had a number before lunch, and she would have had a number that was right, and the crews could have gone out on it.
 
 "Why can't you?" she said, reading his face. "You have got something."
 
@@ -82,7 +82,7 @@ Ferren stood by the door with his cap in his hands. He looked like a man who had
 
 "Please."
 
-"One. The claim said the lower row drains clear. It did not drain clear. It drained at eight in the morning after nine hours, and the surcharge was above my ground floor from twenty-three forty, and there are six rooms on that row and I have been in all six and I know what is in them and what is not in them."
+"One. The claim said the lower row drains clear. It did not drain clear for nine hours. The surcharge was above my ground floor from twenty-three forty, and there are six rooms on that row and I have been in all six and I know what is in them and what is not in them. And I would like somebody to explain to me, in a year, whether the words *drains clear* and *stops being under water eventually* are the same phrase, because my assembly agreed to the first one and got the second one, and I did not know at the time that there was a difference and neither did you."
 
 "I know," said Marek.
 
@@ -176,13 +176,13 @@ Marek read the last paragraph. It said that the Office's own instruments could n
 
 "You've got the technical cell."
 
-"I have got the technical cell, and the technical cell has got a hundred and forty people in it, and I have been in that room since eight this morning, and there is not one pair of hands in it that has seen the order those movements arrive in." Malle took the sheet back. "There is one, and he is sitting in that chair, and on Wednesday he told me the order of the six movements and could not tell me the arrival times, and on Thursday he gave me an account of a claim of his own that was a correct description of a mechanism and not an account of anything that happened, and I have not had time to be angry about it because I have a basin to put under a roof."
+"I have got the technical cell, and the technical cell has got a hundred and forty people in it, and I have been in that room since eight this morning, and there is not one pair of hands in it that has seen the order those movements arrive in." Malle took the sheet back. "There is one, and he is sitting in that chair, and on Wednesday he told me the order of the six movements and could not tell me the arrival times, and on Friday morning he gave me an account of a claim of his own that was a correct description of a mechanism and not an account of anything that happened, and I have not had time to be angry about it because I have a basin to put under a roof."
 
 Marek felt the floor of the room change its texture and did not look down.
 
 "The Bellweather watch is yours," said Corrin Malle.
 
-"The Bellweather watch is the low ground during the second belt."
+"The Bellweather watch is the low ground tonight."
 
 "Yes."
 

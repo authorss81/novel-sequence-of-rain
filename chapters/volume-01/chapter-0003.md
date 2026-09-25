@@ -36,13 +36,13 @@ Pell turned round then. He was thirty-four and had red hair going at the temples
 
 Marek told him.
 
-He told it flat, in the order it happened, because Pell had no patience for a story told for effect: the cracked plate, the bench rig, the six traces, the order. Gather and Break where Weight should be. Witness arriving in the last third. The three air masses inside one cycle. The ridge instruments at sixty-eight to seventy-four hours and unable to agree by six, because every instrument on the ridge measures how much and how fast and from which quarter, and not one of them has ever been able to measure *in what order*, and order was the whole of the danger.
+He told it flat, in the order it happened, because Pell had no patience for a story told for effect: the cracked plate, the bench rig, the six traces, the order. Gather and Break where Weight should be. Witness arriving in the last third. The three air masses inside one cycle. The ridge instruments somewhere between two days and three days out and unable to agree by six, because every instrument on the ridge measures how much and how fast and from which quarter, and not one of them has ever been able to measure *in what order*, and order was the whole of the danger.
 
 Pell listened to all of it without moving.
 
 "You have a reading," he said at the end, "and you cannot show it to anybody, and you have come to my shop to cut it out of a pane of glass."
 
-"I need a plate. Not cracked. Not a month old. Annealed, thick, big enough to hold two days of a tower's feed without fogging the fine work. There is one piece of that glass in this district and it is a notice the poorest ward in the city has been trying to read for a fortnight."
+"I need a plate. Not cracked. Not a month old. Annealed, thick, big enough to hold two days of a tower's feed without fogging the fine work. There is one piece of that glass in this district and the poorest ward in the city has already paid for it and has never once had it."
 
 "That is not what I asked you." Pell's voice did not rise. He had never once in twenty years of knowing Marek Vale raised his voice, and it was a great deal worse than shouting. "You said you were looking. You keep saying looking is free. You said it to your own bench on Monday night, at about eleven, and you have been saying it to this shop ever since, and the shop does not answer you either. Looking is free. Fine. Grant it. Then tell me what happens on the hill when they send a crew up to fit a plate they were promised two years ago, and there is no plate, and the reason there is no plate is that a man in a hurry took a corner out of it to read a private opinion about the sky."
 
@@ -52,7 +52,7 @@ Pell listened to all of it without moving.
 
 Pell glanced at the door. It was twenty to twelve.
 
-"They're late," he said. "Same as they were in March, same as the last time. They will be here at half past midday and they will be told the pane is finished and it will be finished, because I have been sitting on two years of their money and I have kept it annealed and I have kept it clean and I have kept my mouth shut about it, which is the only skill I have that they pay me for." He wiped his hands again although they were dry. "And if you cut that pane, Marek, I cannot put it back. Glass does not take a corner back. You will have a working plate in your coat and a dark frame in that tower and a warden on Low Spindle's lowest row writing her notices out by hand for another two years, and *that* is the price of your reading, and you have known that since the tram."
+"They're late," he said. "Same as they were in March, same as the last time. They will be here at half past midday and they will be told the pane is finished and it will be finished, because I have been sitting on two years of their money and I have kept it annealed and I have kept it clean and I have kept my mouth shut about it, which is the only skill I have that they pay me for." He wiped his hands again although they were dry. "And if you cut that pane, Marek, I cannot put it back. Glass does not take a corner back. That pane is nineteen hundred across and annealed and two years of a ward's money, and it is the only good notice that district will ever be sent, and if it goes into a hole in a wall on a Wednesday afternoon then that tower has got a temporary with a thumbnail in the middle of it until the end of time, and a warden on Low Spindle's lowest row keeps writing her notices out by hand, and *that* is the price of your reading, and you have known that since the tram."
 
 "Yes," Marek said.
 
@@ -74,7 +74,7 @@ The older of the two crew listened with his hand still on the cart handle. Then 
 
 "A working plate," Marek said. "Off the crown. Nine inches, ground edge, annealed. Four-four-eight-six, the one your office paid for two years ago and never came and collected. It'll hold two days of the sequence and it won't fog the fine work."
 
-The crewman looked at the size of it a second time. "It'll be a very odd hole in a very poor ward's notice," he said. "That's all right. I've seen worse. What I want to know is whether you're going to come up the tower and tell us what to write on the boards while you've got it in your hand."
+The crewman looked at the size of it a second time. "It'll be a very odd hole in a very poor ward's glass," he said. "That's all right. I've seen worse. What I want to know is whether you're going to come up the tower and tell us what to write on the boards while you've got it in your hand."
 
 "Yes," Marek said. "That's the whole of the reason."
 
@@ -92,13 +92,13 @@ He turned the sheet over, scored the second face, and then he put the sheet flat
 
 It broke along the line. Both lines. The pane came apart into a frame that was no longer any use to anybody and a nine-inch plate with a ground edge and a crown that was still in it, and the break was clean enough that he did not have to grind the plate at all, which was the only good luck in the afternoon.
 
-He picked the plate up. It was heavier than it looked. It was cold. And there was a moment, standing in the middle of a working shop with a glaze bucket in one hand, when the whole of the plan came apart in his head, because of what he was holding: it was the ninth ward's *public notice*, and a notice is the one piece of a city's weather that the city is allowed to see, and he was about to take nine inches of it off and put it in his coat.
+He picked the plate up. It was heavier than it looked. It was cold. And there was a moment, standing in the middle of a working shop with a glaze bucket in one hand, when the whole of the plan came apart in his head, because of what he was holding: it was the ninth ward's *paid-for pane*, two years of a ward's money sitting on a shelf at the end of a workshop lane, and it was the only piece of good glass that district had ever got its hands on, and he was about to take nine inches out of it and put it in his coat.
 
 He thought about Feth's stall at the foot of the Weatherglass steps, at a quarter to midnight on Monday, saying *there's always a second version somewhere and nobody's paid to say it out loud.* He thought about a rider on a bicycle who could not ride a bicycle.
 
 Then he put the plate in the tube, and put the tube in his coat, and swept the frame up, and swept the glass up, and put the tools away, and wrote the ninth ward's temporary in the shop's own book against the two years he owed, and signed it *M. Vale, glasswork, unpaid*, which is not a signature anybody had ever asked for and which was the only honest line available.
 
-Marek walked back up the ridge with the tube under his arm and a piece of paper in his pocket with his own handwriting on it committing him to two years of unpaid glasswork at a tower in the poorest ward in the city, and the specific unresentful shame of the thing was so complete and so plain that he could look straight at it. He had spent a poor ward's public warning on a private certainty. He had done it in daylight, to a crew who had been promised that glass for two years, and he had done it because he was in a hurry and because he was the only person in Veyra who could read what was coming, and both of those were true, and the truth did not make it smaller. It only made it accurate.
+Marek walked back up the ridge with the tube under his arm and a piece of paper in his pocket with his own handwriting on it committing him to two years of unpaid glasswork at a tower in the poorest ward in the city, and the specific unresentful shame of the thing was so complete and so plain that he could look straight at it. He had spent the only good glass the poorest ward in the city had paid for on a private certainty. He had done it in daylight, to a crew who had been promised that glass for two years, and he had done it because he was in a hurry and because he was the only person in Veyra who could read what was coming, and both of those were true, and the truth did not make it smaller. It only made it accurate.
 
 And in about the middle of the walk, on the step where the ridge turns and the whole basin comes out under you in the grey, something else arrived that he had not expected and had not earned. Corrin Malle had asked him what would prove him right. Nobody had asked him that. In eleven years the answer to a reading of his had always been *is it right*, which is a question about the past, and here for the first time was a question about the future that assumed the reading was going to be true and asked him to put himself on the line about it, and there was a small cold satisfaction in being asked that which was much worse than pride, because it was the first time in his career that anybody had treated his name as something that could be spent.
 
@@ -128,7 +128,7 @@ The inspection took nine minutes and passed, which was the right outcome and a s
 
 By six o'clock the corridors had emptied and Marek went down to the ground floor with the tube, and the ward ledger bench was shut and racked for the night, its nine ward heads dark along the wall, and the copy sheets were in their slots, and a young woman in a copy clerk's grey coat was checking the entry bell's striker against her thumb because bell maintenance was Thursday and she did not trust the Thursday man.
 
-Marek stood at the end of the bench and did not say anything, because it was six o'clock on day six and the front was sixty hours out and he had a tube under his arm and a two-year debt in his pocket and no way at all of making any of it into a thing the city would act on.
+Marek stood at the end of the bench and did not say anything, because it was six o'clock on day six and the front was somewhere over the Nacre Range where nobody upstairs could say which day it would be, and he had a tube under his arm and a two-year debt in his pocket and no way at all of making any of it into a thing the city would act on.
 
 She looked up. She had a face built for being doubted and had decided in advance not to be.
 

@@ -4,7 +4,7 @@ The roster went up on the wall of the field office at four o'clock, which was Of
 
 Marek read it standing at the back, and then read it again from the front, and then stood there a while longer than a man standing at a roster needs to.
 
-The Bellweather watch. Low ground, ninth ward. Second belt through to the fourth watch, third day. Four crews, two pump houses, one warden, one reader.
+The Bellweather watch. Low ground, ninth ward. The collision through to the end of it. Four crews, two pump houses, one warden, one reader.
 
 *Reader.* It had a name against it. His own.
 
@@ -140,7 +140,7 @@ He put the lamp on the bench and turned the chart so that the light came across 
 
 *CHART PROVENANCE — NINTH WARD TOWER. Sequence reference N9 — / lodged by — A. Vale / SEQ/N9/—*
 
-Between the lodger's name and the sequence reference there was a filed mark: a small violet square with a bell struck across it, and a watch number beside it. That was the mark that went on a claim somebody had rung a bell for, and it was in his mother's hand, and it was eleven inches from the edge of a sheet of paper in a frame.
+Between the lodger's name and the sequence reference there was a filed mark: a small violet square with a bell struck across it, and a watch number beside it. That was the mark that went on a claim somebody had rung a bell for, and the hand that had written the line it sat in was his mother's, and it was eleven inches from the edge of a sheet of paper in a frame.
 
 And then the paper ended.
 
@@ -160,7 +160,7 @@ Because there it was, in a drawer in a corridor, three rooms deep and running on
 
 And here was the part that made him put his hand flat on the bench to make sure the room was solid.
 
-He had spent a week learning that this was how it worked. He had learned it from a twenty-seven-year-old clerk with a red stamp and a bell on a wire, and from a Deputy who would take a proof and not an account, and from a brokering agent with a courteous hat, and from a copy clerk who had kept a number that nobody had wanted. He had learned it well enough to sit in a corridor at a quarter to three and feel *relieved* because the machinery that had buried Sable Orin's number had also, as it happened, buried his.
+He had spent a week learning that this was how it worked. He had learned it from a twenty-seven-year-old clerk with a red stamp and a bell on a wire, and from a Deputy who would take a proof and not an account, and from a brokering agent with a courteous hat, and from a copy clerk who had kept a number that nobody had wanted. He had learned it well enough to stand in a corridor with a stamped broadside in his hand and feel *relieved* because the machinery that had buried Sable Orin's number had also, as it happened, buried his.
 
 And now, in a chart room, on a stool, twelve years too late, somebody else had looked at a piece of paper and decided the same thing about it, and had not merely filed it. Had cut it out.
 
@@ -170,7 +170,7 @@ His hand went into his left cuff and got the pencil out from behind his wrist, a
 
 *17:20 — N9 chart margin, N9 prov. — N9/ — filed, witnessed (violet sq.). A. Vale. Margin cut: old cut, paper round it clean.*
 
-Two readings and a filing mark, and the mark was the third block because a mark is not a reading and he had wanted the space. The first was a collision he could see the order of. The second was a gap in a Release that he had spent a day and a half failing to hand to anybody. The third was this: a violet square with a bell struck across it, in his mother's hand, on a chart margin, with the citation cut out from beside it. That was the whole of it. The ship under sail by four o'clock was in a torn notebook page in the inside pocket and stayed there, because a torn page is a thing a man can lose and a coat sleeve is a thing a man can be searched.
+Two readings and a filing mark, and the mark was the third block because a mark is not a reading and he had wanted the space. The first was a collision he could see the order of. The second was a gap in a Release that he had spent a day and a half failing to hand to anybody. The third was this: a violet square with a bell struck across it, on a margin his mother had written out in her own hand, with the citation cut out from beside it. That was the whole of it. The ship under sail by four o'clock was in a torn notebook page in the inside pocket and stayed there, because a torn page is a thing a man can lose and a coat sleeve is a thing a man can be searched.
 
 He put the chart back in the frame. He set the new glass in, and did the rebate, and did the waxed paper behind the sheet, and the better part of an hour of that job went past like weather, and the room filled with the smell of warm gum and hot glass, which was the smell of the only work he had ever been completely sure of.
 

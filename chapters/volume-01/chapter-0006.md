@@ -14,6 +14,12 @@ The gate shut and stayed shut. The upper rows were dry. She had seen it when she
 
 Down in the market, though, the rain was finding every joint it had.
 
+There was a set of catch pits at the bottom of the lowest row, four of them under iron grates the size of a cartwheel, and Tarin had stood over them six days ago on a Thursday morning in the dry, with a cup of somebody's tea in her hand, and watched four men and a foreman take a whole week out of them with long-handled scoops and a bucket between them, because she had moored on the grass above that row on the way to Hearthward and had a spare hour and nothing to do with it, and because the sight of four people working in a hole is the sort of thing you stand and watch when you are tired.
+
+The foreman had straightened up halfway through and looked up at her ship sitting on his terrace with her nose over the wall, and had shouted up that the row would take anything now. Tarin had called down that it would take anything on Thursday too, and he had said that Thursday was his as well, and she had thought at the time that it was a funny thing for a man to say about his own week, and had not thought about it again.
+
+Six days. It had been clean pits on Thursday last and it was due again on Thursday this, and a row with a clear outfall on the third night of rain is a Thursday problem, and a row without one is a problem that has quietly moved itself to next Tuesday, and the pits were now four feet under water and she could not have told one of the men from the other in the dark.
+
 "The market's the worst of it," said Ovett, over the noise. "Forty, fifty people still under the awnings with crates out. Hallard's stall's on the worst of the pitch and he's taken the tarp off it to sell the last of the—"
 
 "Tell him to put it back on and put his crates on the high kerb."
@@ -40,7 +46,7 @@ Nobody died. She made sure of that by two in the morning and she went on making 
 
 The vaults were cut into the terrace face behind the market, and the lower six drawers of the vault were eighteen inches off the market floor, and nobody had put them up, because the vaults are Hearthward's answer to a dry year and everybody on the terraces has understood for two generations that the vaults are not to be moved in a storm, and that night the water came up eighteen inches and stayed up eighteen inches for six hours.
 
-A season's seed stock. Ninety drawers, most of them still in paper and tins and all of them ruined, and there is no way to write that on a gate and have it mean what it means.
+A season's seed stock. Ninety drawers in that vault cut into the terrace face, and it was the lower six of them that sat eighteen inches off the market floor, and every one of those six is ruined, most of them still in paper and tins, and there is no way to write that on a gate and have it mean what it means.
 
 ---
 
