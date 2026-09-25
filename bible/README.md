@@ -11,9 +11,11 @@ The bootstrap canon for *The Sequence of Rain* is organized here:
 
 The series and ending constraints live in `outline/series.md` and `outline/ending.md`. The top-level concept uses “prediction” as public shorthand; the technical rule in `premise.md` and `power-system.md` is that only a witnessed, precise binding spends a branch. No chapter prose is part of this bootstrap.
 
-Two things in this bible are easy to get wrong and are marked deliberately:
+Three things in this bible are easy to get wrong and are marked deliberately:
 
 - The **Ninth Ward Record** and the **Crown Basin sheet** are different documents written by Anja Vale. Do not merge them.
+- The **Ninth Ward corridor is restored by physical labor** — a maintenance key, a public warrant, a cutting crew. No binding opens it and it costs no branch. The binding Marek refuses in the finale is a separate act on her preserved sequence.
+- The **Last Forecast is attempted twice**: lawfully and quorum-certified in Volume 10, where it is disrupted before it binds and spends nothing, and then in Volume 12, where Rook seats the core key in the lock and releases it without turning it. The lock is never turned in this series.
 - The final antagonist is Cassian Rook, a competent bureaucrat who signed the Meridian Cut. There is no hidden god, no secret organization, and no late external threat.
 
 The hard constraints that must survive all 580 chapters are listed under **Canon guardrails** in `outline/series.md`. The historical timeline is recorded as a table in `state/continuity.md`.

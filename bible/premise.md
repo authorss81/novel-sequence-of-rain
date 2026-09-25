@@ -22,7 +22,7 @@ Marek is a competent but junior weather researcher at the Veyran Weather Office.
 
 During the Bellweather Front, a storm forms around a rare six-movement collision. Marek sees a turn that can keep an airship corridor open, while the only available alternative seems to put a low district under a wall of rain. He binds a claim: the Kestrel corridor will remain passable through 04:00. The claim displaces the still-available branch in which a late repair convoy can reach the Lower Sill culvert before the front arrives. The airships survive. By dawn the repair convoy has no feasible departure, the culvert remains broken, and a south-bank road is sealed by ordinary storm landslide damage; the missing repair opportunity is the spend, not the landslide itself. The Office files the loss as ordinary maintenance failure.
 
-The incident is small enough to be denied and useful enough to be repeated. It is Marek's first proof that a forecast does not merely describe a future. It spends one. The cost is not a moral metaphor or a percentage; it is a route, a repair, a message, a harvest, or a choice that can no longer occur in this world.
+The incident is small enough to be denied and useful enough to be repeated. It is Marek’s first proof that a forecast does not merely describe a future. It spends one. The cost is not a moral metaphor or a percentage; it is a route, a repair, a message, a harvest, or a choice that can no longer occur in this world.
 
 ## The central choice
 
@@ -34,7 +34,7 @@ A forecast is not a neutral report. It is a claim made strong enough to bind the
 
 ## Central mystery
 
-Why does a binding forecast make an alternative impossible, who authorized the Meridian Cut, and why was Anja Vale's Ninth Ward route erased from the public record?
+Why does a binding forecast make an alternative impossible, who authorized the Meridian Cut, and why was Anja Vale’s Ninth Ward route erased from the public record?
 
 The reader initially learns that the cost is real, not a metaphor. Later, the story reveals that the Meridian was originally a shared civic instrument for showing competing weather turns. During the Meridian Cut, the then-emergency director Cassian Rook signed the order to disconnect a failing ward; he believed a contained collapse was safer than a basin-wide reversal, and he later ordered the route evidence suppressed when the choice became politically impossible. The central mystery is therefore a mystery of design, ownership, complicity, and responsibility rather than a hidden god or an alternate-world trick. The pre-Meridian origin of atmospheric sequence remains deliberately outside the promised answer.
 

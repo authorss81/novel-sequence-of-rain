@@ -4,11 +4,11 @@
 
 Veyra is a dense city-state built in the shallow basin known as **the Sill**. Lake Orra lies to the west, the Nacre Range closes the northern horizon, and the broad floodplain of the **Lower Sill** opens toward the southern farms. The city has grown around nine watersheds rather than a single street plan. Each watershed has its own storm ward, reservoir, market, and local assembly; several watershed boundaries continue beyond Veyra into Morrow Fen, Red Sill, and Ternway.
 
-A **ward** is therefore the unit of civic identity as well as drainage. A Veyran describes where they live by ward and street, never by district, because the ward decides the water, the school closures, the tower signal glass, and the assembly that can challenge a forecast. The nine wards do not match the neighborhoods, the poorer districts, or the trade routes, which is a frequent source of resentment: Low Spindle shares a ward with clean and well-connected ground, and Hearthward’s terraces sit on a ward whose reservoir serves a third of the city. Political weather in Veyra is usually this mismatch arguing with the weather.
+A **ward** is therefore the unit of civic identity as well as drainage. A Veyran usually gives their ward and street before they give a district, because the ward decides the water, the school closures, the tower signal glass, and the assembly that can challenge a forecast. But districts, neighborhoods, workshop belts, and trade routes all cut across wards, which is a frequent source of resentment: Low Spindle shares a ward with clean and well-connected ground, and Hearthward’s terraces sit on a ward whose reservoir serves a third of the city. Political weather in Veyra is usually this mismatch arguing with the weather.
 
 Veyra is modern in its civic life but not frictionless. Electric trams run beneath elevated weather rails. Airships dock at the Kestrel Yards. Print presses, radio weather bulletins, pneumatic dispatch tubes, mechanical calculators, and storm-glass instruments sit alongside older communal rain gauges. Most people do not think of the weather as untouched nature; they think of it as a dependency that must be maintained, budgeted, and distrusted.
 
-The skyline is low enough to see weather coming. Copper gutters divide the roofs. Water tanks line the upper terraces. On clear mornings, the nine ward towers show as thin black lines above the haze, each carrying a different color of signal glass.
+The skyline is low enough to see weather coming. Copper gutters divide the roofs. Water tanks line the upper terraces. On clear mornings, the nine ward towers show as thin black lines above the haze, each burning its own ward’s colour of signal glass, so that a person standing in the open can read the city’s weather by looking up and counting hues.
 
 Veyra is the largest city-state in the **Ninefold Basin**, but it is not isolated. The basin’s weather moves across several polities with different needs, and the city’s central forecasts often travel farther than the authority that made them. **Morrow Fen** to the north supplies peat, reed, and cheap grain but depends on Veyra’s rain capture. **Nacre Holds** in the mountains supplies glass, copper, and ore in exchange for food and medicine. **Red Sill** to the south grows fruit and olives on the basin’s driest farms and argues that Veyra’s towers steal too much rain from its soil. **Ternway** controls several airship passages through the western updrafts and sells route access to anyone who can pay. Their governments send delegates to the Weather Council, but none accepts Veyra’s right to bind a forecast over their farms or ports.
 
@@ -64,23 +64,25 @@ The Meridian can be entered through Crown Basin and the nine ward towers. It can
 
 ### The Unweathered Year
 
-Thirty years before the opening, an attempted rainmaking project in the northern wards produced a sequence collision. Rain vanished, riverbeds dried, and several weather wards became dead metal. The city survived through stored water and emergency shelters, but the event left a cultural fear of uncontrolled weather magic.
+Thirty years before the opening, an attempted rainmaking project in the northern wards put several separate weather workings on the same ground at once, and their sequences collided. Rain vanished, riverbeds dried, and several weather wards became dead metal. The city survived through stored water and emergency shelters, but the event left a cultural fear of uncontrolled weather magic.
 
 ### The First Compact
 
 Nine watershed crews built the first shared sequence network. Farmers, ferry crews, wardens, glassworkers, and forecasters all contributed readings. The Compact required that a public forecast show its evidence, its limits, and at least one meaningful alternative. It was imperfect and often slow. It also distributed responsibility instead of hiding it.
 
-### The Quiet Years
+### The Quiet Years, and the centralization that ended them
 
-After a decade of relative stability, the Weather Council centralized the network. Forecasts became official claims; local readings were copied into a single ledger; compensation for a wrong forecast became easier to postpone. The reasons were practical: wars, trade, and population growth made disagreement expensive. The result was institutional drift rather than a single founding lie.
+After a decade of relative stability, the Weather Council centralized the network. The centralization is the **end** of the Quiet Years, not something that happened inside them, though the two are easy to blur because the instruments kept working smoothly through the change. Forecasts became official claims; local readings were copied into a single ledger; compensation for a wrong forecast became easier to postpone. The reasons were practical: wars, trade, and population growth made disagreement expensive. The result was institutional drift rather than a single founding lie.
 
 ### The Meridian Cut
 
-Twelve years before the opening, the Weather Council ordered a failing Ninth Ward tower disconnected during a dry inversion. The emergency director at the time, **Cassian Rook**, signed the order after a council vote that concealed the projected effect on Low Spindle. Forecast researcher **Anja Vale** discovered that earlier “successful” forecasts had spent the branches needed for a low-ward evacuation and entered Crown Basin to preserve the remaining Ninth Ward corridor.
+Twelve years before the opening, the Weather Council ordered a failing Ninth Ward tower disconnected during a dry inversion. **The Ninth Ward is the poor ward of the low eastern ground, and it contains Low Spindle**: the ward line was drawn on watershed boundaries, so the district that the Cut’s low-ward projection fell on is the district that shares the Ninth Ward’s water, its tower, and its assembly — and also shares them with cleaner ground. That shared ownership is the whole of the ward-mismatch argument in a single accident. The emergency director at the time, **Cassian Rook**, signed the order after a council vote that concealed the projected effect on Low Spindle. Forecast researcher **Anja Vale** discovered that earlier “successful” forecasts had spent the branches needed for a low-ward evacuation and entered Crown Basin to preserve the remaining Ninth Ward corridor.
 
 During the Cut, Anja deliberately closed one branch to keep the reversal out of Low Spindle. She failed to save the route she had hoped to preserve, and the collapse killed her. The Ninth Ward corridor itself was not spent: its physical maintenance passage and the local witnesses remained. Rook ordered the route marked unsafe and instructed the records office to remove the supporting readings. The Office’s later custodians turned that concealment into a clean maintenance story.
 
 The Cut remains a legal scar. The Weather Office calls it a maintenance accident. Families in Low Spindle call it the year the rain learned to lie. Ione Sere signed the first deletion order under pressure; her confession matters because she helped make Rook’s decision durable, not because she was the only hand in the chain.
+
+The erasure was not finished in one afternoon. Three years later, when a routine reindex exposed that the routing trail named a clerk who had already been dead at the time of the Cut — which would have made the routing witness a fiction — someone cut the index reference by hand. That second cut is a separate act from Rook’s order, done by a person who was still in the institution and still alive, and it is a different kind of crime: not hiding a decision, but hiding the fact that the record could be checked.
 
 ## Regions and locations
 

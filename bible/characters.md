@@ -6,7 +6,7 @@
 **Occupation:** Weather researcher, sequence reader, instrument repairer at the Veyran Weather Office  
 **Starting location:** The Weatherglass, Veyra
 
-Marek is calm under pressure when he has a working instrument in his hand. He can read a pressure trace, isolate a faulty glass seam, and explain a storm's physical limits to a skeptical airship crew. He is not a natural fighter, a wealthy prodigy, or a man who is secretly chosen to rule the weather. His first advantage is disciplined observation.
+Marek is calm under pressure when he has a working instrument in his hand. He can read a pressure trace, isolate a faulty glass seam, and explain a storm’s physical limits to a skeptical airship crew. He is not a natural fighter, a wealthy prodigy, or a man who is secretly chosen to rule the weather. His first advantage is disciplined observation.
 
 ### Want
 
@@ -93,7 +93,9 @@ Sable’s flaw is that she treats information as power and releases partial clai
 
 Ione is the first person who recognizes the pattern in Marek’s readings. She knows more about the Meridian Cut than she admits and once signed a report that omitted a dangerous branch. She is not a secret leader of a larger conspiracy; she is a frightened professional who preserved evidence while helping the institution that erased it.
 
-Ione’s goal is to make the original Compact legible before the records decay. Her arc ends with a public confession and testimony. She does not receive a painless absolution, and she does not die merely to remove her difficult knowledge.
+She also committed a second, later act that the story must not fold into the first. Three years after the Cut, a reindex showed that the Ninth Ward Record’s routing trail named a clerk who had been dead at the time, which would have made the witness chain a fiction. Ione cut the index reference herself, not on Rook’s order and not under anyone’s pressure. She did it because she believed that if the routing could be publicly proved false, the Office would be discredited wholesale and the basin left with no weather authority at all. The Volume 01 hook is this hand; the identity is established in Volume 05; the reason is not given until her Volume 11 testimony. The second confession compounds her guilt instead of relieving it.
+
+Ione’s goal is to make the original Compact legible before the records decay. Her arc ends with a public confession and testimony covering both acts. She does not receive a painless absolution, and she does not die merely to remove her difficult knowledge.
 
 ## Cassian Rook — central human antagonist
 
@@ -114,6 +116,8 @@ Rook survives the ending. He loses his office, authority, and public claim to mo
 **Occupation:** Deputy Director for Records and Public Notice
 
 Lior is not a major villain. He suppresses anomalous readings because careers, budgets, and public trust depend on a clean record. He follows the safer path when the Office asks him to, then tries to justify each erased branch as an administrative correction. His early obstruction gives Marek a concrete opponent before the larger political machinery becomes visible.
+
+Lior is the Office’s **records** problem and must never be confused with Corrin Malle, who is its **field** problem. Venn reclassifies readings that were never acted on, so that nothing can later be proven to have existed. He has never personally watched a branch close. Malle is the man who decides what reaches the ledger from a live watch, and the Bellweather spend is his to bury. In the ending, Venn’s records are opened for correction and his conduct is named as a category of institutional harm rather than as one man’s private sin.
 
 ## Maro Hesk — Cloud Exchange broker
 
@@ -165,6 +169,8 @@ Malle assigns Marek to the Bellweather watch and is the man who decides how much
 
 Malle is the first person to ask Marek for a falsifiable account of what he saw, and the first to bury one. He permits the Bellweather spend to be filed as maintenance failure, then spends four volumes trying to keep Marek from publishing it, and finally testifies against Rook in Volume 11. His arc ends in an early, unglamorous retirement and an unfinished letter to Marek. He is never forgiven and never villainized.
 
+Malle is not Lior Venn with a different hat. Venn blocks the archive; Malle blocks the field, and his motive is the more personal of the two. A spend that happened on his watch is a spend with his name under it, and he would rather the culvert be called a maintenance failure than explain why the repair convoy never left. His testimony in Volume 11 is the price of four volumes of silence, and it arrives too late to repair what he did to Marek.
+
 ### Tovan Iles — junior glass-tender
 
 **Age:** 27  
@@ -172,7 +178,7 @@ Malle is the first person to ask Marek for a falsifiable account of what he saw,
 
 Tovan works the glass benches, logs the traces Marek produces, and is the person who physically writes his claims into the ledger. She is cheerful, quick, and terrified of being wrong in a way that matters. Tovan is the series’ ordinary witness: she is the audience for what a spend feels like from the clerical side, where it is a number in a column and someone has to decide whose name goes under it.
 
-She refuses to falsify the Bellweather entry, is demoted to copy work as a result, and becomes the first archivist of the Weather Commons. Her later authority comes from keeping records that cannot be quietly edited, not from a hidden talent.
+She refuses to falsify the Bellweather entry, is demoted to copy work as a result, and becomes the first archivist of the Weather Commons. The demotion is assigned to **Volume 01** and is never overturned as a favour to her: she spends Volumes 2–10 on a copy desk, watching the ledger from the wrong side of the glass. Her route into the archive begins in **Volume 11**, when Sable builds a consent-based public record and needs someone who already knows how a binding is written down. Her later authority comes from keeping records that cannot be quietly edited, not from a hidden talent.
 
 ### Anwen Sarr — Hearthward assembly chair
 
@@ -181,7 +187,7 @@ She refuses to falsify the Bellweather entry, is demoted to copy work as a resul
 
 Anwen represents the district that refuses official forecasts most often, and she refuses them for good reasons. Hearthward’s rooftop seed vaults, market, and terraces depend on weather work that the Office has already spent elsewhere. She is the political counterpart to Marek’s practical certainty: she agrees that warnings save lives and insists that the people receiving them hold a vote.
 
-She is the assembly member who defeats Marek’s first attempt to force a local claim in Volume 04, which begins his education in consent. She survives the ending and holds a rotating seat on the Weather Commons Council.
+She is the assembly member who defeats Marek’s first attempt to force a local claim in Volume 04, which begins his education in consent. She survives the ending and holds a rotating seat on the Weather Commons Council. Her first act in that seat is to require that every ward be told which local branches the new cells have already closed.
 
 ### Juba Tren — No-Forecast Assembly organizer
 
@@ -191,6 +197,17 @@ She is the assembly member who defeats Marek’s first attempt to force a local 
 Juba’s movement rejects every binding claim and accepts the practical consequences: crop loss, flood risk, unmended roofs. Juba is not a fanatic and is not written as one. He has watched two districts hit by a preventable storm because officials closed the discussion, and he believes the honest position is to leave the weather unwritten and let people stand in it.
 
 The story gives his position a fair trial in Volume 09, and a no-forecast district is then hit by a disaster that a single published claim would have limited. Juba is not discredited by this; he is confronted by it, and he argues afterward that a limited loss is different from a purchased obedience. He is a recurring opponent of convenience, not of safety.
+
+### Ottine Vask — routing clerk, dead before the Cut
+
+**Age:** At death: 41  
+**Occupation:** Routing clerk, Weather Office records; handled witness-routing entries for lodged forecast sequences
+
+Ottine is dead two years before the Meridian Cut. She appears in the present only as a name, and that is the correct treatment: she has no scenes, no secret surviving self, and no withheld testimony waiting to be delivered. She is a routing clerk, which means her handwriting appears on the witness-routing chain of every sequence that passed through her desk.
+
+Her name is on the index entry that was cut out by hand from the citation to the Ninth Ward Record. A routing entry cannot name a clerk who was already dead when the record was lodged, so the routing trail is falsified, and whoever cut the index was hiding the fact that the chain could be checked. Ottine is therefore the evidence, not a suspect. The story must not resurrect her, deliver a posthumous message, or make her the hidden moral author of Anja’s work; that role belongs to Anja, and Ottine’s function is narrower and colder — she is the reason someone else had to cut a piece of paper.
+
+The hand that cut the index is identified in **Volume 05**. The reason is given only in Ione’s **Volume 11** testimony.
 
 ## Cast discipline
 
