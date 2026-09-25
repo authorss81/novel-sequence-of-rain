@@ -4,6 +4,8 @@
 
 Veyra is a dense city-state built in the shallow basin known as **the Sill**. Lake Orra lies to the west, the Nacre Range closes the northern horizon, and the broad floodplain of the **Lower Sill** opens toward the southern farms. The city has grown around nine watersheds rather than a single street plan. Each watershed has its own storm ward, reservoir, market, and local assembly; several watershed boundaries continue beyond Veyra into Morrow Fen, Red Sill, and Ternway.
 
+A **ward** is therefore the unit of civic identity as well as drainage. A Veyran describes where they live by ward and street, never by district, because the ward decides the water, the school closures, the tower signal glass, and the assembly that can challenge a forecast. The nine wards do not match the neighborhoods, the poorer districts, or the trade routes, which is a frequent source of resentment: Low Spindle shares a ward with clean and well-connected ground, and Hearthward’s terraces sit on a ward whose reservoir serves a third of the city. Political weather in Veyra is usually this mismatch arguing with the weather.
+
 Veyra is modern in its civic life but not frictionless. Electric trams run beneath elevated weather rails. Airships dock at the Kestrel Yards. Print presses, radio weather bulletins, pneumatic dispatch tubes, mechanical calculators, and storm-glass instruments sit alongside older communal rain gauges. Most people do not think of the weather as untouched nature; they think of it as a dependency that must be maintained, budgeted, and distrusted.
 
 The skyline is low enough to see weather coming. Copper gutters divide the roofs. Water tanks line the upper terraces. On clear mornings, the nine ward towers show as thin black lines above the haze, each carrying a different color of signal glass.
@@ -35,6 +37,18 @@ The Meridian can make a local sequence more orderly, but it cannot make the basi
 The **Weather Council** is a regional treaty body with nine Veyran watershed seats, three rotating regional seats that represent the neighboring polities, and a Crown Basin custodian who controls the central lock. The regional seats rotate among Morrow Fen, Nacre Holds, Red Sill, and Ternway; each of those communities also has a standing, non-voting seat in the relevant forecast cell and can refuse a merge that threatens its own watershed. A basin-wide claim requires eight of the twelve Council votes, a named local sponsor, and a published expiry. An emergency mandate can be withdrawn by the same eight-vote quorum, including at least one regional seat. The Council can certify a basin-wide claim, suspend a tower, and authorize a merge of local forecasts. It cannot rewrite local land law, but it controls the instruments and contracts that make regional coordination possible. Its charter is the legal source of the central authority the Meridian later obeys.
 
 The central lock recognizes the quorum, not the director’s personal command. A director can still force the lock with a physical key, but doing so overrides the recognized witness and creates a counterturn rather than a clean authorization. This distinction is why Rook can be removed from the mandate without pretending that a compromised machine becomes harmless.
+
+## Named weather events
+
+Veyran weather is not anonymous. A few conditions recur often enough to have names, calendars, and strong local opinions.
+
+- The **Bellweather Front** is the autumn collision that opens the series. Cold air off the Nacre Range meets the warm lake draw and a western Ternway turn inside the same six-hour cycle, so the six movements arrive out of their usual order. It returns every few years and is named for the district that takes the worst of it. It is dangerous and it is ordinary: dangerous because of where Veyra has put its roads, warehouses, sheds, and airship yards, not because the sky is a monster.
+- The **Unweathered Year** names the eleven-day rain failure and works as a unit of warning. “We had a Bellweather” is a complaint about the weather. “We had the Unweathered” is an argument about who is allowed to decide.
+- The **White Noon** is a brighter, quieter failure. Dry wind arrives under a sky that looks settled and harmless while the six movements begin canceling one another, so nothing releases. Wardens are trained to treat the first clean horizon as a symptom rather than relief.
+- The **red split** is the local name for the dry southward branch that forms over Red Sill. It is a weather word and a trade grievance at the same time.
+- **Turn nights** are the fast western pressure turns that Ternway sells passage on. They are the most valuable and least predictable hours in the basin, which is exactly why route brokers exist.
+
+Weather that is only ominous is not weather. A working scene should be able to name what the sky is doing, who in the district has to move, and what an official notice would say about it.
 
 ## The Meridian
 

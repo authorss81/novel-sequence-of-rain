@@ -13,9 +13,16 @@
 
 In the rainward city of Veyra, a weather researcher discovers that atmospheric spells follow a hidden six-movement sequence and that every precise forecast that people act upon closes one still-possible branch of reality, forcing him to choose between saving the city and keeping the future open.
 
-## Central promise
+## What makes this novel distinct
 
-Each volume turns an ordinary weather dependency into a difficult civic choice. Marek’s practical success must always produce a traceable question: what was saved, what possibility disappeared, who paid, and who had a say? The series alternates field action, instrument work, political pressure, training, investigation, relationship work, and recovery.
+Most progression fiction spends power outward: the hero gains options and the world gets smaller. This series spends *possibilities* outward, so every gain the protagonist makes is paid for by an option somebody else can no longer take. Four consequences follow, and they should be visible in every volume.
+
+1. **The protagonist’s core ability destroys rather than creates.** A read is free and harmless. A binding is a weapon pointed at a possibility. Marek’s most useful moments are the ones where he declines to use it, and his most damaging ones are the ones where he does not.
+2. **The antagonist is a sincere institution, not a hidden evil.** Rook is a rescuer whose competence was earned during a real catastrophe. The final conflict is over authority, not over defeating a monster. There is no secret evil organization, no hidden god, no time traveler, and no late-arriving cosmic threat.
+3. **The interface is an instrument, not a game.** The only recurring notice is a plain-language warning from sequence glass when a claim is about to bind, and it never tells Marek what the lost possibility was. He must do the reasoning and own the result.
+4. **The resolution is institutional.** The ending does not deliver a stronger personal power. It builds a Weather Commons, and the protagonist’s final limitation — he can no longer read a sequence alone — is the visible proof that the choice was real.
+
+The genre promise is weather mystery, but the engine is civic: readers should want to know not only what the sky will do but who is allowed to say so, who was consulted, and what the answer cost.
 
 ## The protagonist
 
@@ -134,8 +141,8 @@ The series moves from rooms and districts to regional infrastructure and finally
 **Central pressure:** The Bellweather Front collides over Veyra while the Weather Office wants one safe answer for the airship yards and Low Spindle.  
 **Marek’s change:** From cautious Reader to a researcher who has seen a real spend.  
 **Major work:** Field forecasts, instrument repair, office politics, Tarin’s first reluctant partnership, and the first public dry line.  
-**Resolution:** Marek prevents a mass airship loss, but the spent repair-convoy branch for the Lower Sill culvert is gone; the later south-bank landslide is storm damage, while the missing repair opportunity is the real spend. He secures the release of the Bellweather readings and keeps a copy of the missing Ninth Ward reference.
-**New question:** Who altered the old forecast, and why does the repaired glass carry a sequence that the current instruments cannot produce?
+**Resolution:** Marek prevents a mass airship loss, but the spent repair-convoy branch for the Lower Sill culvert is gone; the later south-bank landslide is storm damage, while the missing repair opportunity is the real spend. Corrin Malle suppresses the entry, the junior glass-tender Tovan Iles keeps a private copy of the true ledger, and Marek forces the Bellweather traces into the public hall in a form that is incomplete and deniable — enough that the spend is now on the record, not enough to keep his job. In the archive he finds only a **citation** to the Ninth Ward Record: proof that it existed, who signed it, and that an index reference to it was cut out by hand.  
+**New question:** The cut index names a clerk who died before the Meridian Cut. Who removed the reference, and why does a repaired Ninth Ward tower carry a sequence trace that no current instrument can produce?
 
 ### Volume 02: The Market of Possible Routes (Chapters 49–96)
 
@@ -214,12 +221,12 @@ The series moves from rooms and districts to regional infrastructure and finally
 **Central pressure:** The damaged engine, the exposed history, and the provisional charter force every faction to negotiate what a legitimate forecast can be.  
 **Marek’s change:** He accepts a public role without treating public office as personal proof of goodness.  
 **Major work:** Regional negotiations, Ione’s testimony, Sable’s public archive, Rook’s last attempt to restore centralized authority, and a controlled local test.  
-**Resolution:** The city agrees to nine linked watershed cells that can display conflict and refuse silent merging. An emergency session of the Weather Council withdraws Rook’s public mandate to act as sole authority by an eight-of-twelve vote, but he retains the old core key and remains capable of forcing the lock at the cost of a counterturn. Anja’s full record is recovered and establishes the original civic purpose.
+**Resolution:** The city agrees to nine linked watershed cells that can display conflict and refuse silent merging. In an emergency session, the Weather Council withdraws Rook’s public mandate to act as sole authority by an eight-of-twelve vote including two regional seats, but he retains the old physical core key and remains capable of forcing the lock at the cost of a basin-wide counterturn. The **Ninth Ward Record** is recovered and establishes the original civic purpose and the deliberate erasure of the corridor evidence.  
 **New question:** At the next convergence, will the city name one final answer or let the people inside the forecast choose?
 
 ### Volume 12: The First Turn (Chapters 529–580)
 
-**Central pressure:** The White Noon arrives early. Rook attempts to restore the Last Forecast while the new network is still fragile.  
+**Central pressure:** The White Noon arrives early. Rook has no public mandate and no recognized witness, but he still holds the core key, and he means to force the Last Forecast through the lock while the new network is still fragile.  
 **Marek’s change:** He refuses to be the final solitary reader and becomes a Forecast Warden whose power is shared.
 **Major work:** A citywide race to open and protect the nine towers, public assemblies, conditional forecasts, a physical struggle over the core lock, and the first true operation of the Weather Commons.  
 **Resolution:** The city refuses a single global claim. Local forecasts disagree, preparations are made visible, and the Meridian holds the atmosphere together without choosing for everyone. The lower basin loses a bridge and a season of water; twelve residents die. The cost is public, compensated where possible, and never secretly charged to another district. Marek’s final sequence burn leaves him unable to read a sequence alone.
@@ -227,3 +234,35 @@ The series moves from rooms and districts to regional infrastructure and finally
 **Final mystery answer:** The Meridian was a civic pact, not a prophecy machine. Rook signed the Cut, Ione erased the route evidence, and later authorities made the hidden spend routine.
 **Final world state:** Veyra and its neighboring basin communities have a rotating Weather Commons Council, nine watershed forecast cells with local and regional seats, public forecast records, local consent, automatic expiry of claims, independent appeals, and a compensation fund. Weather remains dangerous, but no publicly authorized forecast can be made binding without naming its known costs and accepting public responsibility.
 **Final image:** Several local forecasts disagree over Veyra as rain crosses the basin. No one can claim to know the whole future. People act anyway, and Marek stands in the rain without a private answer, finally able to trust the people beside him.
+
+## Canon guardrails
+
+These are fixed before prose begins. A batch that breaks one of them is a continuity failure, not a creative choice.
+
+**The magic**
+
+- A read is free. Only a witnessed binding spends. No character ever loses a branch by thinking about it, dreaming it, or simply being right.
+- A spend is never refunded, reversed, paid back, or reopened. Breaking a **maintenance seal** on the Ninth Ward corridor is lawful restoration. Reopening a spent branch is not.
+- A false binding always spends before it rebounds. There is no safe way to test a claim.
+- Counterturns come from false claims, broken movements, forced locks, and contradictory bindings. They are physical and local. There is no global reset.
+- No advancement ever removes a cost. Every new stage takes something physical, social, or civic away.
+- After the final volume Marek cannot read a sequence alone, and this is never cured.
+
+**The mystery**
+
+- The Meridian was a civic instrument repurposed by lawful decision. Its corruption is administrative and historical, not magical malevolence.
+- Rook signed the Meridian Cut order. Ione Sere executed the deletion. Anja closed one branch, failed to save the other, and died. These are settled facts by Volume 12 and must not be softened into accident or reassigned to a new character.
+- The pre-Meridian origin of atmospheric sequence stays unanswered. It is not a sequel hook and never justifies a new power.
+- The Ninth Ward Record (recovered in Volume 11) and the Crown Basin sheet (found in Volume 12) are separate documents. Do not merge them.
+
+**The people**
+
+- Rook survives, loses his office and mandate, and lives under public judgment and a repair order. He is not redeemed, executed, or explained away.
+- Marek and Tarin keep separate careers, separate money, and the right to disagree in public. Neither leaves their work to be with the other. This is the only romantic relationship in the series.
+- Every volume must leave the lead less able to act alone than the last one, not more.
+
+**The institution**
+
+- The Weather Commons has nine watershed cells, local and regional seats, published evidence, automatic expiry, appeal, and compensation. It is plural, slow, and imperfect. It does not end the weather problem.
+- Twelve people die in the final operation, including people who followed an official local notice. The number is canon.
+- No new final enemy may be introduced in any volume. If a late threat appears, it must be an existing faction, factional interest, or weather, and it must be flagged in the continuity state when introduced.

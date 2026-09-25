@@ -10,7 +10,13 @@ Marek is calm under pressure when he has a working instrument in his hand. He ca
 
 ### Want
 
-Marek wants to recover the **Ninth Ward Record**, the missing forecast sequence signed by his mother before the Meridian Cut, and prove that the Bellweather Front’s official account was deliberately narrowed rather than an unavoidable natural accident. He also wants the Weather Office to publish the real cost of official forecasts. In practical terms, he wants a system that can save people without making him the only person who knows what is coming.
+Marek wants two things, and for most of the series he cannot keep them apart in his own head.
+
+The first is the **Ninth Ward Record**, the forecast sequence his mother signed before the Meridian Cut. Recovering it would prove that a low-ward route was sealed and hidden rather than spent, and that someone inside the Weather Office ordered the erasure. This is a twelve-year-old question about his family.
+
+The second is the Bellweather notice. In the opening arc his own binding spends a branch, and the Office files the consequence as ordinary maintenance failure. He wants that spend published in the same ledger where the culvert damage appears, with his name on it.
+
+These are not the same evidence and must never be written as one. The Ninth Ward Record cannot prove anything about the Bellweather Front, and the Bellweather notice cannot prove anything about his mother. What joins them is his actual objective, which he states badly for most of the series: a system that can warn people without making one reader the only person who knows what is coming, and without hiding what the warning spent.
 
 ### Need
 
@@ -34,7 +40,7 @@ His deepest fear is saying “I knew” after a death, or hearing himself say �
 
 Outside the Office, Marek keeps a small workbench in his rented room above a tram repair shop. He eats cold barley soup standing at the bench, repairs bells and weather seals for neighbors rather than charging them, and talks to instruments in plain sentences when he is worried. He does not drink, gamble, or seek dramatic refuges; his vice is overwork. When he cannot sleep, he copies the day’s pressure traces by hand until the lines stop feeling like evidence.
 
-His oldest non-Office friend is **Pell Ardan**, a glassblower and bicycle courier who worked beside him during the rain-maintenance apprenticeships. Pell is not a reader, but he knows which glass seams hold under pressure and which people can be trusted with an unfinished report. Their friendship gives Marek a place where being useful does not require being right. Pell’s blunt question—“Who did you ask to carry this?”—recurs when Marek starts making decisions alone.
+His oldest non-Office friend is **Pell Ardan**, a glassblower and bicycle courier who worked beside him during the rain-maintenance apprenticeships. Pell is not a reader, and he is the one person Marek cannot impress with a well-made instrument. Their friendship gives Marek a place where being useful does not require being right. Pell’s blunt question—“Who did you ask to carry this?”—recurs whenever Marek starts making decisions alone. See his full entry under Recurring supporting cast.
 
 Marek and Tarin first met during a Kestrel Line rescue in Hearthward, three years before the opening. Marek had a public forecast that was technically accurate but omitted a rooftop landing option; Tarin ignored it, saved her crew, and then made him explain the omission to a room of angry passengers. Their later trust begins from that disagreement, not from a rescue he performs to win her affection.
 
@@ -128,7 +134,70 @@ Oren is blunt, tired, and protective of his son in ways that often feel like ref
 **Age:** At disappearance: 38  
 **Occupation:** Sequence cartographer, formerly of the Weather Office
 
-Anja was the first researcher to argue that a forecast’s sacrificed branch was a real civic possibility rather than a statistical nuisance. She disappeared during the Meridian Cut while trying to preserve a low-ward evacuation route. Her final records show that she deliberately closed one branch to stop a larger collapse and then failed to save the other route she had hoped to keep. She is dead; she is not resurrected or replaced by a secret surviving personality. Her legacy is a method, a warning, and the moral question Marek must answer.
+Anja was the first researcher to argue that a forecast’s sacrificed branch was a real civic possibility rather than a statistical nuisance. She disappeared during the Meridian Cut while trying to preserve a low-ward evacuation route. She is dead; she is not resurrected or replaced by a secret surviving personality. Her legacy is a method, a warning, and the moral question Marek must answer.
+
+She left two distinct documents, and they must not be confused:
+
+- The **Ninth Ward Record** is her official signed forecast sequence for the Ninth Ward, lodged with the Office before the Cut. It is the document that proves the surviving corridor was sealed and hidden rather than spent. It is missing at the opening and is recovered in Volume 11.
+- The **Crown Basin sheet** is her last set of working readings, written by hand inside the sealed chamber during the Cut. It records the branch she deliberately closed to keep the collapse out of Low Spindle, the route she failed to save, and the reference to Rook’s signed order. It is found in Volume 12.
+
+Neither document contains a solution. Anja’s records show her failing correctly and being overruled anyway.
+
+## Recurring supporting cast
+
+These are working characters who give the series its ordinary texture. They are not in every volume, and none of them exists only to admire or oppose Marek. Each has an independent reason to be in a room.
+
+### Pell Ardan — glassblower, courier, oldest friend
+
+**Age:** 34  
+**Occupation:** Glassblower and bicycle courier, Kestrel Yards workshop district
+
+Pell worked beside Marek during the rain-maintenance apprenticeships and is not a reader. He knows which glass seams hold under load, which wardens answer a knock, and which people can be trusted with an unfinished report. He is the only person who can tell Marek he is wrong without needing a reason from the Office.
+
+Pell’s function in the series is to keep the cost physical. When a chapter is about a spend, he is the person who has to find the glass, the strap, or the part that no longer exists in the shed. His recurring line is “Who did you ask to carry this?” He is injured during the Volume 07 breach and never fully trusts Marek’s field judgment again, though he stays in the workshop. He does not become a reader and does not receive a magical resolution.
+
+### Corrin Malle — Deputy for Field Forecasts, Marek’s supervisor
+
+**Age:** 54  
+**Occupation:** Deputy Director for Field Forecasts, Veyran Weather Office
+
+Malle assigns Marek to the Bellweather watch and is the man who decides how much of the notice reaches the public ledger. He is not corrupt. He is a middle manager with thirty years of institutional memory, a pension, and a genuine belief that a clean record is the only thing that keeps Veyra fundable.
+
+Malle is the first person to ask Marek for a falsifiable account of what he saw, and the first to bury one. He permits the Bellweather spend to be filed as maintenance failure, then spends four volumes trying to keep Marek from publishing it, and finally testifies against Rook in Volume 11. His arc ends in an early, unglamorous retirement and an unfinished letter to Marek. He is never forgiven and never villainized.
+
+### Tovan Iles — junior glass-tender
+
+**Age:** 27  
+**Occupation:** Sequence-glass tender and copy clerk, the Weatherglass
+
+Tovan works the glass benches, logs the traces Marek produces, and is the person who physically writes his claims into the ledger. She is cheerful, quick, and terrified of being wrong in a way that matters. Tovan is the series’ ordinary witness: she is the audience for what a spend feels like from the clerical side, where it is a number in a column and someone has to decide whose name goes under it.
+
+She refuses to falsify the Bellweather entry, is demoted to copy work as a result, and becomes the first archivist of the Weather Commons. Her later authority comes from keeping records that cannot be quietly edited, not from a hidden talent.
+
+### Anwen Sarr — Hearthward assembly chair
+
+**Age:** 46  
+**Occupation:** Chair of the Hearthward rain-garden assembly
+
+Anwen represents the district that refuses official forecasts most often, and she refuses them for good reasons. Hearthward’s rooftop seed vaults, market, and terraces depend on weather work that the Office has already spent elsewhere. She is the political counterpart to Marek’s practical certainty: she agrees that warnings save lives and insists that the people receiving them hold a vote.
+
+She is the assembly member who defeats Marek’s first attempt to force a local claim in Volume 04, which begins his education in consent. She survives the ending and holds a rotating seat on the Weather Commons Council.
+
+### Juba Tren — No-Forecast Assembly organizer
+
+**Age:** 38  
+**Occupation:** Mason and organizer, the No-Forecast Assembly, Hearthward
+
+Juba’s movement rejects every binding claim and accepts the practical consequences: crop loss, flood risk, unmended roofs. Juba is not a fanatic and is not written as one. He has watched two districts hit by a preventable storm because officials closed the discussion, and he believes the honest position is to leave the weather unwritten and let people stand in it.
+
+The story gives his position a fair trial in Volume 09, and a no-forecast district is then hit by a disaster that a single published claim would have limited. Juba is not discredited by this; he is confronted by it, and he argues afterward that a limited loss is different from a purchased obedience. He is a recurring opponent of convenience, not of safety.
+
+## Cast discipline
+
+- Every named character above has a want that survives without Marek. If a character only exists to interpret the protagonist, cut or merge them.
+- No new reader, warden, or broker is introduced as a hidden prodigy. New specialists are ordinary specialists with one narrow, inconvenient skill.
+- Antagonists are not secretly good men. Rook genuinely believes he is protecting the city; Juba genuinely believes he is refusing to do that. Neither position is resolved by a speech.
+- Marek’s mother is dead and stays dead. No surviving caretaker, secret twin, or preserved consciousness is introduced to carry her plot.
 
 ## Relationship progression
 

@@ -12,7 +12,7 @@ The world after the ending is safer because it is more plural, not because weath
 
 ## Final external conflict
 
-The White Noon is a basin-wide sequence failure caused by more than two decades of centralized binding. The sky brightens, rain pressure collapses, and the six movements begin canceling one another. If the failure continues, the city faces mass dehydration, crop loss, airship collapse, and fires from dry infrastructure. The physical trigger is the **locked grammar**: the central lock treats one official claim as the only stable route through the failing movement, so the same coordination that once displayed alternatives now makes them unavailable.
+The White Noon is a basin-wide sequence failure caused by roughly twenty years of centralized binding. The Quiet Years ended about a decade after the Unweathered Year, and the Meridian Cut twelve years before the opening was the moment the correction stopped being argued about and became procedure. The sky brightens, rain pressure collapses, and the six movements begin canceling one another. If the failure continues, the city faces mass dehydration, crop loss, airship collapse, and fires from dry infrastructure. The physical trigger is the **locked grammar**: the central lock treats one official claim as the only stable route through the failing movement, so the same coordination that once displayed alternatives now makes them unavailable.
 
 Director Cassian Rook activates the **Last Forecast**, a single claim derived from the Meridian’s hidden reserve. The reserve is a live record of currently available compound branches, not stored power. Rook binds the compound branch that contains every coordinated local alternative to the official White Noon response. The claim promises to stop the White Noon for seventy-two hours, but the branch is permanently spent once bound; the seventy-two hours are the claim’s operational window, not a temporary reprieve. The branch includes a ward’s independent warning, a family’s chosen evacuation, a crew’s alternative landing, and every civic choice that does not fit the official line.
 
@@ -28,11 +28,23 @@ He refuses the single answer. Instead, he asks each local forecast cell to state
 
 Marek’s final power is not greater than Rook’s. It is less isolating. He can read the sequence only through the instruments and people around him, and he cannot guarantee that every district will be saved.
 
+## State that Volume 12 opens from
+
+Volume 12 is not self-contained. It assumes the Volume 11 resolution has already happened, and any batch that opens without these facts will contradict the series outline.
+
+- The **Weather Charter** is law, interim and contested. Nine watershed cells exist, are connected, and have never been trusted through a real convergence.
+- The Weather Council has withdrawn **Rook’s public mandate** by an eight-of-twelve vote including two regional seats. The core lock therefore no longer recognizes his claim as its only authorized witness.
+- Rook still holds the **physical core key**. He has lost authority, not access. This is the engine of the final volume: he can still force the lock, and forcing it is exactly what would produce the basin-wide counterturn.
+- The **Ninth Ward Record** has been recovered and authenticated. It proves the corridor was sealed and deleted rather than spent. It contains no method that would stop the White Noon.
+- The Meridian’s upper chambers are damaged, the basin lock is failing, and the narrowed sequence is converging again.
+- Ione Sere has not yet testified. Sable Orin’s archive operates under the Charter and is still resented by the Office. The No-Forecast movement has not yet been tested by a disaster a single published claim would have limited.
+- The twelve deaths are unknown to every character, and no one in Volume 12 may foresee them as a cost.
+
 ## Final volume movement
 
 ### Chapters 529–538: The weather before the weather
 
-The city is living under the provisional Weather Charter. Nine local cells are connected but fragile. The White Noon appears earlier than the instruments expected, and dry wind reaches the outer farms before the first formal warning.
+The city is living under the interim Weather Charter. Nine local cells are connected but fragile. The White Noon appears earlier than the instruments expected, and dry wind reaches the outer farms before the first formal warning.
 
 Marek is no longer a protected Office researcher. He works as a **Forecast Warden** whose claims can be challenged by any affected assembly. Tarin commands the Kestrel Line; Neris coordinates Low Spindle’s drains and shelters; Sable prepares the open archive; Ione testifies about the First Compact.
 
@@ -48,7 +60,9 @@ Marek discovers the reserve is not a reserve of power. It is a live record of th
 
 ### Chapters 549–556: Anja’s last record
 
-The coalition reaches the sealed First Compact chamber. Ione authenticates Anja’s final record. It does not contain a perfect prediction. It contains a failed attempt to preserve one route and a deliberate closure of another branch to keep the collapse out of Low Spindle. The record also identifies Rook’s signed Cut order and the maintenance seal that hid the surviving corridor.
+The coalition reaches the sealed First Compact chamber. Ione authenticates the **Crown Basin sheet** — Anja’s final working readings, a different document from the Ninth Ward Record recovered in Volume 11. It does not contain a perfect prediction. It contains a failed attempt to preserve one route and a deliberate closure of another branch to keep the collapse out of Low Spindle.
+
+The sheet also carries a maintenance seal tag with a stamped number, which is how the surviving corridor is proved to have been physically sealed and administratively deleted rather than spent. Rook’s signed Cut order is referenced on the same page in his own hand, with the low-ward projection omitted. Anja did not discover a conspiracy. She documented an omission and was overruled.
 
 Anja’s last note gives Marek no secret solution. It gives him a method: show the conditions, name the uncertainty, and return the choice to the people who will bear it. Her body is not found restored. She is dead, and the possibility of recovering her is not treated as a reward for reaching the end.
 
@@ -68,9 +82,11 @@ The Weather Office custodians try to force the cells into a single merged claim.
 
 Rook enters Crown Basin and holds the central lock. He does not need to defeat the coalition by force alone. He only needs to keep the lock closed long enough for the White Noon to pass its point of no return. The nine local cells now publish live evidence showing that the compound branch is not one route but a set of choices made by different people. As each district reports a workable alternative, the Last Forecast’s projected certainty drops without any single tower being defeated.
 
-Marek enters after him. The confrontation is a struggle over who can name the first turn. Rook offers Marek Anja’s preserved sequence and a final private choice. Marek refuses to use it. He turns the sequence glass toward the public channel and records the disagreement instead of resolving it.
+Marek enters after him. The confrontation is a struggle over who can name the first turn, and it cannot be settled by authority, because Rook no longer has any. Rook offers Marek the recovered Ninth Ward Record as a basis for one last witness-anchored claim, and with it a final private choice. Marek refuses to use it. He turns the sequence glass toward the public channel and records the disagreement instead of resolving it.
 
-In an emergency session, the **Weather Council** votes eight of its twelve seats, including two rotating regional seats, to withdraw Rook’s mandate under the Charter. That withdrawal matters mechanically as well as politically: the central lock can no longer treat his claim as the only recognized witness. The live counter-readings show that keeping it closed would create a counterturn across the basin, not merely delay the White Noon. Rook is still certain that central command is safer in the abstract, but he recognizes that his authority is no longer the authority the locked grammar recognizes. He has one final mechanical choice: force the lock with his key and accept a basin-wide counterturn, or release it and let the local network hold what it can. He releases it. This is a partial tactical rejection of permanent control, not a conversion: he still believes the city needs a final answer, and he must live under the system he surrendered. The act does not erase his responsibility; it makes the final outcome possible.
+Rook puts the core key into the lock. This is the mechanical climax and it must stay physical: the lock answers the key, not the mandate, so the Council’s vote has not weakened the machine. It has only left the machine in the hands of a man whose answer nobody else is obliged to accept. The live counter-readings show what turning it would cost — a basin-wide counterturn, not a delay of the White Noon.
+
+Rook releases the key rather than turning it. This is a partial tactical rejection of permanent control, not a conversion. He still believes the city needs a final answer, and he must live under the system he surrendered. The act does not erase his responsibility for the Cut. It is the only reason the final outcome is possible at all.
 
 ### Chapters 569–574: What cannot be controlled
 
@@ -83,7 +99,6 @@ Marek cannot stop the deaths with a hidden power. He can record them, answer for
 Marek’s personal sequence burn leaves him unable to read alone. The ability is not replaced by a greater private power. He must work with a Chorus for any future claim. This is both a practical limitation and the visible result of his final choice.
 
 ### Chapters 575–580: The first turn
-
 The Weather Commons completes the weather cycle without a single basin-wide claim. Rain returns unevenly. Some fields receive it; some do not. The airships reroute. Schools and markets follow local notices. The city remains alive because many people made decisions together, not because one person saw the future.
 
 The surviving custodians and the Weather Office are placed under a public review. The Office becomes an open technical service. Lior Venn’s records are opened for correction. Maro Hesk’s contracts are rewritten to disclose weather dependencies. The Quiet Ledger’s archive becomes a civic resource under rotating stewardship.
@@ -93,6 +108,15 @@ Rook is removed from office and placed under public judgment. He surrenders the 
 Ione publicly confesses her part in the Meridian Cut. Sable becomes responsible for a consent-based archive that publishes claims only after affected witnesses can see the risk. Neris, whose shoulder injury is documented rather than hidden, leads a Storm Warden council that can refuse an unsafe central merge. Oren attends the Low Spindle memorial and begins a cautious reconciliation with Marek. Anja remains dead and unrecoverable, but her last record is preserved in full.
 
 Marek and Tarin choose a shared life without merging their work. Tarin keeps the Kestrel Line, now a worker-owned weather cooperative; Marek works in the Weather Commons and trains local readers. They have a home, not a rescue from the world. They are allowed to disagree in public and return to one another afterward.
+
+## What the final operation spends
+
+The ending is not free. The Commons works, and it still costs. Exactly two things are spent, and both must be legible in prose rather than left to implication.
+
+- **The Low Spindle conditional claim.** Before the inversion, the Low Spindle cell issues a bounded claim: *if the river gate is lowered by 04:00, the local wind turn will hold past dawn and the footbridge approach will drain clear.* Neris’s wardens accept the condition and lower the gate, which makes the claim binding. The spend is the branch in which the turn reverses early enough for a shoring crew to reach the bridge in time. The claim is accurate — the turn does hold past dawn, and the gate does drain — and the bridge is lost anyway at 05:10 to a reversal nobody forecast. This is why the twelve deaths are the direct consequence of a binding forecast and not bad luck. The crew that could have saved the bridge is not missing by chance; the option of sending it is closed, and it stays closed.
+- **Marek’s private read.** In the last hour Marek reads the basin alone to find the first turn, and the sequence burns through the record of his own bindings. No mysterious force punishes him. He has bound a great many claims over many years, with too few other witnesses holding them, and the cost was always coming. It arrives now because it is the last moment he is still strong enough to need it.
+
+Nothing else is spent. No branch reopens. Anja stays dead. The Ninth Ward corridor is unsealed and physically reopened, which is the lawful repair of a lie, not the return of a spent possibility — and the distinction is the whole argument of the final volume, stated in stone and brass rather than in a speech.
 
 ## Final emotional answer
 
