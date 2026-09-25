@@ -148,7 +148,7 @@ The assessor put her pen down.
 
 "There is no form."
 
-"There is always a form, madam, and you know it better than I do, because you have spent eleven years filling in boxes and so have I, and I have been in this job nineteen years and I have put a hundred and forty things into a hundred and forty boxes and about a hundred and thirty of them came back with a stamp on them saying that the box was for something else."
+"There is always a form, madam, and you know it better than I do, because you have spent eleven years filling in boxes and so have I, and I have been in this job nineteen years and I have put about a hundred and forty things into as many boxes and all but nine of them came back with a stamp on them saying that the box was for something else."
 
 "Mrs Cray—"
 
@@ -176,15 +176,17 @@ The assessor looked at her for a moment.
 
 ---
 
-Afterwards, on the Quay Steps, in about nine inches of a Saturday's earlier mud and a great deal of smell from a drain Nell Cray had chased on the Monday and not yet caught, they stood about four feet apart and looked at a door.
+Afterwards, at the bottom of the Quay Steps, in about nine inches of a Saturday's earlier mud and a great deal of smell from a drain Nell Cray had chased on the Monday and not yet caught, they stood about four feet apart and looked at the steps.
 
-"Will you come in?" said Nell Cray. "There is nothing to see. There is a room and a flag floor and a barometer with no glass in it, which has never had any glass in it, and a boat hook against the wall of my office at home which came out of about eight inches of water and which nobody will explain to me, and there is a smell from that drain which I am going to have chased by the end of the week."
+"Will you come up?" said Nell Cray. "There is nothing to see. There is a boat hook against the wall of my office at home which came out of about eight inches of water and which nobody will explain to me, and there is a smell from that drain which I am going to have chased by the end of the week."
 
 "No," said Marek Vale.
 
-"No," said Nell Cray. "Then I will tell you what the room looks like and you can decide about it later, which is the only thing anybody in this basin can be got to do.
+"No," said Nell Cray. "Then I will tell you what the district keeps, and you can decide about it later, which is the only thing anybody in this basin can be got to do.
 
-"There is a front room with a stone floor and three rooms and a yard at the back with a metre step down into it, and the boat hook's dust is still on the yard wall where it leaned, and the two of them are alive and at home and one of them is seventy-eight at Michaelmas and the other is eighty-two and says seventy-seven, and I have been down that lane in boots every winter for six years, and Mr Vale, they argue about the composition of tea."
+"It is three arrangements. Two of them are on a rota with a column of days on it and anybody in this Council who wanted one could have sent a box down and got it in a week, and I would have sent it, and I did not, because nobody asked, and that is the whole of the difference between the two of them and the third.
+
+"The third is two lines in a book. And the third is the only one of the three that would have mattered on the twenty-first, and I said that out loud in a room with a Council assessor in it this morning and I am not going to unsay it going down a hill."
 
 He did not say anything. There was not very much to say to it and he had about nine inches of a look left in him and the look was not for this.
 
@@ -200,7 +202,7 @@ He did not say anything. There was not very much to say to it and he had about n
 
 "I did **everything** right," said Nell Cray. "Six years, in boots, on a Thursday, in the wet. That is what I did, and the reason the room is still standing in front of me is that I did it perfectly, and the thing that happened to it happened because it was perfect, and I have had seventeen days and I have got to about two o'clock in the morning most nights with that, and I am not asking anybody to fix it, and I would be very much obliged if nobody in this basin ever came up with a way to fix it, because I know what the way to fix it looks like and it looks like a box, and I want a box."
 
-Then she went up the steps and got her key ring off the hook and unlocked the district office and let herself in and shut the door behind her, and Marek Vale stood at the bottom of the Quay Steps in the mud with a boat hook he had been told about three times and did not understand, and looked at a district that had kept a two-line sheet in a book for six years and had been, for exactly that reason, the only district in this basin that had never once been able to be shown what it had lost.
+Then she went up the steps and got her key ring off the hook and unlocked the district office and let herself in and shut the door behind her, and Marek Vale stood at the bottom of the Quay Steps in the mud and looked up at a street of closed doors that nobody in this city is ever going to open a book about, and at a district that had kept a two-line sheet in a book for six years and had been, for exactly that reason, the only district in this basin that had never once been able to be shown what it had lost.
 
 ---
 

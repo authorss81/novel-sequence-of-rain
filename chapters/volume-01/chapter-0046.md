@@ -4,7 +4,7 @@ Nell Cray had come in on the Monday morning of the forty-sixth day at about half
 
 There were about sixty people in it. That is the number and it was counted, later, by a man in the outer office doing a head count because nobody could think what else to do with a morning.
 
-They were all there for the same thing. Four licensed carriers and two insurers had paper priced on the fifth of the month against a corridor figure the Office's own bulletin had since made an hour and a half too long, and a corridor that held for four days on a claim entered under a Director's authorization in a yard-side district, and a column of differences that had been in a Council's file for a fortnight, and two of the four carriers who had read that column and discounted the yard's cover in writing over it.
+They were all there for the same thing. Four licensed carriers and two insurers had paper priced on the fifth of the month against a corridor figure the Office's own bulletin had since made an hour and a half too long, and a corridor that held for four days on a claim entered under a Director's authorization in a yard-side district, and a column of differences that had been in a Council's file for ten days, and two of the four carriers who had read that column and discounted the yard's cover in writing over it.
 
 They wanted to know whether they were insured.
 
@@ -70,11 +70,11 @@ He heard about it at about two in the afternoon from a shop's boy who had been s
 
 **The Office adopted it inside a week.**
 
-That is the whole of that sentence and it should not be softened. On the same afternoon, in the outer office of the Weatherglass, a clerk was asked, in the ordinary course, to open a new heading in a returned ledger, and wrote at the top of it **DISPLACED TURNS — DRY LINES**, because the form already said what the form said and a clerk completes a form in the form's own words and this building has spent six weeks proving that that is how everything happens.
+That is the whole of that sentence and it should not be softened. On the Thursday, in the outer office of the Weatherglass, a clerk was asked, in the ordinary course, to open a new heading in a returned ledger, and wrote at the top of it **DISPLACED TURNS — DRY LINES**, because the form already said what the form said and a clerk completes a form in the form's own words and this building has spent six weeks proving that that is how everything happens.
 
 Nobody costed it. There is no line in any budget in this basin for a heading, and a heading is not a thing anybody funds, and the ledger was already printed and the type was already set and the column was already going in the returns whether it was called something or not.
 
-And that is the whole of the Office's adoption of a member of the public's word for the thirtieth of a month in which nothing whatever was happening in the sky: a clerk wrote two words on a ledger in a fair hand without lifting the pen, on the same afternoon, in the ordinary course of a clerk opening a page.
+And that is the whole of the Office's adoption of a member of the public's word for the thirtieth of a month in which nothing whatever was happening in the sky: a clerk wrote two words on a ledger in a fair hand without lifting the pen, on the Thursday, in the ordinary course of a clerk opening a page, three days after a woman said it in a queue and not one minute sooner.
 
 **Nobody in this building chose the phrase.** That is the actual finding about the coinage, and it is not a comfortable one, and it is the same shape as every other finding in this month: the institution's answer was a form, and the form had a box, and a woman in a queue put the right two words in it, and the box is now full.
 
@@ -96,7 +96,7 @@ She filled it in on the Monday of the forty-sixth day in about eleven minutes, a
 
 *None of these is a forecast. None of these makes a claim. None of these has ever been a public notice and I do not put them on one. I have said all of that in three previous covering notes and I am saying it again in this one because this form appears to be a different form, and because the reason I am saying it again is not for your benefit.*
 
-*The reason is this. On the twenty-first day of the month, the Council's certified claim did two of those three things, in a four-line letter, on the agenda, minuted. The third it did not touch. I have established that since the twenty-first and I have established it as a matter of record, and the record of it was made by a Council assessor in this building on the thirty-eighth day, and it says in eleven words that the effect of a claim on the preparations of a district cannot be demonstrated from the record, and it gives the reason, and the reason is my own district's fault, and the fault is that we never told you we had anything.*
+*The reason is this. On the twenty-first day of the month, the Council's certified claim did two of those three things, in a four-line letter, on the agenda, minuted. The third it did not touch. I have established that since the twenty-first and I have established it as a matter of record, and the record of it was made by a Council assessor in this building on the thirty-eighth day, and it says in nineteen words that the effect of a claim on a district's preparations cannot be shown from the record, and so reported, and it gives the reason, and the reason is my own district's fault, and the fault is that we never told you we had anything.*
 
 *I am not writing to complain and I want that in your file. I am writing because there is no box in this building for what we are, and there is a form with a box, and I am putting our practice in the box, and the fourth time I have filled that box in I would like somebody to write back and say either that it is a place or that it is not.*
 
@@ -114,7 +114,7 @@ And the thing she had been carrying for five weeks — the specific exhaustion o
 
 And it did not help. And she had not expected it to. She had written the note in the knowledge that it would not help, and she had written it because it was the fourth one and because the first sentence of the first one had been *there, now nobody can say nobody told them*, and she was not going to stop saying that until somebody told her something.
 
-Then she went to look at the column on the wall, because sixty people had been looking at it all morning and she had not, and she stood in front of it for about a minute and a half, and read the six items, and read the sixth one twice:
+Then she went to look at the returned ledger, which was on a trestle table against the wall because a trestle table was what a public building had, because sixty people had been looking at it all morning and she had not, and she stood in front of it for about a minute and a half, and read the six items, and read the sixth one twice:
 
 *Turns displaced: a reach-level window on the morning of the thirtieth, forty minutes, not established in any instrument of this office.*
 

@@ -2,7 +2,7 @@
 
 Anwen Sarr had a rule about Thursdays, which was that she did not read anything anybody had sent her until she had been in the building for an hour, and which had been formed on the ninth of a March in a different decade and had never once been explained to anybody, including Kell Bray, who had learned to work around it the way you learn to work around a tide.
 
-She got in at half past seven on the Thursday of the thirty-fifth day and did the first hour with the market hall, which meant standing in the upper room looking at boards across the doors of a hall that had not been open since the sixth of the month and would not be open for another three weeks, and would open, when it opened, onto a market with a season's seed stock in the lower six drawers of the vaults standing in water eighteen inches deep, because the lower six are the six that sit eighteen inches off the market floor and the water came up the retaining wall at twenty-three forty on the seventh and stood until eight on the morning of the eighth.
+She got in at half past seven on the Thursday of the thirty-fifth day and did the first hour with the market hall, which meant standing in the upper room looking at boards across the doors of a hall that had not been open since the eleventh of the month and would not be open for another three weeks, and would open, when it opened, onto a market with a season's seed stock in the lower six drawers of the vaults standing in water eighteen inches deep, because the lower six are the six that sit eighteen inches off the market floor and the water came up the retaining wall at twenty-three forty on the seventh and stood until eight on the morning of the eighth.
 
 Nobody brought either of those up.
 
@@ -50,7 +50,7 @@ She put her hand flat on the copy.
 
 The room turned round.
 
-Anwen Sarr had thought about this for three weeks. She had a hundred and forty words ready and she did not use any of them, and the reason she did not use them is the reason she has been a difficult woman to a series of careful men for six years, and it is this: she had looked at the room and there were nine people in it and six of them were waiting for her to be impressive.
+Anwen Sarr had thought about this for three weeks. She had a hundred and forty words ready and she did not use any of them, and the reason she did not use them is the reason she has been a difficult woman to a series of careful men for six years, and it is this: she had looked at the room and there were eleven people in it and six of them were waiting for her to be impressive.
 
 "Right," she said. "You want the why. I have had three weeks to write it and I have not written it, and I am going to tell you why I have not written it, and then I am going to give you the best version of it I have got, and it will be shorter than the one I have been carrying around.
 
@@ -136,7 +136,7 @@ Kell Bray wrote it down and did not tidy it, and it is in the minutes of the thi
 
 ---
 
-The room read it back, which is the practice, and the clerk who read it was on the far side of the table with his back to the north wall, and Marek got about half of it off the page in front of him and leaned forward on his right hand for the rest and nobody noticed that he had done it, because eleven people in a chamber with the windows shut are all leaning on something.
+The room read it back, which is the practice, and the clerk who read it was on the far side of the table with his back to the north wall, and Marek turned his chair to take it off the clerk's shoulder instead of off the page in front of him, and put his weight on his right hand, and nobody in the room noticed that he had done either of those things, because eleven people in a chamber with the windows shut are all leaning on something.
 
 So she had come in with a second clause behind the first one. And she had got it in, and the cost of getting it in was the name, and she had chosen the column over the name on her own authority, in a room, on the Thursday morning of the thirty-fifth day, in about eleven minutes of dictation, and she had done it on the record and in front of a clerk.
 

@@ -14,7 +14,7 @@ He was the second name on it.
 
 He read the whole thing again, standing up, with the light off the frames and the room beginning to fill behind him.
 
-And then he read it a third time, which is when he found it, and what he found was that the word *inquiry* was not in it anywhere, and neither was the word *claim*, and neither was the word *Bellweather* in a sentence with *thirtieth* in it, and that after eleven weeks of people being extremely careful to say the word *method* when they meant the word *claim* he had finally been handed a piece of paper that was careful in exactly the same way.
+And then he read it a third time, which is when he found it, and what he found was that the word *inquiry* was not in it anywhere, and neither was the word *claim*, and neither was the word *Bellweather* in a sentence with *thirtieth* in it, and that after a month of people being extremely careful to say the word *method* when they meant the word *claim* he had finally been handed a piece of paper that was careful in exactly the same way.
 
 The terms of reference were on the back, in the same hand, in the flat drafting that this Council used for anything it intended to hold somebody to.
 
@@ -36,7 +36,7 @@ He moved the bench lamp to his right, which he now did without thinking about it
 
 The first session of the review was at eleven, and it took four minutes of anybody's time.
 
-Sabin Orle was forty-four and had been in the Council's technical cell for eleven years and had come up to the Weatherglass with a folder and a chair and a great many sheets, and she had driven up on a Sunday coach in the rain, a fortnight and a half ago, to hear a district refuse something, and she had lost nothing by that and had said so.
+Sabin Orle was forty-four and had been in the Council's technical cell for eleven years and had come up to the Weatherglass with a folder and a chair and a great many sheets, and she had driven up on a Sunday evening coach in the rain on the seventeenth, to hear a district refuse something, and she had lost nothing by that and had said so.
 
 "Right," she said, at about two minutes to eleven. "We are going to do this in the ordinary order and the ordinary order starts with the Chair's interest, and then the terms, and then the citations, and then the evidence, and I am going to read every one of those out loud because a thing that is not read out loud in a room is a thing that four people remember differently."
 
@@ -54,23 +54,23 @@ Cassian Rook put both hands on the table. He had a low-ward district's way of st
 
 "Those are my interests. I chair. I do not sit as a witness. I will sign the minutes. If anybody wants to move that I should not chair, they have until Friday, and I would take it seriously, and I would not be offended, and I would probably grant it."
 
-Nobody moved it, and not from cowardice: Rook had put a stamp on a notice that had been right, the corridor that ran a claim in a fortnight was intact, and the only damage in three weeks in a basin of a hundred and forty thousand people was a mooring hand's wrist. Every one of those facts was a fact in his favour and none of them was one he had manufactured.
+Nobody moved it, and not from cowardice: Rook had put a stamp on a notice that had been right, the corridor that ran a claim and held it to the hour was intact, and the only injury in three weeks in a basin of a hundred and forty thousand people was a mooring hand's wrist. Every one of those facts was a fact in his favour and none of them was one he had manufactured.
 
 Mrs Ireson read it back, and it went into the minutes with the time against it, and Marek read his own copy on the Wednesday morning and the time was 11:04. The Director of the Veyran Weather Office had declared his own interest four minutes after a review began and had then spent the rest of the session being scrupulous, and there is not one dishonest sentence in that review from beginning to end, and by the end of it Marek Vale understood that he was more frightened of Cassian Rook than he had been of him a month before, and did not sleep well on the Wednesday night for it.
 
 ---
 
-Anwen Sarr's clause four was the first item on the agenda and the agenda was posted in the outer office on the Tuesday afternoon with the summons on the spike beside it, and Marek read it standing up for the second time in two days and then went and did the only thing that was available to him to do, which was to go and ask the eight cited people what each of them was going to be asked, one at a time, in a corridor, without telling any of them what the others had said.
+Anwen Sarr's clause four was the first item on the agenda and the agenda was posted in the outer office on the Tuesday afternoon with the summons on the spike beside it, and Marek read it standing up for the second time in two days and then went and did the only thing that was available to him to do, which was to go and ask the eight cited people what each of them was going to be asked, one at a time, on their own ground, without telling any of them what the others had said.
 
 That is a real method. It is not a method anybody teaches. It takes a full day and a half and it comes out as eight separate conversations in which you are not a listener, because you cannot be a listener, because the moment you are a listener you have told them what somebody else said and the eight of them are now in a room with each other and the whole exercise is worth nothing.
 
-So he saw them in the order on the list, and he saw them standing up, and he did not sit down in any of the eight.
+The second name on the list was his own, and a man cannot put a question to himself, so there were seven of them and he got six, and he saw them standing up, and he did not sit down in one of them.
 
 ---
 
 **One. The Director.**
 
-He did not go to Rook first, because going first would have been a signal. He went third.
+He went to him first, which he had not wanted to do, because a signal was the one thing in this that he could not buy back afterwards.
 
 The Director's outer office was as bare as a stage and Rook was in the middle of it with two sheets, and he gave Marek eleven minutes and did not once ask him a question about the claim.
 
@@ -90,9 +90,13 @@ He had the answer ready before the question was finished, which was the first ti
 
 ---
 
-**Two. He did not do the Director second. He did the Deputy third, and the Deputy was not in.**
+**Three. The Deputy for Field Forecasts, who was not in.**
 
 Corrin Malle's office door was shut and the outer office said, without any particular interest, that the Deputy was in the technical cell and would be back at about two.
+
+---
+
+**Four. The Deputy for Records and Public Notice.**
 
 Marek went and did the records counter and Lior Venn in about nine minutes, because Venn was at the counter on a Wednesday, and had been at that counter on every working day for eleven years, and would be at it as long as he was at it.
 
@@ -184,7 +188,7 @@ Ilva Sorn came down to the Weatherglass on the Wednesday afternoon because the r
 
 **Five. The assembly.**
 
-Anwen Sarr was the last of the eight and he went to Hearthward on the Wednesday evening, on foot as far as the tram, and she was in the upper assembly rooms above a market hall with boards across the doors and a season's seed stock inside them, and the market had not been open since the eighth of the month and would not be open for another three weeks.
+Anwen Sarr was the last of the eight and he went to Hearthward on the Wednesday evening, on foot as far as the tram, and she was in the upper assembly rooms above a market hall with boards across the doors and a season's seed stock inside them, and the market had not been open since the eleventh of the month and would not be open for another three weeks.
 
 She had the summons on the table and the agenda beside it and a cup of tea she had not drunk.
 
@@ -234,7 +238,7 @@ Anwen Sarr listened to it with both hands round a cup she had not drunk from, an
 
 ---
 
-He got it in for about nine minutes on the Thursday morning and it did not go in, and Malle got twenty minutes of the same and it did not go in either, and by twenty past ten on the Thursday of the thirty-fourth day the review was sitting with eight citations on a list and the two districts that had actually prepared sitting in a corridor outside the chamber with no right to be let in, and that was the morning, and nobody in the corridor said anything about it, because the two of them were a Council assessor on her way to Low Spindle and a man in a maintenance shop's coat who was not on any list at all.
+He got it in for about nine minutes on the Thursday morning and it did not go in, and Malle got twenty minutes of the same and it did not go in either, and by twenty past ten on the Thursday of the thirty-fifth day the review was sitting with eight citations on a list and the two districts that had actually prepared sitting in a corridor outside the chamber with no right to be let in, and that was the morning, and nobody in the corridor said anything about it, because the two of them were a Council assessor on her way to Low Spindle on her own business and the second name on a list of eight, and neither of them was on it as the thing that had lost something.
 
 Aldis Prynne was not on the list either.
 
@@ -242,7 +246,7 @@ Prynne was the reader on the long watch, and the long watch had gone up on the t
 
 And the review was going to sit for five days in a room that had the order of the movements on the ninth of the month at the top of its file in three places, and it was going to decide what a claim costs, and it was going to do it without asking the one other man in the basin who had read that order correctly and been paid to.
 
-Marek Vale stood in a corridor outside the Council chamber on the Thursday morning of the thirty-fourth day of a month in which nothing whatever was happening in the sky, and understood, entirely and for the first time, that the trap he was in had not been built by anybody.
+Marek Vale stood in a corridor outside the Council chamber on the Thursday morning of the thirty-fifth day of a month in which nothing whatever was happening in the sky, and understood, entirely and for the first time, that the trap he was in had not been built by anybody.
 
 This one had not been built at all. It had been arrived at, by arithmetic, by nine good people in a room over about six weeks, out of a genuine and entirely reasonable desire to put a section in a report, and it had caught him anyway, and it would go on catching people who had not been in the building for eleven years, for four years, or ever, because there was nothing in it that required a villain and nothing in it that required anybody to want him caught.
 

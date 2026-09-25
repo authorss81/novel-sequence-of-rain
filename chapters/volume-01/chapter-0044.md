@@ -40,7 +40,7 @@ The second version was the empty one. It is worth ten minutes of the chapter bec
 
 "That satisfies clause four," said Anwen Sarr.
 
-"It satisfies the first sentence of clause four completely, and forever, in about nine words, at no cost to anybody, and it is what the institution will do if we do not do something else first." Venn put the sheet down. "And I want to say the other thing about it, and I have said this once in a corridor in ninety seconds and I am not going to say it again, so I am going to say it here and nowhere else: **a rule that is honoured and a thing that is printed are not the same instrument, and a rule is the cheapest thing any building makes.**
+"It satisfies the first sentence of clause four completely, and forever, in about nine words, at no cost to anybody, and it is what the institution will do if we do not do something else first." Venn put the sheet down. "And I want to say the other thing about it, and I have thought about whether to say it and I am going to, and I am going to say it once: **a rule that is honoured and a thing that is printed are not the same instrument, and a rule is the cheapest thing any building makes.**
 
 "The fourth line of the Kestrel Line's conditions says *the claim names the Line, in the sponsor's own line and not a footnote.* That is a line of chalk in a yard and it is worth more than a rule, and it is worth more than a rule because you can break it. You can walk into a yard and stand in front of a board and point at it. You cannot walk into the Charter and point at anything."
 
@@ -48,7 +48,7 @@ The second version was the empty one. It is worth ten minutes of the chapter bec
 
 The third version was the honest one and Marek Vale wrote it, and it took him the whole of the Friday night and most of the Saturday morning, and he argued for it against himself, in a room, out loud, correctly, and won.
 
-Here is the argument. He made it to the committee on the second day, at about eleven in the morning, standing up, with a sheet in his hand, and it is the moment of the batch in which the protagonist builds the instrument of his own unprovability and uses it on himself, and it is entirely correct, and he had heard it before, and he had agreed with it before, in a shuttered room, in front of eighty people, and it had cost a district three preparations and a clerk's nine hours, and a woman standing in a foot of water in a ground-floor room on the Quay Steps at twenty-five to six in the morning on the twenty-first of the month.
+Here is the argument. He made it to the committee on the second day, at about eleven in the morning, standing up, with a sheet in his hand, and it is the moment of this book in which the man who spent it builds the instrument of his own unprovability and uses it on himself, and it is entirely correct, and he had heard it before, and he had agreed with it before, in a shuttered room, in front of eighty people, and it had cost a district three preparations, two of them in a courteous letter and the third in silence, and a clerk who did everything right.
 
 "Three things, and then I will sit down, and I want them in the minute in my words because they are the only argument I have got and I would like it recorded that I made it and not that it occurred to somebody.
 
@@ -58,7 +58,7 @@ Here is the argument. He made it to the committee on the second day, at about el
 
 "That is the sentence. It is the best sentence anybody in this basin has produced in a year. It is in the report of the twenty-second and it will be in the spring report and it is going to protect this method for forty years.
 
-"And I have agreed with it for six weeks and I want to say what agreeing with it cost, because I am the only person in this room who knows and I am not going to be asked and I am going to volunteer it, and then I am going to argue against my own argument, which is the only way I know to argue.
+"And I have agreed with it since the nineteenth of the month and I want to say what agreeing with it cost, because I am the only person in this room who knows and I am not going to be asked and I am going to volunteer it, and then I am going to argue against my own argument, which is the only way I know to argue.
 
 "It cost a district three preparations. Two of them went out in a courteous letter and one of them went out in silence, and nobody was ever told about the third, so nobody decided about it, so there was nothing to withdraw — and a thing that is nothing to withdraw is a thing that a claim does not take. It just stops being a plan, and the district does not find out, and there is no column anywhere for a district finding out.
 
@@ -104,7 +104,7 @@ And Anwen Sarr, who was sitting at the end of the table, and who had carried a c
 
 ---
 
-The rules were drafted on the Saturday and they are as follows, and they are the volume's last institutional invention, and they are ugly and correct and cheap and they took a full afternoon.
+The rules were drafted on the Saturday and they are as follows, and they are the last institutional invention this basin has made in a year, and they are ugly and correct and cheap and they took a full afternoon.
 
 *Column to be added to the published ledger, headed **CLAIM — DISPLACED TURNS**, to be entered in the ordinary course in every return and to be read first by any person consulting the ledger for any purpose whatever.*
 

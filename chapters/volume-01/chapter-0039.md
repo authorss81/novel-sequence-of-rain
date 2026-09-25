@@ -14,7 +14,7 @@ The assessor had put the terms of reference on the wall of the room on a sheet o
 
 "A claim holds its stated route by displacing the turn that most directly contradicts it. On the thirtieth, what did that claim displace?"
 
-Marek Vale put both hands flat on the table and answered the same answer he had given in a shuttered room on the nineteenth of the month, and it is worth setting down that he did not change it, because a man who has been caught out once in public and then puts the same sentence up again in front of a different room is a rarer thing than this volume has any right to assume.
+Marek Vale put both hands flat on the table and answered the same answer he had given in a shuttered room on the nineteenth of the month, and it is worth setting down that he did not change it, because a man who has been caught out once in public and then puts the same sentence up again in front of a different room is a rarer thing than a reader has any right to assume.
 
 "A turn," he said. "Not a person and not a piece of property. What the claim of the twenty-ninth displaced was the ebb under a long band in the western draw.
 
@@ -64,7 +64,7 @@ And Sabin Orle did not ask it because she had certified four claims in eleven ye
 
 ---
 
-The room then did something that Marek had not expected and that he would think about for a long time afterwards, which was that it stopped, and that it was a long watch covering the body, and its reader is **Aldis Prynne**.
+The room then did something that Marek had not expected and that he would think about for a long time afterwards, which was that it stopped, and that the man it stopped for was a reader he had never met, and that the reader was **Aldis Prynne**.
 
 "Mr Prynne," said Sabin Orle, "is not a citation. He is a witness of fact and the Chair has admitted him, and I am going to explain to the room why, because I do not want anybody to think I have found a reader to contradict Mr Vale. I have not, and I would be astonished if I had.
 
@@ -96,7 +96,7 @@ He stopped, and then he said the thing that made the room go very quiet, and he 
 
 Nobody in the room moved.
 
-"And I want to say the second half of it, because the first half is the sort of thing a man says at the end of a career and I am not at the end of my career, I am on a long watch and there is a water in a basin.
+"And I want to say the second half of it, because the first half is the sort of thing a man says at the end of a career and I am not at the end of my career, I am on a long watch and there is a water in a basin, and a long watch now is four men and a lamp and a book of levels and nothing whatever coming.
 
 "I did not ask. That is the thing. I did not ask where the voice came from, and I had no reason to, and I have understood in the last thirty seconds, sitting in this room, that if I had asked it, this room would have had to answer it, and I would have found out. And I did not ask, and I would like that minuted, and I would like the Chair to understand that I am not blaming anybody and I am not making a point, I am a reader, I have been a reader for thirty-one years, and a reader's job is to work from what is on the table."
 
@@ -184,8 +184,12 @@ Every one of them had been right. That was the finding, and it was the whole of 
 
 *That the reader's attestation is a fact about the reader, and that this office has not in the history of the instrument asked a reader from which instrument a reading was taken.*
 
-And Marek Vale stood in a corridor in the basin house on the Saturday of the thirty-seventh day of a month in which nothing whatever was happening in the sky, and understood, with the same clarity he had got about the eleventh minute past midnight on the twenty-ninth, and with no relief in it whatever, that he was going to be asked in a room, in about four days, whether he wished his name to remain on the attestation of the order of the movements on the ninth of the month.
+And Marek Vale stood in a corridor in the basin house on the Saturday of the thirty-seventh day of a month in which nothing whatever was happening in the sky, and understood, with the same clarity he had got about the eleventh minute past midnight on the twenty-ninth, and with no relief in it whatever, that the two things that had happened in that room could not be put back in their boxes, and that somebody, in about a week, in a room with a clerk in it, was going to have to put them together in a sentence.
 
-Because somebody in that chamber had just built a small, correct, load-bearing, entirely professional piece of machinery, and it did not require anybody to want him caught, and it worked the way a column of differences works, and it had been built in public in eleven minutes by the best records mind in the basin, and nobody would ever be able to show her a hand in it.
+The first was a finding. The second was that he had stood up in front of nine people and insisted, on the record and for a reason he would defend anywhere, on going on being the man whose name is on the attestation of the order of the movements on the ninth of the month, which meant that the Office now had a procedure and a man attached to it and no way of moving either one without a form.
+
+And he had wanted the attestation. He had wanted it about four seconds before he said the sentence, and he had wanted it on the grounds that a Deputy had given, and the grounds were good.
+
+Because somebody in that chamber had just built a small, correct, load-bearing, entirely professional piece of machinery, and it did not require anybody to want him caught, and it worked the way a column of differences works, and it had been built in public, in front of nine people, by a woman who had put a number in her own minute and told the room she would not put the reasons in, and nobody would ever be able to show her a hand in it.
 
 That is the difference between a trap and a method, and the difference is that a trap has a person in it.

@@ -20,7 +20,7 @@ The room made a small sound.
 
 "Finish."
 
-"I have never lifted a yard board in eleven years," said Lior Venn, "and I was asked about yard boards in a corridor on the third of this month by a copy clerk, and I answered her then and I would answer her the same way now, and none of that has any bearing on this and I am not going to let it have any bearing on this."
+"The minute will show that the route officer offered to read the four lines," said Lior Venn, "and that I stopped her, and why. In about four years somebody is going to say that the yard kept them back. The yard offered. I did not let it, and the reason is in the technical cell's file and is eleven years old and is not mine, and that is the whole of what I have to say about it."
 
 ---
 
@@ -49,6 +49,8 @@ She put a fifth sheet on the table and it was a piece of board slate, or rather 
 *Line at the mark 11:11 p.m. Accepted. Lane held to 04:00. Difference vs Office: none. — T. Senn.*
 
 And underneath that, in a different and harder hand, in the same reproduction, four lines and a great deal more:
+
+*Injury on the apron at 11:11 p.m., mooring hand, right wrist. Cause: no lulls in the crosswind while the turn held. Cause is the claim's second effect and is not written on the sheet and there is no part of the sheet that it could be written on. Not the yard's error. The yard published its hours and the hours were right and the yard's own errors have been published every day for eight days and this is not one of them, because the yard did not get it wrong. Published anyway, on the third line, because it happened here.*
 
 "That is the whole of the yard's file," said Ilva Sorn. "Two figures a day for nineteen days, one sheet from the fifth, four lines from a slate, a proviso, and a wrist. That is everything the Kestrel Line has. Eleven crews take work off our name and every one of them is a family, and I signed the release myself and I would like it read that I signed it myself and not the captain and not the yard's owners, because a route officer is the person in this yard who is actually responsible for it, and there is nobody in this room who knows what that means and I would like somebody to write it down."
 
@@ -182,13 +184,13 @@ The corridor afterwards was the ordinary end of an ordinary morning in a buildin
 
 "They priced it," said Maro Hesk. "They took the yard's own published errors and they priced the yard *with* them, in writing, at a number, and the number is not a punishment, it is a discount, and a discount is a thing you cannot argue with in a market, because a market has one opinion and it is a price.
 
-"That is the entire mechanism and it took a fortnight and it was not aimed at anybody and I am telling you it has worked because you will hear it from somebody worse than me inside a month and I would rather you had it from me first, and because I am also going to say the other half."
+"That is the entire mechanism and it took three weeks and it was not aimed at anybody and I am telling you it has worked because you will hear it from somebody worse than me inside a month and I would rather you had it from me first, and because I am also going to say the other half."
 
 "Go on."
 
 "The other half is that they are *right*, and they have gone about it in the correct way, and no clause of anything anybody in this basin has ever written prevents it, and the yard asked for the column and got the column, and the column is now a discount, and I do not blame the Line, and I am not going to say in a corridor that I do not blame the Line twice."
 
-Marek stood in the corridor and worked out, quite quickly, that the thing which had happened to the Kestrel Line over the past fortnight was the exact thing that had happened to the ninth ward's public glass, and that both of them had been caused by the same decision made by competent people for good reasons, and that neither of them was anybody's fault, and that **the word for it is that it became legible.**
+What had happened to the Kestrel Line over the past three weeks was the exact thing that had happened to the ninth ward's public glass, and both of them had been caused by the same decision made by competent people for good reasons, and neither of them was anybody's fault, and **the word for it is that it became legible.**
 
 The yard had been the only instrument in the basin that could time a corridor, and the yard had made that instrument readable, on purpose, in public, at its own cost, in chalk, in front of a carrier's man, because a term sheet that protects a reputation and not a body is not a term sheet a crew can work under.
 

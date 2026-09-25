@@ -38,7 +38,7 @@ And he had not produced a document, an instrument, a witness or a name at any ti
 
 The finding was that right out loud is a procedural offence.
 
-He had known it was coming on the Thursday in a corridor, standing in one, when a man who had built a piece of machinery in eleven minutes had looked at the number three in a minute and he had worked out what it was for. He had come in that morning braced for a room and had got five days of correct people and one finding and he had known since the Thursday that this was where the machinery went.
+He had known it was coming since the Saturday morning, in that chamber, in about four seconds, when the assessor had said out loud that she would put the number in the minute and not the reasons, and he had stood outside afterwards and worked out what the number was for, and had not slept properly for it. He had come in that morning braced for a room and had got five days of correct people and one finding and he had known since the Saturday that this was where the machinery went.
 
 And it had gone exactly where he had known it would go, on the correct day, in the correct words, for the correct reason, and there was not one thing in that document he could have got wrong, and there was nothing in it he could have fought, and nobody had been cruel to him in the writing of it, and three people in that room were about to be asked to sit there while it was read and not one of them had to be a villain to do it.
 
@@ -50,7 +50,7 @@ And here is the thing that nobody in that room knew, including Rook, including M
 
 There were three things on the table.
 
-There was a plate in a tube in his coat, in the maintenance shop on the ridge, forty miles away, with a Witness movement in its substrate dated twelve years back, arriving in the glass from below, in a tower's own stamped margin, in the ninth ward tower, in a locked room, in the poorest ward in the city, on Office glass in an Office holder. He could not produce it, because producing it means a maintenance report about a plate that carries a dead woman's filing mark, and it would put the ninth ward's feed and the ninth ward's public frame and a poor ward's tower in front of a Council inquiry, and the ninth ward has four hundred and forty people on its low ground and an unreadable notice and no money, and the ward would be the story, and the collision would be a footnote.
+There was a plate in a tube in his coat, in the maintenance shop on the ridge, in a work coat hanging on the back of the door he had not shut, with a Witness movement in its substrate dated twelve years back, arriving in the glass from below, in a tower's own stamped margin, in the ninth ward tower, in a locked room, in the poorest ward in the city, on Office glass in an Office holder. He could not produce it, because producing it means a maintenance report about a plate that carries a dead woman's filing mark, and it would put the ninth ward's feed and the ninth ward's public frame and a poor ward's tower in front of a Council inquiry, and the ninth ward has four hundred and forty people on its low ground and an unreadable notice and no money, and the ward would be the story, and the collision would be a footnote.
 
 There was a folded sheet of four hundred and eleven words in the second drawer of his bench, entirely true, headed with a plate number, containing the order in which the six movements arrived on the ninth of the month, and it cannot be filed anywhere, because the moment it is filed it stops being a maintenance report and becomes a reader's private observation with a plate number that does not exist in any register in the world.
 
@@ -124,7 +124,7 @@ and then it passed, and she sat through the rest of it, and afterwards, in the c
 
 "That is a bad morning and I am not going to say a single other thing about it in this building, and if you ask me in a yard I will tell you what I think, and it will not be this."
 
-**Anwen Sarr** was in the room and did not speak and was not asked to, and she had put in a clause on the Thursday of the thirty-fifth day that was going to be adopted and was going to be printed and was going to be on a public table, and the man it was drafted to protect was being censured eleven days later for having said out loud the thing the clause was about.
+**Anwen Sarr** was in the room and did not speak and was not asked to, and she had put in a clause on the Thursday of the thirty-fifth day that was going to be adopted and was going to be printed and was going to be on a public table, and the man it was drafted to protect was being censured ten days later for having said out loud the thing the clause was about.
 
 She had watched him not produce anything. Nobody in that room knew what she had watched, because what she had watched was a man declining a rescue in the last nine seconds of his own career, and she is the only person in this basin who has spent six years asking a room for a document, and she knows exactly what it looks like when somebody has one and does not put it down, and she knew it in about a second, at about ten past ten, and she has not repeated it to anybody including Kell Bray.
 
@@ -142,7 +142,7 @@ Marek Vale took the sheet.
 
 "Cor," he said. "You said that to somebody else."
 
-"I said it to a copy clerk," said Corrin Malle, "on the third of the month, in about ninety seconds, in a corridor, and it is the sentence in the minutes of this review at item one, and it is in the minutes because a route officer repeated it in a public room on the second day and did not know she was quoting a Deputy, and I did not correct her, because I would rather it went into a minute than not.
+"I said it to a copy clerk," said Corrin Malle, "on the third of the month, in about ninety seconds, in a corridor, and it is the sentence in the minutes of this review, and it is in the minutes because he said it out loud in this room on the Saturday, in front of the assessor and a clerk, and did not know he was quoting a Deputy, and I did not correct him, because I would rather it went into a minute than not.
 
 "And I said it to her and not to you, and I am not going to pretend that was a kindness, and I am not going to pretend it was a cruelty, and I would like to say what it was, because you are owed that and nobody in this room is going to think of it.
 

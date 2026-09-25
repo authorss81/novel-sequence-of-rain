@@ -14,9 +14,9 @@ Here is what Corrin Malle had, and he has never in his life put it in a list, an
 
 He was fifty-four, with two children, one of them at the technical cell's own school on a grant and one of them eleven, who had asked him in the spring why he was never home at six and been told *because there is a thing at four o'clock*, and had said *what thing*, and had been told *the weather*, and had said *you do the weather?* and gone back to her plate. He had thought about that exchange for four months, which was longer than he had thought about the thirtieth.
 
-He had been in the building for thirty years and a Deputy for sixteen of them. He had watched four hundred and forty people get out of a ward's low ground on a collision night because he had put a reader on a watch, and he had watched the same ward lose a season of seed stock in the second week of the month because he had put a roof over a market, and both were correct and both were in a folder in a different building.
+He had been in the building for thirty years and a Deputy for sixteen of them. He had watched four hundred and forty people get out of a ward's low ground on a night in the second week of the month because he had put a reader on a watch, and he had watched the same ward lose a season of seed stock in the second week of the month because he had put a roof over a market, and both were correct and both were in a folder in a different building.
 
-And on the Sunday evening of the eighteenth, six weeks ago, he had got on a coach out of hours with a sandwich he had not been asked for, and had gone up a hill, and had sat at the back of a chamber, and had watched a method he staffs succeed, and had been the only person in that room who had not stood up.
+And three weeks ago, on the Sunday evening before the Council sat, he had got on a coach out of hours with a sandwich he had not been asked for, and had gone up a hill, and had sat at the back of a chamber, and had watched a method he staffs succeed, and had been the only person in that room who had not stood up.
 
 He had a rule about that and the rule was *a Deputy who cannot explain a thing does not leave the effect sitting on the ledger unattributed*, and the rule is in the Charter, Section 9, and it has been in the Charter longer than he has, and he had never once in thirty years had to read it, because in thirty years he had never had an effect he could not account for.
 
@@ -32,7 +32,7 @@ The rule is correct. The rule is not corrupt. The rule has kept nine of these al
 
 He sat in the shut room for a long time after that.
 
-Because here was the thing he had got wrong, and he had got it wrong in about four seconds and had not noticed for six weeks, and he had noticed it in the corridor outside the review's chamber on the Thursday morning when a route officer published a wrist.
+Because here was the thing he had got wrong, and he had got it wrong in about four seconds and had not noticed for five weeks, and he had noticed it in the corridor outside the review's chamber on the Friday morning when a route officer published a wrist.
 
 He had believed — and he had gone on believing it, and he had said out loud to a copy clerk that he had believed it — that a classification is a way of not having to put your name on something.
 
@@ -62,7 +62,7 @@ He went in at about ten past one, and he had brought nothing, and he said so bef
 
 "Deputy," said Sabin Orle, "sit down. Nobody has asked you anything yet."
 
-"Then I have pre-empted you, which is a thing I have done twice in six weeks and both times I was right and one time it cost a district a clerk's post." He put his hands flat on the table. "Ask."
+"Then I have pre-empted you, which is a thing I have done twice in five weeks and both times I was right and one time it cost a district a clerk's post." He put his hands flat on the table. "Ask."
 
 ---
 
@@ -110,13 +110,13 @@ The room was completely still.
 
 "It removes a thing from the categories that can be complained about. A maintenance failure is damage, and damage is an item, and an item is a thing a district can complain about, because a district can complain about damage to its own ground, and a district has been able to do it for thirty years. A thing that is not damage is not an item, and the moment it is not an item it is out of the reach of every district in this basin — because to point at a thing you have to be able to say what it is, and if you cannot say what it is then you have not got a complaint, you have got a feeling.
 
-"And that is the design. That is *the design*, and it is older than me, and I did not draw it, and I am not the author of it, and I want to say that last part clearly because the Chair is going to ask me who did, and I have been asked by my own staff this week and I have told them the truth, which is that I cannot find the author and neither can anybody else I have asked, and I have been in this building for thirty years.
+"And that is the design. That is *the design*, and it is older than me, and I did not draw it, and I am not the author of it, and I want to say that last part clearly because the Chair is going to ask me who did, and I have been asked by my own staff this week and I have told them the truth, which is that I cannot find the author and neither can anybody else I have asked, and I have been in this building for thirty years."
 
-"He reads nothing, and he has never read a sequence in his life, and there is no instrument in this basin he would need to; his whole trade is the plate in a frame and a lamp behind it, and he does it in his own head about four times a year and badly.
+He reads nothing. He has never read a sequence in his life, and there is no instrument in this basin he would need to; his whole trade is the plate in a frame and a lamp behind it, and he does it in his own head about four times a year and badly.
 
-That is what a classification does. It moves a thing out of the reach of complaint, and it does it without anybody deciding anything, and the reason it does it without anybody deciding anything is that the rule says *classify it to the nearest true description* and every description in the box is a true description of something, and mine was, and mine is the nearest one I could find at eight o'clock in the morning with a pen in my hand and a form in front of me.
+"That is what a classification does. It moves a thing out of the reach of complaint, and it does it without anybody deciding anything, and the reason it does it without anybody deciding anything is that the rule says *classify it to the nearest true description* and every description in the box is a true description of something, and mine was, and mine is the nearest one I could find at eight o'clock in the morning with a pen in my hand and a form in front of me.
 
-"And I want to say the last of it and then I will sit down, because I have thought about it for six weeks and this is the only sentence I have."
+"And I want to say the last of it and then I will sit down, because I have thought about it for five weeks and this is the only sentence I have."
 
 ---
 
@@ -126,7 +126,7 @@ That is what a classification does. It moves a thing out of the reach of complai
 
 "I know," said Marek. "I am sorry."
 
-"No, you are not," said Corrin Malle, without any heat at all, and did not look round. "That is all right. You are not sorry and I would rather have the true version. Go on, Mr Vale. I have been waiting six weeks for somebody in this building to say it and I would rather have it said in the open than have it in a corridor for the rest of my life."
+"No, you are not," said Corrin Malle, without any heat at all, and did not look round. "That is all right. You are not sorry and I would rather have the true version. Go on, Mr Vale. I have been waiting five weeks for somebody in this building to say it and I would rather have it said in the open than have it in a corridor for the rest of my life."
 
 Marek looked at the table.
 
@@ -134,7 +134,7 @@ Marek looked at the table.
 
 "It is not the same," said Corrin Malle.
 
-"No," said Marek Vale. "It is not. It is better than that, and that is what I have been not understanding for six weeks. A name can be answered. A word cannot."
+"No," said Marek Vale. "It is not. It is better than that, and that is what I have been not understanding for five weeks. A name can be answered. A word cannot."
 
 ---
 
@@ -152,7 +152,7 @@ He put both hands flat on the table.
 
 "I want to be very exact about that, because it is the difference between an institution and a machine. A rule is written down by somebody, on a day, and you can find the person who wrote it and you can complain to the seat that wrote it. A shape is what is left after forty years of every individual doing the entirely reasonable thing. And I have been in this building for thirty years and I have never once seen anybody decide it, and I have asked four people in the last nine days and two of them did not know I was asking, which I found out afterwards, which is how I know they are telling the truth.
 
-"So I cannot tell this room whether the reason there is no line in a return for a thing that was not done is because somebody decided there should not be, or because a hundred and forty years of clerks filling in boxes have never had a reason to write one.
+"So I cannot tell this room whether the reason there is no line in a return for a thing that was not done is because somebody decided there should not be, or because a couple of centuries of clerks filling in boxes have never had a reason to write one.
 
 "And I want it in the minutes that a Deputy for Field Forecasts does not know, and that he has looked, and that he cannot find the author, and that this is not because anybody has concealed it. Nobody has concealed anything. I have looked in four drawers this week. It is simply not written anywhere, and there is a whole generation of us who have all behaved the same way about it, and I have been one of them for thirty years, and I would like the record to say that, because in about four years somebody is going to ask, and the honest answer is going to be *nobody decided it, and that is worse*."
 
@@ -160,7 +160,7 @@ He put both hands flat on the table.
 
 "Minuted," said Mrs Ireson, and then said, "Deputy, I am obliged to ask whether you are aware of what you have just said about the institution."
 
-"I am aware of what I have said," said Corrin Malle. "I would like the Chair to rule that I have said it on the record and that I have not withdrawn it, and I would like the Chair to notice that it is a statement and not an objection, and I would like that ruled too, because the assessor ruled the same way for Mr Vale on the nineteenth and I am not going to have it be said that I have come in here and made an argument. I have made a statement. I have been making statements for six weeks. That is what I do."
+"I am aware of what I have said," said Corrin Malle. "I would like the Chair to rule that I have said it on the record and that I have not withdrawn it, and I would like the Chair to notice that it is a statement and not an objection, and I would like that ruled too, because the assessor ruled the same way for Mr Vale on the nineteenth and I am not going to have it be said that I have come in here and made an argument. I have made a statement. I have been making statements for five weeks. That is what I do."
 
 Then the Chair, who had not spoken in an hour and forty minutes, said:
 
@@ -186,7 +186,7 @@ Then the Chair, who had not spoken in an hour and forty minutes, said:
 
 Nothing happened for a minute, and then Ilva Sorn said, from the table, "Director, does the Line get to be in the second half of that?"
 
-"No, Captain. The second half is that a claim's cost may not name the person who chose it."
+"No, Director. The second half is that a claim's cost may not name the person who chose it."
 
 "Then that is the only part of it that is worth doing and it is worth doing for a reason that is not on this Council's list at all, and I will say it in a sentence and then I will sit down, because I have got a yard.
 
@@ -199,6 +199,10 @@ Nothing happened for a minute, and then Ilva Sorn said, from the table, "Directo
 Nobody explained it to her, and she sat down, and it is in the minutes.
 
 Then the assessor ruled, and her ruling was in the ordinary flat voice, and it went on the record in the nineteen words the review is remembered for, and they are the only finding, and the rest of the review is the argument about them:
+
+*That the effect of a claim on a district's preparations cannot be shown from the record, and so reported.*
+
+And that is the whole of the finding, and it is the sentence the terms of reference were written around, and it has been true since a Deputy put a word on a thing on the third day of the month instead of his own name, and five days of evidence in a room had established it, and the only person in this basin who ever got it out of anybody was a district clerk in Ferrygate, who got it out of the assessor on the Sunday morning in ninety seconds by answering a question about a sheet of paper that had never been sent anywhere.
 
 ---
 
@@ -214,7 +218,7 @@ He stood in the corridor and did the arithmetic, quickly, the way a man does ari
 
 *He put a category on a thing instead of his own name, and the category held, because it was the true nearest description, and a Deputy who cannot account for an effect is entitled to classify it, and the Charter says so in Section 9, and Section 9 is older than he is.*
 
-*And in six weeks a column will be printed that says what a claim closed and does not say who closed it, and it will exist because he was right on the third of the month, and his name will be on the report, and no person in this basin will ever be able to show that he did anything to anybody.*
+*And in six days a column will be printed that says what a claim closed and does not say who closed it, and it will exist because he was right on the third of the month, and his name will be on the report, and no person in this basin will ever be able to show that he did anything to anybody.*
 
 He put his hand flat against the wall and said the sentence, out loud, in a corridor, to nobody, in the flattest voice he had:
 
