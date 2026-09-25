@@ -1,0 +1,82 @@
+# Terminology
+
+Use these terms consistently in prose and outlines. The vocabulary should sound like the work of weather researchers, wardens, clerks, pilots, and local assemblies, not like a fantasy game interface.
+
+## Places and institutions
+
+- **Veyra** — the rainward city-state where the series takes place.
+- **the Sill** — the basin and floodplain around Veyra.
+- **Lake Orra** — the western lake and the center of airship transport.
+- **the Nacre Range** — the northern mountain boundary.
+- **The Weatherglass** — the Weather Office campus and public forecast hall on the eastern ridge.
+- **Low Spindle** — low industrial and residential district, vulnerable to floods and unreliable public forecasts.
+- **Kestrel Yards** — western airship docks and independent route workshops.
+- **Hearthward** — terraced residential, market, and rooftop-farming district.
+- **Crown Basin** — dry upper basin containing the sealed upper chambers of the Meridian.
+- **the Nine Ward Towers** — one tower for each of the original nine watersheds; they connect local readings to the Meridian.
+- **Veyran Weather Office** — the official forecasting service. “Weather Office” is the ordinary public term.
+- **Weather Council** — the regional body that sets binding-weather policy and maintains the Meridian’s central mandate; it is distinct from the Weather Office, though the two overlap in personnel and authority.
+- **Storm Wardens** — field crews that maintain towers, drainage, rescue routes, and emergency closures.
+- **Cloud Exchange** — private market for forecast windows, airship passage, rain credit, and weather insurance.
+- **local assembly** — a neighborhood or watershed body with authority over local notices, shelters, and emergency plans.
+- **the Quiet Ledger** — a dispersed preservation network for suppressed forecast records; not a single secret order.
+
+## Weather and history
+
+- **the Meridian** — the buried civic weather engine beneath Crown Basin. “First Weather Engine” is the formal historical name.
+- **Bellweather Front** — the storm at the center of the opening arc, known for a rare collision of sequence movements.
+- **the Unweathered Year** — the eleven-day rain failure that preceded the Meridian’s construction.
+- **the First Compact** — the original civic agreement to share readings and show competing weather turns.
+- **the Meridian Cut** — the failed attempt twelve years before the opening to disconnect a failing ward tower.
+- **Ninth Ward Record** — Anja Vale’s missing sequence record and the central historical document Marek seeks; it contains a preserved sequence witness, evidence of a route and branch the Office erased, not a secret prophecy.
+- **the White Noon** — a catastrophic atmospheric state in which the movements fail to release rain and the sky becomes bright, dry, and falsely calm. It is a physical failure, not a separate entity.
+- **Last Forecast** — Rook’s proposed single basin-wide binding claim, intended to stop the White Noon by closing the compound branch of coordinated local alternatives.
+- **forecast debt** — the public or hidden cost left behind when a binding forecast shifts a branch, including unpaid compensation and unresolved repairs.
+- **Weather Charter** — the provisional civic rules for evidence, alternatives, appeals, consent, expiry, and compensation; the institutional predecessor to the Weather Commons.
+- **weather window** — a period in which a route, market, or field is considered safe enough to operate.
+
+## Sequence language
+
+- **sequence** — the ordered movement of atmospheric forces through an atmospheric spell.
+- **movement** — one of the six stages of a sequence.
+- **turn** — a single change in a sequence. A turn can be observed, routed, or closed.
+- **branch** — a real possibility still available under current conditions. Branches belong to this world; they are not separate timelines.
+- **read** — perceive the likely order or available branches without making a claim.
+- **binding** — turn an exact observation into a claim someone can act on. Binding is the point at which a spend can occur.
+- **claim** — a forecast with a specific place, time, and effect.
+- **spend** — the closure of one available branch when a claim is bound.
+- **spent turn** — the now-impossible possibility closed by a spend.
+- **closed door** — a human description of a spent branch, especially when a route, plan, or choice can no longer be made.
+- **dry line** — the physical or social trace left where a spent branch mattered. It is evidence of absence, not a recoverable alternate world.
+- **counter-memory** — a vague memory, missing plan, or contradictory record left by a spend. Different people experience it differently.
+- **counterturn** — a harmful rebound when a false claim, a broken movement, or conflicting binding destabilizes a sequence.
+- **conditional forecast** — a claim that states what will happen if named conditions are met. It preserves more choices than an unconditional forecast but becomes binding when the condition is accepted and triggered.
+- **veil** — a deliberate, maintained barrier against a forecast binding. A veil is safer in some circumstances but cannot be used indefinitely without instrument work and local attention.
+- **witness** — a person or instrument that accepts and records a claim. Witnessing is part of the spell, not a passive observation.
+- **anchor** — a physical instrument, ward, person, or structure that gives a sequence a stable local path.
+- **Six Movements** — Gather, Weight, Break, Route, Release, Witness.
+- **sequence glass** — an instrument that displays the Six Movements as shifting traces in glass, vapor, and static.
+- **open forecast** — the final political term for a network of local, conditional claims that displays disagreement instead of silently choosing one outcome.
+
+## Weather roles
+
+- **Listener** — a person who senses a pressure change but cannot yet bind a claim.
+- **Reader** — a trained person who can read a local sequence and make a short binding forecast.
+- **Tracer** — a reader who follows a sequence across connected towers or stations.
+- **Conductor** — a person who redirects one movement of an active sequence.
+- **Chorus** — a cooperating group of readers and local witnesses that issues a shared conditional forecast.
+- **Warden** — a civic role that maintains a local forecast cell and answers to the people it affects.
+- **counter-reader** — an unlicensed or semi-public reader who works outside the Weather Office; Sable Orin is the principal example.
+- **route captain** — the crew leader responsible for an airship’s local decisions; Tarin Senn’s title.
+- **dry-line witness** — a person or community that documents a spend, its absence, and the repair still owed.
+
+## Language rules in the prose
+
+- Prefer “forecast,” “claim,” “sequence,” “branch,” “spend,” and “warden” over vague terms such as “energy,” “level,” or “system” when the scene is about weather.
+- Do not call a branch a parallel universe, a save file, or a time line. It is an unspent possibility in the same world.
+- Do not use exact percentages or a visible skill tree. Uncertainty is described through competing turns, windows, observed traces, and practical limits.
+- Use the System interface rarely. When it appears, keep it to one short panel and let the character act rather than obey it.
+- Distinguish a **read** from a **binding**. A character can notice a dangerous order without spending anything simply by thinking about it.
+- Use “spent possibility” in emotional or civic discussion; “spent turn” is the Weather Office’s colder technical term.
+- Call a consequence that cannot be restored a “dry line” only when it is a visible trace. A person’s grief is not automatically evidence of a branch.
+- Keep the weather physical. A spell may be astonishing, but it still has pressure, moisture, heat, charge, glass, metal, water, and a route through the city.
