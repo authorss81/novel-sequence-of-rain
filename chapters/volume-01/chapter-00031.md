@@ -112,11 +112,11 @@ Neris Kade's runner came down to the office at about half past twelve with a mes
 
 ---
 
-The fourth block of Low Spindle is a row of stone-fronted houses that were built with their ground floors below the street because that is what the ground is. The wardens had been through the whole of the lowest four blocks in the small hours of the night and had got everybody out of every ground floor in the block into the upper rooms or the assembly rooms or the second pump house, and it had taken all night and it had worked, and there is a line in the district's own wet notebook that says so in Sergeant Ampow's words, which is *all floors clear by twenty past four, no one left on the low side but the water*.
+The fourth block of Low Spindle is a row of stone-fronted houses that were built with their ground floors below the street because that is what the ground is. The wardens had started on the lowest four blocks at four o'clock the previous afternoon and had worked at it all evening, moving people out of every ground floor in the block into the upper rooms or the assembly rooms or the second pump house, and the last of it was done at about eleven, and it had worked, and there is a line in the district's own wet notebook that says so in Sergeant Ampow's words, which is *all floors clear by eleven, no one left on the low side but the water*.
 
 At about twenty past one in the afternoon somebody said at the district office that a boy had gone back.
 
-Immy Vant was six. His family was in the second-floor rooms of number fourteen, and at about eight in the morning he had gone back down into his own ground-floor room, which was under nine inches of water and had been since before first light, to fetch a bird cage, which was in the corner, and which his mother had told him to leave, and which he had wanted very much, and which he was still holding.
+Immy Vant was six. His family was in the second-floor rooms of number fourteen, and at about eight in the morning he had gone back down into his own ground-floor room, which was under nine inches of water and had been since about four, to fetch a bird cage, which was in the corner, and which his mother had told him to leave, and which he had wanted very much, and which he was still holding.
 
 The doorway of number fourteen is a channel. The house is a hundred and thirty years old and the flags have come up a quarter of an inch and the door is a door, and the low sill of it is four inches under the pavement, and by twenty past one in the afternoon there was a foot and a half of moving water across the pavement of the fourth block and going through that doorway at a rate that a man of any size would feel.
 
@@ -158,7 +158,7 @@ The dullness was the part he was worried about, and the dullness is specific and
 
 He got the district office's back room at about half past three and sat down on a bench with his coat still wet to the knee.
 
-Ott Belm, the district copy, was at the long table with a wet notebook open and had been since the small hours, and he looked at Marek for a moment and then went and got him a cup of tea and a towel and did not ask, and did not write it down, and the not-writing was the single kindest thing anybody did for Marek on the thirtieth of that month and he has never told anybody about it.
+Ott Belm, the district copy, was at the long table with a wet notebook open and had been since the small hours, and he looked at Marek for a moment and then went and got him a cup of tea and a towel and did not ask, and did not write it down, and the not-writing was the single kindest thing anybody did for Marek on the thirtieth of that month.
 
 Ampow came in at about four and put a folded sheet on the table.
 
@@ -166,7 +166,7 @@ Ampow came in at about four and put a folded sheet on the table.
 
 "Thank them from me," said Marek, "and tell them to leave the bird alone."
 
-"Done." Ampower stopped at the door. "Mr Vale. Weren't you on that watch last week? The ward floor. Nineteen of us."
+"Done." Ampow stopped at the door. "Mr Vale. Weren't you on that watch last week? The ward floor. Nineteen of us."
 
 "Yes."
 

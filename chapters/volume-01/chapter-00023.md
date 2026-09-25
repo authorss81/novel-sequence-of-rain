@@ -1,12 +1,12 @@
 # Chapter 23 — An Instrument's Account of Itself
 
-The outer office of the Weatherglass had a bench down each side and a window that looked east over the yard and a clock that was four minutes fast, and for eleven days in the twenty-second, twenty-third and twenty-fourth of the Bellweather autumn, Marek Vale sat at the end of the right-hand bench and was the only person in the building who was not waiting for something.
+The outer office of the Weatherglass had a bench down each side and a window that looked east over the yard and a clock that was four minutes fast, and for the three days from the twenty-second to the twenty-fourth of the Bellweather autumn, Marek Vale sat at the end of the right-hand bench and was the only person in the building who was not waiting for something.
 
-The Bellweather watch had been stood down on the eleventh. His name had come off it and gone onto nothing at all, and the list the office kept of the people who were on something had been pinned inside the field office door for a fortnight and a half with his name not on it, and nobody had taken it down and nobody had put a line through his name either. It had simply stopped appearing.
+The Bellweather watch had been stood down on the eleventh. His name had come off it and gone onto nothing at all, and the list the office kept of the people who were on something had been pinned inside the field office door for a fortnight with his name not on it, and nobody had taken it down and nobody had put a line through his name either. It had simply stopped appearing.
 
 He got up at the same time. He went in at the same time. He was in the shop by seven, and the shop was cold, and there was work in it, because there is always work in a maintenance shop, and he did it.
 
-He reglazed a tide-gauge cover for the water office's district crew. He re-caged an aneroid. He ground and polished a beaker for a district clerk's rain-gauge float that had been slug-eaten since the spring. He went down the hill at half past eleven and glazed two dials for Feth Raal, who has had a stall at the foot of the Weatherglass steps for fifty-four years and has never paid him for any of it, and who told him on the Tuesday that four men had been in asking after narrow forecasts, and that they had stopped coming, and that this was the most interesting thing that had happened to her stall in a decade.
+He reglazed a tide-gauge cover for the water office's district crew. He re-caged an aneroid. He ground and polished a beaker for a district clerk's rain-gauge float that had been slug-eaten since the spring. He went down the hill at half past eleven and glazed two dials for Feth Raal, who has had a stall at the foot of the Weatherglass steps for fifty-four years and has never paid him for any of it, and who told him on the Friday that four men had been in asking after narrow forecasts, and that they had stopped coming, and that this was the most interesting thing that had happened to her stall in a decade.
 
 "They went off you," said Feth Raal. "That's what happened. They came in the first week and they went off in the third."
 
@@ -28,7 +28,7 @@ He thought about the plateau. The permanent ringing was gone. What was left was 
 
 ---
 
-The Council's report on the trial claim came down the ridge on the twenty-second and went to the file and out to the seats, and Marek read it in the outer office on the Wednesday morning because the outer office got everything, and it was a good report.
+The Council's report on the trial claim came down the ridge on the twenty-second and went to the file and out to the seats, and Marek read it in the outer office that same morning because the outer office got everything, and it was a good report.
 
 It was, in the assessment of a man who has no reason to be charitable to anybody in that building, one of the better pieces of writing the Council has produced in his working life, and he could not find a false statement in it.
 
@@ -66,7 +66,7 @@ It was not ready. It was going to be ready in about four years, or in about fort
 
 ---
 
-Neris Kade's five lines arrived on the Tuesday morning, in an envelope with the district's stamp on it, addressed to the Deputy for Field Forecasts and not to a person, and the covering note said that it was an internal district record and not a public notice and that the warden had promised it on the ninth of the month and was discharging the promise.
+Neris Kade's five lines arrived on the Friday morning, in an envelope with the district's stamp on it, addressed to the Deputy for Field Forecasts and not to a person, and the covering note said that it was an internal district record and not a public notice and that the warden had promised it on the ninth of the month and was discharging the promise.
 
 Marek was not on it and was not asked to be, and he read it over Malle's shoulder in about ninety seconds because Malle was reading it standing up and holding it at arm's length in the way of a man who has been in the job for thirty years and does not need his glasses until four o'clock in the afternoon.
 
@@ -84,7 +84,7 @@ Malle turned round and looked at him for slightly longer than the sentence deser
 
 That was the entire exchange. Malle put the sheet in a tray on the corner of his desk, on top of two other trays, and went back to a rostle — and then, having stood there a moment:
 
-"She has a right to it, you know. Under anything. She is asking the wrong question. She has been asking me what the notice said. What I would say to her, if she asked me what the notice *measured*, is that a notice is not a scientific instrument, it never has been, and I do not know what the ninth ward's measures on a wet Tuesday and neither does she." He said it with something almost like affection. "And I will tell her that, because it is true, and because she has been sent a piece of paper that is going to be sitting in a tray in this building for four months, and it is not going to be in a tray in four months, and the only way to arrange that is to give the warden an answer she can carry."
+"She has a right to it, you know. Under anything. She is asking the wrong question. She has been asking me what the notice said. What I would say to her, if she asked me what the notice *measured*, is that a notice is not a scientific instrument, it never has been, and I do not know what the ninth ward's measures on a wet Friday and neither does she." He said it with something almost like affection. "And I will tell her that, because it is true, and because she has been sent a piece of paper that is going to be sitting in a tray in this building for four months, and it is not going to be in a tray in four months, and the only way to arrange that is to give the warden an answer she can carry."
 
 He did not give her an answer that week. What came back, on the twenty-fifth, was a reclassification of the list itself as an internal district record, not a public notice — which was correct, and which was in Venn's hand, and which meant that five lines in a warden's handwriting had become a document in a building the warden did not control.
 
@@ -98,7 +98,7 @@ It was the Ferrygate district's ordinary return of the fifteenth, the one that h
 
 Marek read it twice.
 
-He read it the second time because it was, like everything that came out of that counter, technically immaculate, and because the covering note in Nell Cray's hand said *There is no forecast in this and no claim. It is not on any public notice and I do not put it on one. I send it because your box asked*, and the box had asked, and the answer had come back eight days late and in the wrong century.
+He read it the second time because it was, like everything that came out of that counter, technically immaculate, and because the covering note in Nell Cray's hand said *There is no forecast in this and no claim. It is not on any public notice and I do not put it on one. I send it because your box asked*, and the box had asked, and the answer had come back seven days late and in the wrong century.
 
 It was the correct classification. Of course it was. The form had asked for a list of local flood precautions and a clerk had supplied a list of local flood precautions, and there is no place in the Charter for a column of days with six names down it and two hours on a Tuesday, because that is not a forecast and does not make a claim and does not bind anybody to anything, and no clerk anywhere in Veyra had ever been able to say the word *promise* out loud in connection with it.
 
@@ -126,7 +126,7 @@ Anwen Sarr's clause four had been answered by nobody, and nobody was going to be
 
 He did not write the document.
 
-He tried on the Tuesday and the Wednesday and got as far as the second page, and on the Thursday he came into the shop at seven in the morning, and put his coat over the back of a stool, and took out a sheet of the shop's own paper, the cheap kind, the kind he used for bench sheets, and understood that what he was going to write was not the document and that it was the thing that was left when the document was taken away.
+He tried on the Friday and the Saturday and got as far as the second page, and on the Sunday he came into the shop at seven in the morning, and put his coat over the back of a stool, and took out a sheet of the shop's own paper, the cheap kind, the kind he used for bench sheets, and understood that what he was going to write was not the document and that it was the thing that was left when the document was taken away.
 
 He wrote four hundred words in his own hand and it took him fifty minutes, and it is a good document, and it is true.
 

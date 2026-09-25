@@ -1,6 +1,6 @@
 # Chapter 28 — What the Council's Own Conditions Ask For
 
-The claim as it finally stood on the sheet in front of Tovan Iles at about four o'clock on the afternoon of the twenty-eighth day of the Bellweather autumn, in Marek Vale's hand, because he had written it out three times and had burned the first two in the shop's stove out of an entirely superstitious habit he would not admit to under examination, was this:
+The claim as it finally stood on the sheet in his coat, in Marek Vale's hand — he had written it out three times that day and burned the first two in the shop's stove before lunch, out of an entirely superstitious habit he would not admit to under examination — was this:
 
 *Place: the Kestrel corridor — the western lane over the reach, from the point to the yards' mark.*
 *Trigger: the Kestrel Line's arrival at the yards' mark, accepted.*
@@ -61,7 +61,7 @@ Malle put his pencil down.
 
 ---
 
-He did the other thing at about ten past three on the Thursday afternoon, and it took him forty minutes to get down Tannery Walk and forty minutes more to say the sentence, and the sentence was two sentences and he had rehearsed both of them on the way.
+He did the other thing at about ten past two on the Thursday afternoon, and it took him forty minutes to get down Tannery Walk and forty minutes more to say the sentence, and the sentence was two sentences and he had rehearsed both of them on the way.
 
 "Tarin. I have got a claim that nobody will certify because it has no effect they can put a number on, and the reason it has no number is that the only thing that can time your corridor is a plate with no chain behind it. I am not asking you to believe the plate. I am asking you for a hull."
 
@@ -113,8 +113,8 @@ And Marek stood in the wet concrete of Kestrel Yards at about half past three on
 
 Except that this time it was not somebody else's to do. This time he had walked down a hill and asked a woman for the thing, and she had said yes, and she had said it in a yard in chalk with the hours on it, and the yes was on a board, and the board was public, and the claim was going to be entered tomorrow at the ward ledger bench with a bell and a clerk and a Director's approval stamp on it, and the whole of the machinery of it was in his hands.
 
-He had the warmth and he had four days of weather in front of him and a claim in a drawer with an effect in it and an expiry on it, and a plate in a tube, and a private instrument that nobody could check, and he was going to go and enter a true thing into a good ledger in a good hand with a witness who had agreed to be there.
+He had the warmth and he had four days of weather in front of him and a claim in his coat with an effect in it and an expiry on it, and a plate in a tube, and a private instrument that nobody could check, and he was going to go and enter a true thing into a good ledger in a good hand with a witness who had agreed to be there.
 
 And there was not one single person in the city who could have stopped him, and every single thing he was about to do was correct.
 
-He got on the tram at four and went up the hill, and did not sleep much, and the plate went into the tube and the tube went into the coat and the coat went onto a hook by the bench in the shop, and he stood for a moment looking at the tube the way you look at a thing that is the only reason anybody is going to be able to tell whether you were right.
+He got on the tram at four and went up the hill, and did not sleep much, and the claim sheet went into the inside pocket, and the plate went into the tube and the tube went into the coat and the coat went onto a hook by the bench in the shop, and he stood for a moment looking at the tube the way you look at a thing that is the only reason anybody is going to be able to tell whether you were right.

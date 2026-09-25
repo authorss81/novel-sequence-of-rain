@@ -50,9 +50,9 @@ It came up through the drains. It came up the culverts. It came up the low ends 
 
 It came into the ground floors of the lowest four blocks at about the same time and in the same quarter of an hour, from below, which is the worst way and the way that nobody who has not seen it can be made to understand: not over a wall and through a door, but up out of the floor.
 
-Neris Kade had the whole of the low ground clear before two o'clock.
+Neris Kade had the whole of the low ground clear by eleven the previous night.
 
-That is the thing about the ninth ward on this night and it is in Sergeant Ampow's own hand in a wet notebook and it is in the district's book in two places, and it is the reason nobody in that block died: they had been in the ground floors since three o'clock the previous morning. The wardens had put them up into the upper rooms and the assembly rooms and the second pump house in a run that had started at four o'clock in the afternoon of the twenty-ninth and had finished at about eleven, and it had finished, and it had been finished for five hours before the ward's own water came back up out of the ward's own drains.
+That is the thing about the ninth ward on this night and it is in Sergeant Ampow's own hand in a wet notebook and it is in the district's book in two places, and it is the reason nobody in that block died: they had been out of their ground floors since about eleven. The wardens had put them up into the upper rooms and the assembly rooms and the second pump house in a run that had started at four o'clock in the afternoon of the twenty-ninth and had finished at about eleven, and it had finished, and it had been finished for the better part of five hours before the ward's own water came back up out of the ward's own drains.
 
 There is no column anywhere for a day's shift of a district's whole population moved up four floors by about thirty people with torches and handbells and no forecast and no claim and no money, and there never will be.
 
@@ -108,7 +108,7 @@ The cost of it was a boom cable, a day's work for eleven people, and about three
 
 ---
 
-Here is the other thing about the thirtieth, and the only person who has ever been in a position to say it clearly, and she has never been asked and would not have known what to do if she had been.
+Here is the other thing about the thirtieth, and nobody has ever asked her about it.
 
 The headwall was overdue. Not damaged-in-a-storm overdue. *Overdue* overdue, in the way a thing is overdue when it has been on a funded list for two years and a deferred list for two years and has been shored twice and has about a foot of its face gone to gravel, and the water office has a queue, and the queue is the correct instrument for deciding what gets done next, and everybody in the city has behaved correctly about it at every hour of every day for eleven years.
 

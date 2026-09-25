@@ -118,7 +118,7 @@ Marek went and got his hat.
 
 The long Bellweather watch went up on the field office board at four o'clock on the twenty-sixth, in a new hand, with a new pin in a new hole, and it covered the body and the peak and it ran six days, and it had four crews, two pump houses, a district warden, a second reader, and a name on the reader's line.
 
-The ninth ward's head on the wall did nothing at all, as it had not for a fortnight and a half and would not for a long time to come, and a district of four hundred and forty people went on reading four women's handwriting.
+The ninth ward's head on the wall did nothing at all, as it had not for a fortnight and would not for a long time to come, and a district of four hundred and forty people went on reading four women's handwriting.
 
 And on the thirty-first of a month, at the south-bank shed, a banded timber stack and a replacement dewatering pump stood loaded under a tarpaulin, with nine crew assigned and no instruction of any kind outstanding, waiting on a window that was not a weather window and would not be anybody's business when it came.
 

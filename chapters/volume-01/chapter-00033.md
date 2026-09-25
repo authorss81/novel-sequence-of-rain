@@ -34,47 +34,27 @@ And underneath, in a different hand, the same pen, a second line, because Farrow
 
 He had it the way a shed foreman has everything: in order, with times, and without any feeling in it whatsoever, which was the thing Neris had been listening to for forty minutes and had not been able to put a name to until she gave up trying.
 
-"The mark came off at about twenty past seven," said Petrie. "I was stood at the post myself. Mud off the mark, first time since the autumn, and I said the word. You don't say the word for nothing, you say it and then you go and get the flatbed off the blocks, and the flatbed wants about ten minutes to come off the blocks and get round."
-
-"Ten minutes."
-
-"Ten minutes. Which is fine, because the window's forty minutes and I'd have called the start of it half past, so we had it coming and going." He put his hand out flat. "Mark off at twenty past. Flatbed's nose round about half past. We got forty feet onto the flat — that's my figure and it's measured from the post — with the timber banded and the pump still on the pallet and nobody's boots off the bed, and Nell's boy on the staff the whole way."
-
-"And then?"
+"The mark came off at about twenty past seven. I was stood at the post myself. Mud off it, first time since the autumn, and I said the word out loud, because you don't say the word for nothing — you say it and then you go and get the flatbed off the blocks." He put his hand out flat, palm down, the way a man shows a distance. "The window's forty minutes and I'd have called the start of it half past, so we had it coming and going. We got forty feet onto the flat — that's my figure and it's measured from the post — with the timber banded and the pump still on the pallet and nobody's boots off the bed, and Nell's boy on the staff the whole way."
 
 "And then the reach came back."
 
-"In four hours?"
+"In fifty minutes," said Petrie. "Which I've had thirty years for and it has never done it, and I've told the water office, and there's a queue. It came back at about ten past eight and it came back the way a reach fills rather than the way a reach rises, and I know the difference, and the water office has never once in nine years written it down in the right column. We were on the hard ground at about ten to nine."
 
-"In fifty minutes," said Petrie. "Which I've had thirty years for and it has never done it and I've told the water office and there's a queue. It came back at about ten past eight. Two foot on the staff in a minute. Three foot in three minutes. That's a reach filling, not a reach rising, and I know the difference, and there is a difference, and the water office has never once in nine years written it down in the right column."
+Neris Kade wrote it down with all of that on it, including the part about a queue.
 
----
-
-"And then the flat was gone," said Neris Kade.
-
-"And then the flat was gone," said Petrie, "and I got her off, and the pump's pallet went over at the end and four of my men had a hand under it and it went back on the bed and the bands held, and the tide came up round the wheels on the way in and we were on hard ground at about ten to nine."
-
-"And nobody told you not to go."
+"And nobody told you not to go," she said.
 
 "No."
 
 "Nobody rang you."
 
-"No."
-
-"Nobody sent a notice."
-
-"No," said Petrie, and he said it a third time, and he looked at her, and he said the thing that she carried up the hill with her and did not put down for about a week. "Nobody told me not to go, madam. That is the whole of what I have been laying awake with. I have had nine men stood in a shed for a day and a half and I cannot tell you who did it to me, because there isn't a *who*. That's a thing you can be sacked for. You can be fined. There is a man somewhere you can go and shout at. I have been looking for one since Friday afternoon and there isn't one and the water office has never sent a crew to stand anybody down in my life and I would know, because they would have to come down the road, and I would have seen the cart."
+"No. Nobody sent a notice either, if that's the one you were going to ask for." He looked at her, and then he said the thing that she carried up the hill with her and did not put down for about a week. "Nobody told me not to go, madam. That is the whole of what I have been laying awake with. I have had nine men stood in a shed for a day and a half and I cannot tell you who did it to me, because there isn't a *who*. That's a thing you can be sacked for. You can be fined. There is a man somewhere you can go and shout at. I have been looking for one since Friday afternoon and there isn't one, and the water office has never sent a crew to stand anybody down in my life and I would know, because they would have to come down the road, and I would have seen the cart."
 
 ---
 
-Neris sat down on the bench.
+Neris Kade sat down on the shed bench. She had come down the hill with four things to establish and she had two of them, and the second of them was the worst thing she had ever been handed by an honest man.
 
-She had come down the hill with four things to establish and she had two of them and the second of them was the worst thing she had ever been handed by an honest man.
-
-The levels had been wrong. That was established, and it was established by a water-office clerk's own hand in a shed's own book, and the clerk had done everything right and had written the window in and had told the shed to have the ground inspected and the ground *was* good and the crew had gone out in it.
-
-And nobody had stopped them.
+The levels had been wrong. That was established, and it was established by a water-office clerk's own hand in a shed's own book, and the clerk had done everything right and had written the window in and had told the shed to have the ground inspected and the ground *was* good and the crew had gone out in it — and nobody had stopped them.
 
 The remaining two things were: what the Office had published about the thirtieth, and whether anybody else in this basin had a document about any of it.
 
@@ -128,21 +108,17 @@ And Neris Kade stood on the top of a low flat in the middle of a reach with a la
 
 ---
 
-She got the district book out in the district office at about four in the afternoon and locked the door, which she has never done in nineteen years of this or five years of the job, and she took the ruled page out of the drawer at the back of the desk where it has lived since the eighth of the month.
+She got the district book out in the district office at about four in the afternoon and locked the door behind her, which was not a thing she did, and she took the ruled page out of the drawer at the back of the desk where it has lived since the eighth of the month.
 
 *NINTH WARD — WHAT THE NOTICE DID NOT SAY. One line per notice, in the order they came.*
 
-Six lines.
-
-The first three were about the seventh, the eighth and the ninth of the month, and the fourth was about the ward's own glass and the plate in a coat, and the fifth was about a district that cannot read its own notice, and the sixth she had written on the twelfth and had gone over four times and had a bracket round one word in it.
+Six lines. The first was about the fifth day's bulletin and had no number in it at all. The second and the third were about the seventh and the eighth, and the third was the one about ninety-odd people on the ground floors and how long the water would be there. The fourth had no date on it because it was not about a notice, and it named him. The fifth was about a district that cannot read its own notice. And the sixth she had written on the twenty-ninth, after the Bellweather notice went up with a seal on it, and had gone over four times and had a bracket round one word in it, and she had not decided yet what the bracket meant.
 
 And she wrote the seventh, in her own hand, in the room, with nobody in it:
 
 *7. The thirtieth's return does not say the reach levels came down, because there is no instrument in the Office that looks at a reach, and therefore nothing that was lost on the reach can be said to have been lost by anybody. The notice is correct. The district cannot be shown to have been right about the levels and cannot be shown to have been wrong. A window the city cannot see is not a window the city loses.*
 
-She read it seven times.
-
-Then she did the thing that had taken her four days in the previous month and the whole of the previous fortnight, and she wrote the line that says the thing is a document and a document has an author, at the top of the page under the heading, in her own hand, and the date, and she put the district's stamp on it with the stamp she has a key for, and then she put it back in the drawer and locked the drawer.
+She read it seven times. Then she did the thing that had taken her four days in the previous month and the whole of the previous fortnight, and she wrote the line that says the thing is a document and a document has an author, at the top of the page under the heading, in her own hand, and the date, and she put the district's stamp on it with the stamp she has a key for, and then she put it back in the drawer and locked the drawer.
 
 Because it was the only object in this city that joined the two ends of it. That was the whole of the discovery and it arrived in her while she was locking a drawer.
 

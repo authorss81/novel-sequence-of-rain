@@ -94,7 +94,7 @@ Lior Venn was about forty-five and had a face like a closed ledger and answered 
 
 "No," said Lior Venn. "And I have thought about it, and there is a version of my job in which I lift things, and in that version I am not doing records, I am doing something else, and there are people in this city who would be much better served by that other thing and it is not this." He put his pen down. "I have never lifted one. Ask me again in a year."
 
-And that was the whole of it, and Tovan Iles went back to the bench with it and sat down, and it stayed with her for a long time, and this is the shape of it in her own account, written out years later in a hand that had got worse: *a rule is not a lie. It is never going to be a lie. I want that written down. I did not agree with it and it is not a lie, and the protection of a record is a classification, and a classification does not have to be a lie in order to be one.*
+And that was the whole of it, and Tovan Iles went back to the bench with it and sat down, and it stayed with her a long time, and this is the shape of it in her own hand: *a rule is not a lie. It is never going to be a lie. I want that written down. I did not agree with it and it is not a lie, and the protection of a record is a classification, and a classification does not have to be a lie in order to be one.*
 
 ---
 
@@ -116,7 +116,7 @@ Nobody had ever taught her to make a copy of a day sheet from *before* a reclass
 
 She made one anyway. She made it on a clean sheet out of the pad on the second bench, in her own hand, with the date and the classification lines and the day's items and the claim, exactly as they stood at half past eight that morning, and she put her initials against it and the time, and she put it in her box.
 
-It is a true copy of a record that existed. It is not a stolen document. It is not evidence of anything at all — it has no chain behind it, it names no district and no person, it is a copy clerk's private copy of a day's weather, and it is worth precisely nothing in any room in this basin, and if she produced it in the Council's technical cell on the thirtieth of the month a Deputy would hold it up and say *that is an unattached copy of a record of weather, miss, and the record it copies is a record of a day* and put it in a tray, and it would be stamped in about forty seconds.
+It is a true copy of a record that existed. It is not a stolen document. It is not evidence of anything at all — it has no chain behind it, it names no district and no person, it is a copy clerk's private copy of a day's weather, and it is worth precisely nothing in any room in this basin, and if she produced it in the Council's technical cell a Deputy would hold it up and say *that is an unattached copy of a record of weather, miss, and the record it copies is a record of a day*, and put it in a tray, and be entirely correct, and the two ends would never touch.
 
 She wrote it out in eleven minutes and she did not shake once, and then she went back to the bench and finished the day's entry, and the day entry is correct in every particular and it is the document that went out, and it is the document that the Council's report on the method will be built on in the spring.
 

@@ -98,7 +98,7 @@ She stood on the apron in the cold with a rope in her hand and looked at the boa
 
 Then she went down the south bank, because there was a thing on her list that had been on her list for two years and had got longer.
 
-The shed was open. The banded timber stack was under a tarpaulin that had not moved. The replacement dewatering pump was on its pallet with the Union guarantee on the drum and a cover over it. The notice board outside had been repainted four times and had been repainted in the autumn with a date on it, and the date was a week away, and the date was on a Thursday, and the reach levels came down at the end of the month, and there were about nine days in a year when the low flat at the bottom of the reach would take a loaded flatbed and a pump.
+The shed was open. The banded timber stack was under a tarpaulin that had not moved. The replacement dewatering pump was on its pallet with the Union guarantee on the drum and a cover over it. The notice board outside had been repainted four times and had been repainted in the autumn with a date on it, and the date was a week away, and there were about nine days a year when the low flat at the bottom of the reach would take a loaded flatbed and a pump.
 
 Petrie was in the shed door with a lamp, as he had been on the Monday of this month when she had asked him the same question and been told the same answer.
 
@@ -106,7 +106,7 @@ Petrie was in the shed door with a lamp, as he had been on the Monday of this mo
 
 "Still loaded."
 
-"Still loaded, and nobody's stood them down, and nobody's cancelled it, and the levels come down about the end of the month, and there'll be a morning when the mark on that post shows." He nodded out at the flat. "It is not weather, captain. It never was weather. It is water, and water does not care what anybody forecast."
+"Still loaded, and nobody's stood them down, and nobody's cancelled it." He nodded out at the flat, at the mud with four inches of water standing on it. "It is not weather, captain. It never was weather. It is water, and water does not care what anybody forecast."
 
 "I know," said Tarin Senn. "I have written it on a board."
 

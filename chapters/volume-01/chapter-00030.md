@@ -58,7 +58,7 @@ Afterwards there were four people who each did the right thing, and Tarin Senn w
 
 The yard's rigger took the line and made it fast and did not shout at anybody.
 
-Wen Ardery sat down on a coil and held his wrist against his chest and did not say anything at all about it, which was the correct professional response and which Tarin Senn has thought about a great deal since.
+Wen Ardery sat down on a coil and held his wrist against his chest and did not say anything at all about it, which was the correct professional response.
 
 Ilva Sorn came up the slip and took the *Marrow* in, because the *Marrow* was a length and a half on the quarter and there was a junior on the apron and the route officer made the launch call, which she had made four times in nineteen years and never once to a ship, and she made it correctly, and the *Marrow* was in at eleven minutes past midnight and did not touch anything.
 
@@ -78,7 +78,7 @@ A claim under a Director's authorization does not tell you what it has done to t
 
 A claim is a sheet. The sheet has a place and a trigger and an effect and an alternative and an expiry and a sponsor's name on it, and Marek had written the alternative himself and written it well, and there is not one line on that sheet about the wind on an apron at eleven minutes past midnight and there is not going to be one, because a claim's whole reach is what it says, and what it says is a corridor.
 
-He had taken a quarter of an hour of eased air out of the last evening of a month, because a quarter of an hour of eased air was the turn that most directly contradicted an hour that was held to four o'clock. That is the mechanism. That is what he did, and he did it in front of a clerk who writes without lifting her pen, and it was true, and it saved the corridor, and it also took the lulls out of a mooring on the yards' apron, and neither of those two facts was going to appear on the sheet and one of them had cost a nineteen-year-old his wrist.
+He had taken a quarter of an hour of eased air out of the last evening of a month, because that quarter of an hour was the turn which most directly contradicted an hour held to four o'clock. It was true, and it saved the corridor, and it also took the lulls out of a mooring on the yards' apron, and neither of those two facts was going to appear on the sheet, and one of them had cost a nineteen-year-old his wrist.
 
 She thought about the four lines on the slate on the Thursday, and about the words *a term sheet protects a yard's reputation and not a crew's body* which she had said out loud in a yard a day before, in front of nine people, and had not known she had said it until she had said it.
 

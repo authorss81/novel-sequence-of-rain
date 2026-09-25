@@ -144,6 +144,6 @@ Then he went down the stairs and got his coat and went up to the bench in the sh
 
 The corridor held. It was a three-day band and the band was a hand's breadth short at the western end and there was a repeat in it that a man with a copper box could see from a boat and that no plate on the ridge could put in a column with the hours on it.
 
-It was, as always, the only instrument in Veyra capable of contradicting four businesses, and it had a hole in it the shape of a man who could not produce a sheet of paper.
+The plate, as always, was the only instrument in Veyra capable of contradicting four businesses, and it had a hole in it the shape of a man who could not produce a sheet of paper.
 
 He had about forty minutes of it before the light went off the frame, and then four days of weather, and then a decision that somebody was going to have to sign.

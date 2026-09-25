@@ -62,7 +62,7 @@ And the ninth ward's head did nothing at all.
 
 ---
 
-It had not done anything for a fortnight and a half. Marek had watched it not do it on the seventh with an emergency ledger open in front of him, and on the fourth with a bell going at ten o'clock, and on the fifteenth with a permanent brass surround bedded by his own hands around a half-size bubbled temporary with a flaw in the middle of it the size of a thumbnail.
+It had not done anything for a fortnight. Marek had watched it not do it twice on the seventh — once with the watch bell going at ten in the morning and an unentered emergency ledger lying open on the bench in front of him, and again at eleven when he put his name under a claim and put his hand flat on the table afterwards — and on the fifteenth with a permanent brass surround bedded by his own hands around a half-size bubbled temporary with a flaw in the middle of it the size of a thumbnail.
 
 Underneath, the tower's feed was running on the best plate he had ever cut. A spare was on the shelf in its box, dated, not fitted. And the frame above the second landing had two sets of screw holes in the iron, an old pair counter-sunk and rust-brown from four hundred years of weather, and a newish pair from a batten, and the good glass for the old pair was in a glassblower's shop at Kestrel Yards, quoted at the end of last year, ordered, and paid for, on a district's account that could not cover a man and a crate sent forty miles, and would never cover it, and would never be sent.
 
@@ -98,7 +98,7 @@ Marek put his hand up to his left ear the way a man does about four times a day,
 
 ---
 
-The plate was in the tube in his coat and the tube was on a hook by the bench in the shop, and he got it out at ten past four and set it on the frame and lit the lamp, because he had two hours of good light and because he wanted to be certain.
+The plate was in the tube in his coat and the coat was on a hook by the bench in the maintenance shop, and he got the tube out at about five and set the plate on the frame and lit the lamp, because he had an hour and a half of good light left in the day and because he wanted to be certain.
 
 There was a panel standing across the middle of the glass, and it had not been there at seven o'clock that morning, and it had been standing there since about half past four.
 
@@ -113,47 +113,33 @@ It did not say which turn. It had not said which turn at eleven o'clock on the s
 
 It gave him the exact words that were on the sheet on the arch wire. It told him, in the flattest possible voice, that one of the things still available in the world had stopped being available, and it did not tell him what it was, and it was not going to, and there was no arrangement of reading, or lamp, or tilt, or eleven years of practice that would make it tell him, and the only way this city had ever found to know what a claim had spent was for a reader to be the one who looked.
 
-It had been standing on a dark plate in a cold shop for two hours and he had not seen it because he had not been looking at it. He had been looking at a corridor. He had had it in his coat on a tram and in a shop and on a hill, and the moment it had happened he had been in a room with a clerk in it who was writing without lifting her pen.
+It had been standing on a dark plate in a cold shop for the half hour since the moment she finished the word *certified*, and he had not seen it because he had not been looking at it. He had been looking at a corridor. He had had it in his coat on a hook for the whole of that half hour, four feet from a bench on which a clerk was writing without lifting her pen, and no instrument in this basin had ever been built to say a thing like that out loud.
 
 He put his hand flat on the bench and made sure the room was solid, the way a man does, and then he read the western draw off the last two days of the run in the ordinary way — down once through the whole of it, up movement by movement out loud, once with the lamp cold, once tilted. And the shape he had been carrying in his head for two days was on the plate, and it was the shape he had expected it to be, and the expecting was the part he did not enjoy afterwards.
 
-The draw came up the western side in a long band. A long band is a lane and a lane is a corridor and a corridor is an hour, and the hour is made of a pressure gradient standing between two airs, and a long band has a *bend* in it.
-
-Under the long band, a hook. A short one. It came off the long band about two thirds of the way along, it ran for a quarter of an hour, and then the long band picked up again underneath it and went on.
-
-He had read that shape on the ninth of the month on a stone floor in front of nineteen people and had given it out loud as *Route twice — a short hook under a long one*. He had been describing a feature of the collision. He had not known then that it was a description of a feature of a draw.
+The draw came up the western side in a long band. A long band is a lane and a lane is a corridor and a corridor is an hour, and the hour is made of a pressure gradient standing between two airs, and a long band has a *bend* in it. Under the long band there was a hook, a short one, which came off the long band about two thirds of the way along and ran for a quarter of an hour, and then the long band picked up again underneath it and went on. He had read that shape on the ninth of the month on a stone floor in front of nineteen people and had given it out loud as *Route twice — a short hook under a long one*. He had been describing a feature of the collision. He had not known then that it was a description of a feature of a draw.
 
 A hook is not a lane. A lane wants the long one.
 
-But a hook in a draw is where a basin dumps. It is the air easing for a quarter of an hour, and in that quarter of an hour the basin's outflow runs free, and the reach at the bottom of it goes down to the lowest point of the whole month, and a flatbed and a replacement pump and nine men can stand on the flat at the bottom of the reach for about forty minutes, and then the long band comes back over the top of it and puts the water back.
-
-The reach comes down when the basin's draw is on it. Petrie had told Tarin Senn that on the eleventh of the month standing in a shed door, and it was on a board in a yard in chalk, and it was correct, and it was also the reason the mark on the post at the edge of the flat showed when it showed.
+But a hook in a draw is where a basin dumps. It is the air easing for a quarter of an hour, and in that quarter of an hour the basin's outflow runs free, and the reach at the bottom of it goes down to the lowest point of the whole month, and a flatbed and a replacement pump and nine men can stand on the flat at the bottom of the reach for about forty minutes, and then the long band comes back over the top of it and puts the water back. The reach comes down when the basin's draw is on it; Petrie had told Tarin Senn that on the eleventh of the month standing in a shed door, and it was on a board in a yard in chalk, and it was correct, and it was also the reason the mark on the post at the edge of the flat showed when it showed.
 
 And the hook was on the plate, and the hook was the ebb, and the ebb was the window, and the window was about forty minutes wide and it was on the morning of the thirtieth, and it was the only morning in about nine days.
 
-Now the arithmetic of what a claim does to a turn.
+He had the other half of it too, and Malle had put it into him in a corridor on the Tuesday in the flattest possible voice, and there was nothing in it that was anybody's opinion: *a corridor is an hour that you can put a hull in, and an hour is made of a pressure gradient standing between two airs.* A claim that holds an hour does not improve the hour. It makes it dependable, and a dependable hour is not a variable one, and the sequence does not distinguish between a thing that is probable and a thing that is fixed, and a fixed turn has no bend in it, because a bend is a thing you might or might not get and a claim has removed the might.
 
-He had it and he had had it since the fourteenth of the month, and Malle had said it to him in a corridor on the Tuesday in the flattest possible voice, and it was in three files on the ridge, and it was the one true sentence in the city:
+So the claim takes the long band — it takes it because the long band is what the claim is for — and the hook goes with it, because the hook is the turn that most directly contradicts a long band held to certainty. And there is no wind in it, and that was the sentence he had gone over eleven times in two days and it was the sentence that made him put his hand flat on the bench a second time.
 
-*A corridor is an hour that you can put a hull in, and an hour is made of a pressure gradient standing between two airs.*
-
-A claim that holds an hour does not improve the hour. It makes the hour dependable. And a dependable hour is not a variable one. And the sequence does not distinguish between a thing that is probable and a thing that is fixed, and a thing that is fixed does not have a bend in it, because a bend is a thing you might or might not get, and a claim has removed the might.
-
-So the claim takes the long band. It takes it because the long band is what the claim is for. And the hook — the quarter of an hour of eased air, the drain, the bottom of the month, the forty minutes on the flat — goes with it, because the hook is the turn that most directly contradicts a long band held to certainty.
-
-And there is no wind in it. That was the sentence he had gone over eleven times in two days and it was the sentence that made him put his hand flat on the bench.
-
-Nothing about this is a weather event. There is no front, no belt, no collision, no lead, no cycle, and nothing whatever in the sky on the morning of the thirtieth will be different on the morning of the thirtieth from the morning of the twenty-ninth, because the reach is the reach and the reach comes down on the basin's draw and the basin's draw is a matter of how much water the basin is trying to move, and no amount of rain changes that, and no instrument in the Weather Office of this city is built to look at it, and there is not one word in the Charter of Public Notice, or in the rules of any ward, or in the vocabulary of any instrument on the ridge, or in the mouth of any Deputy, that would be caused to move by the fact that a quarter of an hour of air has quietly stopped being available on the last morning of a month.
+Nothing about this is a weather event. There is no front, no belt, no collision, no lead and no cycle, and nothing whatever in the sky on the morning of the thirtieth will be different from the morning of the twenty-ninth, because the reach is the reach and the reach comes down on the basin's draw and the basin's draw is a matter of how much water the basin is trying to move, and no amount of rain changes that, and no instrument in the Weather Office of this city is built to look at it.
 
 A reach-level window is not a weather window.
 
-That is the whole mechanism. That is all of it, and it is not a spell and it is not a curse and nobody has to do anything at all, anywhere, ever, to bring it about. The banded stack stays banded. The pump stays on its pallet under its cover with the Union guarantee on the drum. Nine men are assigned and no instruction is outstanding. Nobody has cancelled it. Nobody has stood it down. There is no document in Veyra, in this basin, in any office, that says the convoy will not go to the Lower Sill headwall on the morning of the thirtieth, and there is not going to be one, and the reason there is not going to be one is that to write one a person would first have to decide something.
+That is not a spell and it is not a curse and nobody has to do anything at all, anywhere, ever, to bring it about. The banded stack stays banded. The pump stays on its pallet under its cover with the Union guarantee on the drum. Nine men are assigned and no instruction is outstanding. Nobody has cancelled it and nobody has stood it down, and there is no document in Veyra, in this basin, in any office, that says the convoy will not go to the Lower Sill headwall on the morning of the thirtieth, and there is not going to be one, because to write one a person would first have to decide something.
 
 ---
 
 He put the plate down on the bench and put both hands on the frame on either side of it, and sat there in a cold shop for about four minutes, and did not take a reading, and did not need to.
 
-Then he put the plate back in the tube and the tube in his coat, and went down the hill, because the yard was going to be dark and the *Petrel* wanted her morning checks and there was a man on the boards at Kestrel Yards who had said yes.
+Then he put the plate back in the tube and the tube in his coat, and went down the hill, because the yard wanted doing before the lamps and the *Petrel* wanted her morning checks and there was a man on the boards at Kestrel Yards who had said yes.
 
 ---
 
@@ -183,6 +169,6 @@ He read it out. He read the place and the trigger and the effect and the alterna
 
 He got on the tram at ten with the tube in his coat and the two readings and a filing mark in the left cuff and a claim in the world that was entirely true, and entered in a good hand, by a clerk who wrote without lifting the pen, with a Director's approval stamp on the sheet and a bell struck for the yards and nothing at all struck for the ninth.
 
-The wind window was at four the next morning.
+The wind window was at four the next morning, and it had been at four the previous afternoon, and it would be at four again on every wet afternoon and every grey morning for as long as a body of weather sat on that lake, and not one of those hours was on the sheet.
 
 He slept about two hours, which was more than he had been getting, and he did not dream, and he woke at half past two and lay in the dark for an hour and a half and thought about a hook of air under a long band, a quarter of an hour long, on the last morning of a month, forty minutes wide, a thousand yards from where he was lying, with nine men and a stack of timber and a replacement dewatering pump already loaded and waiting for a morning that had nothing wrong with it at all.

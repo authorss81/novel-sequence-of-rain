@@ -20,7 +20,7 @@ Oren Vale looked at the timber and the pump and the board and then at the flat, 
 
 "You've come down a bank with a lamp to ask me a number," said Oren. "Say it out, and I'll give you the number, and then you can go up the hill and feel better."
 
-Marek stood there with the lamp in his hand and the wind coming up the reach behind him and made himself say it, which is the single hardest thing in this chapter and which he did not manage well.
+Marek stood there with the lamp in his hand and the wind coming up the reach behind him and made himself say it, and he said all of it, and he said it in the wrong order, and none of it came out the way he had heard it in his own head on the hill.
 
 "Nine men. A timber stack and a replacement dewatering pump. The wall's got a gravel face at the west cheek and it's shored twice and the second shoring's carrying the first. If they'd gone out on the thirtieth—"
 
