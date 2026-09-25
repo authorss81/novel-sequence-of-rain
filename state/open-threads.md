@@ -1,42 +1,49 @@
 # Open Threads
 
-These are planned promises, not yet prose-level reveals.
+Planned promises, marked with how far each has actually been opened in prose. A thread is only *promised* to the reader once it has been dramatized; until then it is design.
 
 ## Mystery threads
 
-- **Bellweather spend:** Marek will bind a Kestrel-corridor claim to save airships and lose the available repair-convoy branch for the Lower Sill culvert. The later south-bank landslide is ordinary storm damage; the visible cost is the missing repair opportunity, not the landslide.
-- **The cut index:** Volume 01 ends with a citation to the missing Ninth Ward Record whose index entry was removed by hand, naming a routing clerk, **Ottine Vask**, who died two years before the Cut. A routing entry cannot name an already-dead witness, so the routing trail was falsified and someone hid the fact that it could be checked. The hand is identified in **Volume 05**; the reason is withheld until **Ione’s Volume 11 testimony**, where she names herself and the second cut as a separate act from Rook’s deletion order. Do not invent a separate culprit, and do not let the Volume 01 hook resolve to Rook alone.
-- **Ninth Ward Record:** Anja’s signed forecast. Proves the surviving corridor was sealed and hidden rather than spent. Missing until Volume 11.
-- **Crown Basin sheet:** Anja’s final hand-written readings, found in Volume 12. A separate document. Records the branch she closed, the route she failed to save, a seal tag number, and Rook’s signed order with the low-ward projection omitted.
-- **Meridian Cut:** Rook’s signed order and Ione’s deletion must be uncovered gradually. The emotional question is not only who decided, but why the decision was made acceptable.
-- **Original Compact:** The First Compact was designed to show competing turns and return decisions to affected communities. The later Weather Council changed that purpose without creating a new magical faction.
-- **The unrepaired trace:** A repaired Ninth Ward tower carries a sequence trace no current instrument can produce. This is the first physical sign that Anja’s work used a method the modern Office does not teach, and it must not become a secret new power.
+- **Bellweather spend:** **not yet opened in prose.** Planned for Chapters 27–35: Marek binds a Kestrel-corridor claim to save airships and loses the available repair-convoy branch for the Lower Sill culvert. The south-bank landslide is ordinary storm damage; the visible cost is the missing repair opportunity, not the landslide. Chapters 11–20 must set up the corridor claim's demand (the joint request, already on the wall in Chapter 10) and the convoy without dramatizing the spend.
+- **The cut index:** **opened as a hole only.** Chapter 10 gives a signature (A. Marek's mother), a violet filed mark, a partial sequence reference, and a hand-trimmed margin. The reader has not been told what the removed piece covered, who cut it, or that a routing clerk was named. The remaining fragment reading **VASK, O., R-9** belongs to Chapter 47. The hand is identified in **Volume 05**; the reason is withheld until **Ione's Volume 11 testimony**. Do not invent a separate culprit, and do not let the Volume 01 hook resolve to Rook alone.
+- **Ninth Ward Record:** **not mentioned in prose and must not be.** Anja's signed forecast. Proves the surviving corridor was sealed and hidden rather than spent. Missing until Volume 11.
+- **Crown Basin sheet:** not mentioned. A separate document. Records the branch she closed, the route she failed to save, a seal tag number, and Rook's signed order with the low-ward projection omitted. Found in Volume 12.
+- **Meridian Cut:** **not named in prose and must not be** until its planned volume. Rook's signed order and Ione's deletion surface gradually.
+- **Original Compact:** not named. The Meridian is not inside the city in this batch and nobody has gone near Crown Basin.
+- **The unrepaired trace:** **not yet opened.** The trace that dates itself to twelve years back is inside the Ninth Ward tower's sequence plate and is a Batch 0002 discovery (Chapter 18). The plate came out of that feed in Chapter 7; it has not been read for anything but the second turn's Release.
 
 ## Civic and political threads
 
-- **Regional pressure:** Morrow Fen, Nacre Holds, Red Sill, and Ternway will test whether Veyra can coordinate beyond its own borders without binding other people’s choices.
-- **Malle’s compromise:** Corrin Malle buries the Bellweather entry for four volumes, then testifies against Rook. His motive is institutional survival, not villainy, and Marek is never fully able to forgive it. He is distinct from Lior Venn, who suppresses readings that were never acted on.
-- **Tovan’s demotion:** Assigned to Volume 01 and never lifted as a favour. She spends Volumes 2–10 on a copy desk, which is what makes her the right person to keep the Weather Commons archive in Volume 11 onward.
-- **Tovan’s copy:** The private ledger copy is the physical object the Quiet Ledger and later public archive arguments turn on. It is evidence, not a magic key.
-- **The no-forecast trial:** The No-Forecast Assembly must face a disaster a single published claim would have limited, and must not be discredited by a speech.
-- **The ward mismatch:** Low Spindle shares a ward with clean ground; Hearthward’s terraces sit on a ward serving a third of the city. This structural unfairness recurs as practical weather politics.
-- **Weather Commons:** The final institution must contain nine watershed cells with local and regional seats, public evidence, appeals, expiry, compensation, and no permanent single-answer authority.
+- **The city working system for not knowing, now dramatized.** Tovan Iles's unattached-observation drawer, the entry bell, the violet filed mark, the emergency ledger, Lior Venn's Rule 6 reclassification, and Venn's line that the Exchange is not a party to any district's preparations. Chapters 11–20 inherit a working machine, not a mystery.
+- **Malle's compromise:** **started.** He has asked twice and been given a true answer and a circle, and he has minuted the sequence fault. He has not yet buried anything, because the spend he will bury has not happened. The Bellweather entry remains open to him for Chapters 35 onward.
+- **Tovan's demotion:** not started. It follows the refusal to falsify the Bellweather entry in Chapter 35. She is currently a ward ledger clerk and the person who writes claims into the world.
+- **Tovan's copy:** not started.
+- **The no-forecast trial:** not started. Juba Tren has appeared once, in a corridor, and said almost nothing.
+- **The ward mismatch:** not yet dramatized. The Ninth Ward's head staying cloudy amber while two other heads come up clear in Chapter 5 is the first physical instance; the volume audit should make sure the politics is eventually named.
+- **Weather Commons:** not started.
 
 ## Character threads
 
-- **Marek’s flaw:** His first private spend must be followed by a later failure in which hiding a branch cost damages Tarin’s crew and costs him public trust.
-- **Sable’s correction:** Her early uncontrolled disclosures must lead to a consent-based public archive; any final reserve disclosure must carry consequences and a clear publication process.
-- **Neris’s boundary:** She does not join the Commons for free. Wardens set a physical boundary around the core, and Marek accepts it.
-- **Pell’s injury:** Pell is hurt in the Volume 07 breach and never fully trusts Marek’s field judgment again. He does not receive a reader’s resolution.
-- **Anwen’s seat:** She takes a rotating Weather Commons Council seat in the ending and uses her first act on it to require disclosure of already-closed local branches. Her Volume 04 defeat of Marek is a correct institutional result, not a foil.
-- **Anja stays dead:** No preserved consciousness, hidden survivor, or substitute heir may be introduced to carry her plot. Ottine Vask is also dead before the Cut and must never be resurrected, given a posthumous message, or promoted to the hidden author of Anja’s work.
+- **Marek's flaw:** **performed once, deliberately, in Chapter 7, and again in Chapter 9.** He has withheld a branch cost and answered Anwen Sarr with procedure. The later public failure in Volume 07, in which hiding a branch costs Tarin's crew a safe route, is still ahead of him and must not be anticipated.
+- **Tarin's question:** she has asked who stood the crew down. The next time she sees Marek she will ask why nobody stood them down. She owes Marek an explanation and has not had one.
+- **Anwen's written demand:** she has told Marek she will hold him in writing to publishing what a claim costs. This is the live thread that Chapter 21 and the Act IV public hall both turn on.
+- **Sable's correction:** **started.** She has been right, been filed away, offered attribution before it was asked for, and still been a person who released a number into a room where the people exposed to it had not been asked. Her Volume 03 consent-archive problem is live.
+- **The district's right to refuse:** **planted, in Tovan Iles's mouth, in Chapter 4.** Two winters ago a good claim on her bench was read off the bell and turned down by the district in favour of its own published plan, so nothing happened and no record anywhere says so. This is the moral seed of Anwen Sarr defeating Marek in Volume 04 and of the Volume 08 cell that displays disagreement. Do not resolve it early.
+- **Neris's list:** four lines and a promise to send it to the Deputy. The fifth line is her own shelter rota and she has not written it.
+- **Pell's warning:** he told Marek that a ward with no public glass finds out about a private reading from him, eventually. Marek has not understood that this is about Pell and not about the ward.
+- **Anwen's seat / Juba's trial / Oren's reconciliation / Anja stays dead:** unchanged, all still ahead.
 
 ## Ending threads
 
-- **The final spend:** The Weather Commons’s own operation costs the branch in which Low Spindle’s early wind precursor summons the shoring crew. The bound claim is accurate; holding the turn revokes the precursor’s authority to send anyone, so the crew never leaves the shed and a real, unclaimed reversal arrives at 05:10. The twelve deaths are the direct result of a binding forecast, not weather luck. The river gate failure and the fouled cisterns are ordinary storm damage and are attributed as such.
-- **The two Last Forecasts:** Volume 10’s attempt is lawful and spends nothing, and its set piece is Crown Basin’s upper chambers. Volume 12 puts the identical claim to the core lock without a quorum, and Rook releases the key without turning it. The lock is never turned. Keep them separate in every reference so the Volume 12 climax is never staged twice.
-- **The corridor repair:** Breaking the Ninth Ward maintenance seal is labor, not magic. It spends nothing and must never be written as a binding.
-- **The core key:** Rook keeps it after losing his mandate and must choose to turn it or release it. He releases it. This is the mechanical climax, not a conversion.
-- **The private read:** Marek’s sequence burn is the accumulated cost of years of binding with too few witnesses. It is not a punishment from any external force.
+Untouched this batch. The final spend, the two Last Forecasts, the corridor repair, the core key, and the private read are all as recorded in `outline/series.md` and `outline/ending.md` and must not be anticipated in Volume 01.
 
-No chapter prose has been generated. These threads should be opened, complicated, and paid off in planned volume order rather than all explained in the first batch.
+## Carried physical objects
+
+- **Marek's cuff** — three readings and one filing mark, exact contents in `state/continuity.md`. Keep the count exact.
+- **The bench sheet** — four times, in a flat drawer under Marek's bench, not a record.
+- **The two unfiled tags** — second drawer from the top, including the correct March dropout tag.
+- **Neris's ruled page** — four lines, district records drawer.
+- **The emergency ledger** — one new line, and one older line in different ink about a ferry.
+- **Plate 4470's hole** — the Ninth Ward tower's public frame, dark until Chapter 48.
+- **The dead feed seat** — Ninth Ward tower, no spare for two years.
+- **The trimmed chart margin** — chart room, north wall, last frame on the end.
