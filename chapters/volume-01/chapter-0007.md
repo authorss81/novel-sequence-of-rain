@@ -6,6 +6,8 @@ Marek had the plate on the bench under a clean cloth and the rig lit, and he had
 
 He had brought it down himself at ten past six, wrapped in a sailcloth, out of the Ninth Ward tower's feed seat, with the tower keeper standing beside him holding a lamp and not asking, because a docket on the tower's account said Marek Vale was to do its glasswork at his own hand and no charge to the ward, and a man carrying a plate down a hill at dawn in a sailcloth is performing a task the docket already describes. The feed was on a dead seat before he put it in his coat, and it is on a dead seat now. There is no spare in that tower. There has not been a spare in that tower for two years.
 
+This was the tower's own plate. The replacement he had cut in the shop on the Monday night and fitted on the Wednesday afternoon, the one Malle had put a knuckle against and said *plate* about, and it had done nothing interesting for a day and a half. The other piece of glass was in the tube against the wall and stayed there.
+
 The plate was nine inches square and it had just under two days on it, and the two days were laid out on the bench rig in the six traces, and the traces were the ordinary ones — pressure, moisture, charge, three temperatures and a witness line — and everything about them was instrumented and dull and behaving, and that was the horror of it, because the whole of the six movements on that plate had worked exactly as the textbooks say they work.
 
 Almost all of them.
@@ -26,7 +28,7 @@ It was not a fault. He was as sure of that as he had ever been of anything in hi
 
 Because he had a second plate that showed it.
 
-It was in the tube against the wall, nine inches square, ground edge, cut off the crown of a poor ward's unpaid replacement pane on a Wednesday by a glassblower in a shop at the end of a lane, and Marek had cut it to the feed's thickness and had run it in the Ninth Ward's seat in rotation, because he had known within an hour of having it that he would need to be able to say how the tower's own glass behaved when he was not in front of it, and the only way to know that with a piece of glass is to have two pieces of glass and to swap them.
+It was in the tube against the wall, nine inches square, ground edge, cut off the crown of a poor ward's unpaid replacement pane on a Wednesday by a glassblower in a shop at the end of a lane. Marek had cut it to the feed's thickness and had put it in the Ninth Ward's seat himself on the Wednesday afternoon, and had taken it out again on Thursday morning to put in front of a copy clerk, and had put it back at seven o'clock that evening when he got it off the bench, and it had been in the tower ever since until ten past six this morning. He had known within an hour of having it that he would need to be able to say how the tower's own glass behaved when he was not in front of it, and the only way to know that with a piece of glass is to have two pieces of glass and to swap them.
 
 It showed the same absence. The same thinning, the same two hours and a half, the same forty minutes.
 
@@ -153,3 +155,19 @@ Behind him, low down on the eastern ground, the Ninth Ward tower had a dead feed
 He had taken the first thing off that ward's public glass to make the plate in his coat. And now, for the first time in his life, he had a piece of evidence that could not be made to count anywhere at all, and the reason it could not be made to count was that he had converted a poor ward's warning into a private certainty and had then discovered that certainty does not travel.
 
 The taste of a coin was still in his mouth. The pressure behind his left ear was still there. And the fine sound on that side of his head was thin in a way that a lamp and a long night could not entirely account for, and he noticed it, and he put it in the drawer with everything else, and went down to the yard board to see what the city had been told.
+
+---
+
+At ten that night he walked the plate back up the hill.
+
+The Ninth Ward tower is a brick shaft with a ladder in it and no stair, and the feed seat is on the second landing under a copper tank that sweats, and Marek had been up and down that ladder four years' worth of times and had never once had a reason to be on it at night with a sailcloth. He set the plate in the seat, cold, and it went home the way a key goes into a lock it has been in a thousand times. He wrote no line in the tower's book. The keeper, who had stood at the bottom of the ladder with a lamp for two hours and had asked nothing once, said nothing back, and that was the whole of the conversation.
+
+Then he came down the ladder and out into the wet, and inside twenty minutes the ninth ward's own feed was running again on the Office's glass: six movements, in the wrong order, on a plate in its correct place, in a tower with no spare. The public frame above it was still a bubbled temporary that could not carry a state, and would be for a long time yet, but the feed was back, and it was back because a maintenance hand had done as he was told.
+
+He stood at the foot of it for a while with his hands in his pockets.
+
+He had given back the only instrument in the city that could have shown that gap to a man with the standing to ask questions about it, and he had done it because a Deputy had told him to put it back and say nothing, and because the Deputy was right. A tower with a dead feed and a dead notice is a tower that is finished, and that ward has nothing else.
+
+There had been a version of the evening in which the plate came down the hill twice. He had had four hours in a cold shop with a bench and a rule and no authority whatsoever, and nobody in the building who would have known what to do with a copy.
+
+He did not do that either. That was the second thing he had decided not to do in three days, and he noticed it the way a man notices a step that is not there.

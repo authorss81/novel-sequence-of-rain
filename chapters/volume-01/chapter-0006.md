@@ -54,7 +54,7 @@ Tarin came down off the grass at eight with a cup of the market's worst tea in h
 
 "It did." Tarin drank the tea. It was as bad as she had expected. "Say something to me about that, because you have got a very particular face on and I'd like to know which part of it I'm looking at."
 
-"You've been here since eight last night," Marek said. "I came up at eight. You've been here twelve hours and I've been here eleven and neither of us left, and there are four hundred and forty people in this district who left in the night because a bell rang, and that is the reason the upper rows are dry."
+"You've been here since eight last night," Marek said. "I came up at eight. You've been here twelve hours and I've been here eleven and neither of us left, and there are two hundred and thirty people on these terraces who went up in the night because a bell rang, and that is the reason the upper rows are dry."
 
 "That's the reason the upper rows are dry," Tarin agreed, "and the market is shut for a month and six people's rooms are ruined and a season's seed is in the market hall and I have got eleven people on my payroll who are not going to get paid this month because of a claim that worked."
 

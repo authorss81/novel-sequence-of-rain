@@ -86,7 +86,7 @@ Malle was at the side with a folder under his arm. He did not stand in front. He
 
 Then he was gone, and Marek stood in the middle of a public hall with eighty people in it and the single most consequential piece of paper he had ever held, and the strange and unfamiliar relief of it came up through him like warm water: it was not his problem any more. Somebody else was going to act on it. Ferren was going to clear drains, the tower was going to send a crew, a water steward was going to watch a gate, and if it all went wrong it would be because the water was heavier than he had calculated and not because he had been slow.
 
-He had never felt that before. In eleven years he had felt fear and irritation and the small clean pleasure of a plate that behaved. He had never felt the particular warmth of *this is now somebody else's to do*, and he noticed it, and he noticed that it felt good, and he did not examine it. He would not examine it for another two days, and by the time he did there would be six rooms under water and a man with a shovel on a step who could not account for his evening, and he still would not call it that.
+He had never felt that before. In eleven years he had felt fear and irritation and the small clean pleasure of a plate that behaved. He had never felt the particular warmth of *this is now somebody else's to do*, and he noticed it, and he noticed that it felt good, and he did not examine it. He would not examine it until the morning, and by the time he did there would be six rooms under water and a man with a shovel on a step who could not account for his evening, and he still would not call it that.
 
 He walked back down to the ward ledger bench at a quarter past eleven with the tube under his arm and the sheet in his hand, and Tovan Iles had the emergency book out of the cabinet, which she had not had out in four years, and the sight of it on the bench was somehow the most frightening object in the building.
 
@@ -137,6 +137,6 @@ He told himself that a man who could not trust his own arithmetic at half past m
 
 The relief of the evening was so enormous that Marek had to stand at the side of the hall with his hand flat against a stone column and let it go through him.
 
-Because the trace on the bench had already finished. The whole of the second turn had completed and gone, and there was nothing left in the glass but the record of a movement that had stopped happening some time before he had started looking at it, and he looked at it, and he knew it was over, and he could not make his eyes leave it.
+Because the trace on the bench had stopped moving under his hand. There was a stretch of it in the middle with nothing in it at all, and then the moisture coming back on a shallow slope, late, and he looked at it, and he did not know yet what the stretch was, and he could not make his eyes leave it.
 
 It took him a long moment to turn away. He put it down to the lamp.

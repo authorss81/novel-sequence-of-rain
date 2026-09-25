@@ -19,7 +19,7 @@ Planned promises, marked with how far each has actually been opened in prose. A 
 - **Tovan's demotion:** not started. It follows the refusal to falsify the Bellweather entry in Chapter 35. She is currently a ward ledger clerk and the person who writes claims into the world.
 - **Tovan's copy:** not started.
 - **The no-forecast trial:** not started. Juba Tren has appeared once, in a corridor, and said almost nothing.
-- **The ward mismatch:** not yet dramatized. The Ninth Ward's head staying cloudy amber while two other heads come up clear in Chapter 5 is the first physical instance; the volume audit should make sure the politics is eventually named.
+- **The ward mismatch:** not yet dramatized. The Ninth Ward's head **showing nothing at all** while two other heads come up clear in Chapter 5 is the first physical instance — it is not showing clouded amber and must never be described that way; the volume audit should make sure the politics is eventually named.
 - **Weather Commons:** not started.
 
 ## Character threads
@@ -29,7 +29,7 @@ Planned promises, marked with how far each has actually been opened in prose. A 
 - **Anwen's written demand:** she has told Marek she will hold him in writing to publishing what a claim costs. This is the live thread that Chapter 21 and the Act IV public hall both turn on.
 - **Sable's correction:** **started.** She has been right, been filed away, offered attribution before it was asked for, and still been a person who released a number into a room where the people exposed to it had not been asked. Her Volume 03 consent-archive problem is live.
 - **The district's right to refuse:** **planted, in Tovan Iles's mouth, in Chapter 4.** Two winters ago a good claim on her bench was read off the bell and turned down by the district in favour of its own published plan, so nothing happened and no record anywhere says so. This is the moral seed of Anwen Sarr defeating Marek in Volume 04 and of the Volume 08 cell that displays disagreement. Do not resolve it early.
-- **Neris's list:** four lines and a promise to send it to the Deputy. The fifth line is her own shelter rota and she has not written it.
+- **Neris's list:** a ruled page, one line per notice in the order they came. Four lines so far, dated to the fifth, seventh and eighth days plus an undated fourth about the ward's unreadable glass and whose plate is in Marek's coat, and a promise to send it to Malle. The fifth is her own shelter rota and she has not written it, and the reason she has not is the question the next batch has to answer.
 - **Pell's warning:** he told Marek that a ward with no public glass finds out about a private reading from him, eventually. Marek has not understood that this is about Pell and not about the ward.
 - **Anwen's seat / Juba's trial / Oren's reconciliation / Anja stays dead:** unchanged, all still ahead.
 
@@ -39,11 +39,12 @@ Untouched this batch. The final spend, the two Last Forecasts, the corridor repa
 
 ## Carried physical objects
 
-- **Marek's cuff** — three readings and one filing mark, exact contents in `state/continuity.md`. Keep the count exact.
+- **Marek's cuff** — three blocks of pencil in the left cuff: **two readings and one filing mark**, exact contents in `state/continuity.md`. Keep the count exact and never write "three readings".
 - **The bench sheet** — four times, in a flat drawer under Marek's bench, not a record.
 - **The two unfiled tags** — second drawer from the top, including the correct March dropout tag.
+- **The tower's own feed plate** — back in the Ninth Ward feed seat since 22:00 on day eight, on Malle's order, carrying the two-day record and the same gap. It is the piece of evidence Marek gave back. Nobody but Marek knows it matters.
 - **Neris's ruled page** — four lines, district records drawer.
 - **The emergency ledger** — one new line, and one older line in different ink about a ferry.
 - **Plate 4470's hole** — the Ninth Ward tower's public frame, dark until Chapter 48.
-- **The dead feed seat** — Ninth Ward tower, no spare for two years.
+- **The dead feed seat** — Ninth Ward tower, no spare for two years. **The seat is no longer dead:** the plate went back in at 22:00 on day eight. The public frame is still dark.
 - **The trimmed chart margin** — chart room, north wall, last frame on the end.

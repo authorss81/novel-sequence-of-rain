@@ -28,7 +28,7 @@ The Ninth Ward tower is not a tall building. It is a brick shaft on the corner o
 
 It has been unreadable for a fortnight.
 
-The permanent pane cracked in the autumn, on the frame side, and the replacement was quoted at the end of the year and paid for and never collected, and it has been sitting in a glassblower's shop at Kestrel Yards ever since, and what went up on a Wednesday morning six weeks ago was a temporary — a bubbled, cheap, half-size thing, glazed in the ward's colour with a flaw in the middle of it the size of a thumbnail, which under any light at any distance reads as *clouded, disputed, do not rely on this*.
+The permanent pane cracked in the autumn, on the frame side, and the replacement was quoted at the end of the year and paid for and never collected, and it has been sitting in a glassblower's shop at Kestrel Yards ever since, and what went up on the Wednesday a fortnight ago was a temporary — a bubbled, cheap, half-size thing, glazed in the ward's colour with a flaw in the middle of it the size of a thumbnail, which under any light at any distance reads as *clouded, disputed, do not rely on this*.
 
 The ward had been living off handwritten copies since. Four women with good handwriting and no authority and a great deal of resentment, and a chalk board outside the assembly rooms, and a runner boy on a bicycle called Pet who could not ride a bicycle.
 
@@ -141,8 +141,8 @@ Then she took a fresh ruled page out of the drawer at the back of the desk, wher
 *NINTH WARD — WHAT THE NOTICE DID NOT SAY. One line per notice, in the order they came.*
 
 *1. Fifth day, the unsettled bulletin. Does not say what unsettled means. There is no number in it at all.*
-*2. Seventh day, the western draw. Does not say when to start the pumps. It gives a watch, and a watch is not a time.*
-*3. Eighth day, the second belt. Does not say what to do with the ninety-odd people on the ground floors, for whom there is no cart between here and the assembly rooms. Does not say how long the water will be here. It says when it arrives, and nobody has ever yet been told how long.*
+*2. Seventh day, the low-ground line added. Does not say when to start the pumps.*
+*3. Eighth day, the second belt. Gives a watch and not a time — between the second and fourth watch — and does not say what to do with the ninety-odd people on the ground floors, for whom there is no cart between here and the assembly rooms. Does not say how long the water will be here. It says when it arrives, and nobody has ever yet been told how long.*
 *4. It does not say why the ward's own glass cannot be read, and it does not say whose plate is in my coat.*
 
 She read the four lines and did not write a fifth, and the fifth was there in the room with her, sitting in the chair where the rota had hung out its last winter, and she knew its shape, and she had a book at home with the original in it, and she was not going to put it on a public list at twenty to nine on the evening before a storm, because a public list is a thing you put your name to, and she had not yet worked out what her name would be doing there.

@@ -114,7 +114,7 @@ Marek Vale did not hurry. She had given a great many people an answer to that qu
 
 "Watch bell," she said, and stood up, and started putting the rack into its case, and did not look at him, and did not have to.
 
-At the far end of the long room, past the pigeonholes and the wet coats, four people came in off the step and stood dripping on the mat, and one of them was a tall woman of about fifty in a wet assembly coat with the Hearthward ward pin on it and rain running off the hem onto the floor, because she had come up the steps from the market without an umbrella and had not cared.
+At the far end of the long room, past the pigeonholes and the wet coats, four people came in off the step and stood dripping on the mat, and one of them was a tall woman of forty-six in a wet assembly coat with the Hearthward ward pin on it and rain running off the hem onto the floor, because she had come up the steps from the market without an umbrella and had not cared.
 
 She was looking at the bench the way people look at a counter they have been told to come to.
 
@@ -124,4 +124,4 @@ Behind her, a younger man put a ledger on the bench and opened it and squared th
 
 Tovan Iles looked at the four of them, and then at the maintenance hand from the glass shop standing at the end of her bench with a strip of sequence glass on the table and a tube under his arm, and she had a very clear and completely unprofessional thought, which was: oh, no.
 
-Because she could see, without any weather instrument at all, that the only shape that would get a district anything before a storm arrived was a claim. And to write a claim she needed a place, a time, an effect, and a witness, and she had one of those four in her hand and a bell she had never struck for a weather claim in her life, and it was nine forty-five, and the front was forty-three hours out.
+Because she could see, without any weather instrument at all, that the only shape that would get a district anything before a storm arrived was a claim. And to write a claim she needed a place, a time, an effect, and a witness, and she had one of those four in her hand and a bell she had never struck for a weather claim in her life, and it was five past ten, and the front was forty-three hours out.

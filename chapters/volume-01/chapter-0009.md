@@ -6,7 +6,7 @@ The figure had come up the ridge at nine: the front, nine hours. It had read ele
 
 What he wanted, and had wanted since six o'clock, was to be somewhere else.
 
-A yard tower at ten forty in the morning is a place where a man in a wet coat can be extremely welcome for four minutes. Neris Kade was in the yard. She had come up the hill with a warden and a satchel and a request, and she had been in and out of the records room twice, and the second time she had come out and looked down the corridor and found him, and she came straight at him the way a warden comes at a man holding something.
+The Weatherglass at ten forty in the morning is a place where a man in a wet coat can be extremely welcome for four minutes. Neris Kade was in the building. She had come up the hill with a warden and a satchel and a request, and she had been in and out of the records room twice, and the second time she had come out and looked down the corridor and found him, and she came straight at him the way a warden comes at a man holding something.
 
 "Vale."
 
@@ -28,7 +28,7 @@ A yard tower at ten forty in the morning is a place where a man in a wet coat ca
 
 Marek had a plate in a tube in the room behind him that would have given her a time.
 
-He had cut it out of the crown of her ward's public notice, nine inches square, ground edge, annealed, and it was holding just under two days of the basin's sequence, and the second turn in it came in out of order with a two-and-a-half-hour absence in the middle of Release, and if he put that plate on her district's glass and read her the low blocks' hour the way he had read it to himself two mornings ago, she would have had a number before lunch, and she would have had a number that was right, and the crews could have gone out on it.
+He had cut it out of the crown of her ward's public notice on the Wednesday afternoon, nine inches square, ground edge, annealed, and it had been in the ninth ward's own feed seat since seven o'clock the previous evening, and it had the second turn on it — the collision, out of order, Release begun and not finished, and then two hours and a half of nothing in the middle of it, where the tower's own plate has the same nothing, and the tower's own plate is back up on Tannery Walk in its seat because a Deputy told him to put it back and say nothing. And if he put that plate on her district's glass and read her the low blocks' hour the way he had read it to himself two mornings ago, she would have had a number before lunch, and she would have had a number that was right, and the crews could have gone out on it.
 
 "Why can't you?" she said, reading his face. "You have got something."
 
@@ -192,7 +192,7 @@ Marek felt the floor of the room change its texture and did not look down.
 
 "Then the low ground will be under water four hours before we can time the drainage, because the drainage depends on the order in which the movements release, and the order is the only part of this that we cannot measure." Malle's pencil went behind his ear. "So you will read the order off your plate, out loud, on the ward floor, at the time it happens, to whoever is standing there, and they will do with it what they can, and if you are wrong then Low Spindle will know that the man from the ridge was wrong, which is the first useful thing that district has had off the Office in a fortnight."
 
-Marek thought about the plate in the room upstairs with its two days on it, and a two-and-a-half-hour absence in the middle of the second turn's Release, and a dry stone throat at the bottom of a market hall.
+Marek thought about the plate in the room upstairs with the second turn on it, and a two-and-a-half-hour absence in the middle of the Release, and a dry stone throat at the bottom of a market hall, and about two days of tower glass sitting in a seat on Tannery Walk where he had been told to leave it.
 
 "All right," he said.
 

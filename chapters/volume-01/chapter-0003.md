@@ -42,7 +42,7 @@ Pell listened to all of it without moving.
 
 "You have a reading," he said at the end, "and you cannot show it to anybody, and you have come to my shop to cut it out of a pane of glass."
 
-"I need a plate. Not cracked. Not a month old. Annealed, thick, big enough to hold four hours of trace without fogging the fine work. There is one piece of that glass in this district and it is a notice the poorest ward in the city has been trying to read for a fortnight."
+"I need a plate. Not cracked. Not a month old. Annealed, thick, big enough to hold two days of a tower's feed without fogging the fine work. There is one piece of that glass in this district and it is a notice the poorest ward in the city has been trying to read for a fortnight."
 
 "That is not what I asked you." Pell's voice did not rise. He had never once in twenty years of knowing Marek Vale raised his voice, and it was a great deal worse than shouting. "You said you were looking. You keep saying looking is free. You said it to your own bench on Monday night, at about eleven, and you have been saying it to this shop ever since, and the shop does not answer you either. Looking is free. Fine. Grant it. Then tell me what happens on the hill when they send a crew up to fit a plate they were promised two years ago, and there is no plate, and the reason there is no plate is that a man in a hurry took a corner out of it to read a private opinion about the sky."
 
@@ -72,7 +72,7 @@ The older of the two crew listened with his hand still on the cart handle. Then 
 
 "That's the sequence plate, is it. Not a chip for a frame."
 
-"A working plate," Marek said. "Off the crown. Nine inches, ground edge, annealed. Four-four-eight-six, the one your office paid for two years ago and never came and collected. It'll hold four hours of trace and it won't fog the fine work."
+"A working plate," Marek said. "Off the crown. Nine inches, ground edge, annealed. Four-four-eight-six, the one your office paid for two years ago and never came and collected. It'll hold two days of the sequence and it won't fog the fine work."
 
 The crewman looked at the size of it a second time. "It'll be a very odd hole in a very poor ward's notice," he said. "That's all right. I've seen worse. What I want to know is whether you're going to come up the tower and tell us what to write on the boards while you've got it in your hand."
 

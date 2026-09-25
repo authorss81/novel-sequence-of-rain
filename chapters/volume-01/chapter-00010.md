@@ -78,11 +78,11 @@ Marek took it back. The sheet was the third printing of a broadside that had com
 
 Sable Orin had written *verified* at the top of it in a hand like a signature on a warrant.
 
-Marek read it, and then walked forty feet up the corridor to a bench nobody was using, and took the tube out of his coat, and opened it, and put his plate on the copper frame with the lamp behind it, and read the basin sequence for the western corridor window himself, with his own hands, in about four minutes.
+Marek read it, and then walked forty feet up the corridor to a bench nobody was using, and took the tube out of his coat, and opened it, and put his plate on the copper frame with the lamp behind it, and read the western corridor turn off the second turn with his own hands. It took him the better part of four minutes, because a sequence is not read quickly: the lamp goes up and down the glass twice, and then once more with the frame cold, and then a man who cannot help himself does it again to be certain, and there is exactly one reader in Veyra who insists on all four.
 
-It agreed with her.
+What he got was an order and a spacing, not a clock. That was the whole of what the plate had ever been able to give him, he had known it for eleven years, and it was the only reason a maintenance hand was standing in a corridor holding a piece of a poor ward's notice.
 
-Not approximately. The same opening, the same lead, and the same quarter-hour, and the plate had it in the second turn where the movements came out of order, which meant that the only instrument in Veyra capable of contradicting the Exchange's window was an instrument with no chain behind it, and the only other instrument in Veyra that said anything at all about the corridor said it in a public baths and had been filed.
+It agreed with her. Not approximately. The same opening, the same lead, and the same quarter-hour, and the plate had it in the second turn where the movements came out of order, which meant that the only instrument in Veyra capable of contradicting the Exchange's window was an instrument with no chain behind it, and the only other instrument in Veyra that said anything at all about the corridor said it in a public baths and had been filed.
 
 The stamp on the sheet was small and violet and entirely correct. He turned it round. *Reclassified 14:10, 9th day: unattached observation. Not lodged. Not compellable. Not producible. An observation not acted upon cannot be compelled to mean anything at a later date. Rule 6, Charter of Public Notice.* And underneath, in a different ink, in a small, level, unhurried hand that he had never seen before and would know for the rest of his life:
 
@@ -98,7 +98,7 @@ It took Marek eleven minutes to get to the bottom of what he was feeling, and wh
 
 It was relief.
 
-Because if Sable's number was not compellable, then neither was his. And if his plate was not compellable, then neither was the gap in the Release of the second turn, or the dry stone throat, or the ninety minutes on the eighth day with four times written in a neat hand on a sheet of bench paper that was by now in a flat drawer under a bench in a locked room.
+Because if Sable's number was not compellable, then neither was his. And if his plate was not compellable, then neither was the gap in the Release of the second turn, or the dry stone throat, or the two and a half hours of it on the eighth day with four times written in a neat hand on a sheet of bench paper that was by now in a flat drawer under a bench in a locked room.
 
 He stood in a corridor on the ridge with an unreadable plate in a tube and a stamped broadside in his hand, and the ward he had spent a week trying to warn was going to be warned by nothing, and he was going to stand on its floor tonight, and the machinery that had just done this was the same machinery that had, on the seventh day, let a twenty-seven-year-old copy clerk file his plate as an unattached observation with his name on the tab, in her own hand, when she had no more idea what it meant than the rack it went into.
 
@@ -146,7 +146,7 @@ And then the paper ended.
 
 The signature was his mother's.
 
-He knew it before he had finished looking at it and he knew it in the way a man knows handwriting he has not seen for twelve years, which is not a recognition of shapes but of a speed. Anja Vale wrote the way water went over a weir: it got on with it. No serif on the capitals, no pause at the end of a stroke, the *V* of Vale with a tail that ran on under the next letter. He had last seen it on a grocery list in Low Spindle in the winter she did not come back, and he had been thirty, and he had put the list in a drawer and never looked at it again and had never once, in twelve years, expected to see that hand in a building he worked in.
+He knew it before he had finished looking at it and he knew it in the way a man knows handwriting he has not seen for twelve years, which is not a recognition of shapes but of a speed. Anja Vale wrote the way water went over a weir: it got on with it. No serif on the capitals, no pause at the end of a stroke, the *V* of Vale with a tail that ran on under the next letter. He had last seen it on a grocery list in Low Spindle in the winter she did not come back, and he had been twenty, and he had put the list in a drawer and never looked at it again and had never once, in twelve years, expected to see that hand in a building he worked in.
 
 His mother had signed a witnessed entry against the ninth ward tower.
 
@@ -170,7 +170,7 @@ His hand went into his left cuff and got the pencil out from behind his wrist, a
 
 *17:20 — N9 chart margin, N9 prov. — N9/ — filed, witnessed (violet sq.). A. Vale. Margin cut: old cut, paper round it clean.*
 
-Three readings and a filing mark. The first was a collision he could see the order of. The second was a gap in a Release that he had spent a day and a half failing to hand to anybody. The third was this: a violet square with a bell struck across it, in his mother's hand, on a chart margin, with the citation cut out from beside it. That was all three of them. The ship under sail by four o'clock was in a torn notebook page in the inside pocket and stayed there, because a torn page is a thing a man can lose and a coat sleeve is a thing a man can be searched.
+Two readings and a filing mark, and the mark was the third block because a mark is not a reading and he had wanted the space. The first was a collision he could see the order of. The second was a gap in a Release that he had spent a day and a half failing to hand to anybody. The third was this: a violet square with a bell struck across it, in his mother's hand, on a chart margin, with the citation cut out from beside it. That was the whole of it. The ship under sail by four o'clock was in a torn notebook page in the inside pocket and stayed there, because a torn page is a thing a man can lose and a coat sleeve is a thing a man can be searched.
 
 He put the chart back in the frame. He set the new glass in, and did the rebate, and did the waxed paper behind the sheet, and the better part of an hour of that job went past like weather, and the room filled with the smell of warm gum and hot glass, which was the smell of the only work he had ever been completely sure of.
 

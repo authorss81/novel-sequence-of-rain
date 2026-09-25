@@ -42,6 +42,16 @@ He said it out loud anyway, to the bench, because it is better to hear the sente
 
 It did not help as much as it should have.
 
+He read it a second time anyway, because one reading is a mood and two readings is a reading. He let the lamp go down and came up and did it cold, with the film left where it had dried, and got the same six movements in the same wrong order, and this time he kept his feet under the bench, which was the whole of the difference between the first hour and the second.
+
+Then he cut the replacement.
+
+There was a sheet of sound sequence glass on the rack behind the door, Office stock, a hand's width thick, and there was a mark on the frame of it that had been there since the day it came and that he had looked at perhaps nine hundred times. He measured nine inches with a folding rule and marked the line in chalk on two faces and held the sheet up to the lamp to check the marks against each other, because a scribe that walks off a line puts a crescent through the work, and a crescent in a tower's feed is a reading that nobody can see and everybody has to act on. He scored it, and broke it out, and ground the edge on the wheel until it was square under a thumbnail and would go into a seat without a shim.
+
+It was the best piece of glass he had cut in two years and it was dull. It was an ordinary repair, it corrected no bias, it cost the ward nothing, and by the time Malle put a knuckle against the copper seat in two days' time and said *plate*, the whole of it would be nine minutes long and nobody would remember that it had ever been in doubt.
+
+He set it on the floor under a second cloth, squared to the edge, out of the way of his own boots, and washed his hands.
+
 He sat down and did the work, because the work was the aneroid and the gauge and Feth Raal's barometer, and because a man with four hours of sleep and a head full of a shuffled sequence is a man who should be doing something with his hands.
 
 The aneroid took an hour. The spring was fatigued and the pointer was bent at the ninth hour, and when he straightened the pointer and set the drum on the test plate and brought the chamber back up, the pointer went true through the first eight hours and then wandered a half-millimetre to the right and stayed there. He tried it twice more. He got the same half-millimetre. He wrote the fault on the tag, which was the correct procedure, and then he did not file the tag, because a tag filed at twenty-three hundred is a tag that somebody reads at eight in the morning and acts on, and a half-millimetre of wander on a four-year-old chamber is not a storm. He put the tag in the drawer with the other tags he had not filed, which was the second drawer from the top and by now the most honest piece of furniture he owned.

@@ -122,7 +122,7 @@ She got back to the board at ten past eleven, when the crews came off the apron 
 
 "Captain," Nessa said. "There's a runner on the board. Office sheet, unsealed. Middling."
 
-Tarin took it. It was a Bellweather bulletin, a real one, printed in the ordinary type with no window and no margin of generosity in it: unsettled, western draw, watch the low ground. It was true of everything and specific to nothing, and it had been issued for a storm that the ridge had known about for three days and had not put a number on.
+Tarin took it. It was a Bellweather bulletin, a real one, printed in the ordinary type with no window and no margin of generosity in it: unsettled, western draw. It was true of everything and specific to nothing, and it had been issued for a storm that the ridge had known about for three days and had not put a number on.
 
 "Middling," Tarin agreed. "Board it. And Nessa — the two hours stay up all week. If the Exchange asks me to take my sheet down, you read them the hours first."
 
