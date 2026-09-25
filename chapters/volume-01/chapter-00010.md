@@ -28,7 +28,7 @@ And the Office had asked for one claim to cover both, which was the same as aski
 
 The glass tender's voice came from behind him. "They're saying an hour."
 
-He looked at the clock over the field office door. It said five minutes to five, and the collision figure had been coming down the ridge all afternoon, sliding, the way a thing slides when a western draw decouples from the body of the weather and goes on ahead of it on its own schedule.
+He looked at the clock over the field office door. It said twenty past four, and the collision figure had been coming down the ridge all afternoon, sliding, the way a thing slides when a western draw decouples from the body of the weather and goes on ahead of it on its own schedule.
 
 "Nine at ten o'clock this morning," he said. "Six at noon. One now. It has gone an hour and a half quiet."
 
@@ -160,19 +160,19 @@ Because there it was, in a drawer in a corridor, three rooms deep and running on
 
 And here was the part that made him put his hand flat on the bench to make sure the room was solid.
 
-He had spent a week learning that this was how it worked. He had learned it from a twenty-seven-year-old clerk with a red stamp and a bell on a wire, and from a Deputy who would take a proof and not an account, and from a brokering agent with a courteous hat, and from a copy clerk who had kept a number that nobody had wanted. He had learned it well enough to stand in a corridor with a stamped broadside in his hand and feel *relieved* because the machinery that had buried Sable Orin's number had also, as it happened, buried his.
+He had spent a week learning that this was how it worked. He had learned it from a twenty-seven-year-old clerk with a red stamp and a bell on a wire, and from a Deputy who would take a proof and not an account, and from a brokering agent with a courteous hat. He had learned it well enough to stand in a corridor with a stamped broadside in his hand and feel *relieved* because the machinery that had buried Sable Orin's number had also, as it happened, buried his.
 
 And now, in a chart room, on a stool, twelve years too late, somebody else had looked at a piece of paper and decided the same thing about it, and had not merely filed it. Had cut it out.
 
-He was not a man who had been proved right about the institution. He was a man who had spent the last seven days discovering that a filing system run by careful people with clean hands could take a true thing and make it as though it had never happened, and that he had been perfectly content to use the same system, on the same kind of page, with the same good reasons, to make a thing of his own disappear.
+He was not a man who had been proved right about the institution. He was a man who had spent six days learning how a thing like that was done, and who had done one himself, and who was now looking at somebody else's.
 
 His hand went into his left cuff and got the pencil out from behind his wrist, and he wrote on the lining, small and neat, in the third block of space he had left:
 
 *17:20 — N9 chart margin, N9 prov. — N9/ — filed, witnessed (violet sq.). A. Vale. Margin cut: old cut, paper round it clean.*
 
-Two readings and a filing mark, and the mark was the third block because a mark is not a reading and he had wanted the space. The first was a collision he could see the order of. The second was a gap in a Release that he had spent a day and a half failing to hand to anybody. The third was this: a violet square with a bell struck across it, on a margin his mother had written out in her own hand, with the citation cut out from beside it. That was the whole of it. The ship under sail by four o'clock was in a torn notebook page in the inside pocket and stayed there, because a torn page is a thing a man can lose and a coat sleeve is a thing a man can be searched.
+Two readings and a filing mark. The first was a collision he could see the order of. The second was a gap in a Release that he had spent a day and a half failing to hand to anybody. The third was this: a violet square with a bell struck across it, on a margin his mother had written out in her own hand, with the citation cut out from beside it. The yards' four o'clock was on a torn notebook page in the inside pocket, the yard board and the broadside both, and it stayed there, because a torn page is a thing a man can lose and a coat sleeve is a thing a man can be searched.
 
-He put the chart back in the frame. He set the new glass in, and did the rebate, and did the waxed paper behind the sheet, and the better part of an hour of that job went past like weather, and the room filled with the smell of warm gum and hot glass, which was the smell of the only work he had ever been completely sure of.
+He put the chart back in the frame. He set the new glass in, and did the rebate, and did the waxed paper behind the sheet, and ten minutes of it went past without him noticing, and the room filled with the smell of warm gum and hot glass, which was the smell of the only work he had ever been completely sure of.
 
 At half past five he put his coat on, and the tube in it, and the plate, and the broom, and he went down the stairs and out across the yard in the rain, and past the route boards where the Office window was the only sheet on any of them, and down the hill to the low ground of the ninth ward, where four hundred and forty people were going about their evening with one sheet of paper of their own and a pump house and a warden, and where, at about six o'clock, a weather front would come over the Nacre Range carrying three different airs and reach the basin out of order, and where Marek Vale was going to be the only person standing on the floor who could say which order, and was going to have to say it out loud in plain words to a crew of strangers while a warden with a list of four lines listened and did not interrupt.
 

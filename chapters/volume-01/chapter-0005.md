@@ -86,7 +86,7 @@ Malle was at the side with a folder under his arm. He did not stand in front. He
 
 Then he was gone, and Marek stood in the middle of a public hall with eighty people in it and the single most consequential piece of paper he had ever held, and the strange and unfamiliar relief of it came up through him like warm water: it was not his problem any more. Somebody else was going to act on it. Ferren was going to clear drains, the tower was going to send a crew, a water steward was going to watch a gate, and if it all went wrong it would be because the water was heavier than he had calculated and not because he had been slow.
 
-He had never felt that before. In eleven years he had felt fear and irritation and the small clean pleasure of a plate that behaved. He had never felt the particular warmth of *this is now somebody else's to do*, and he noticed it, and he noticed that it felt good, and he did not examine it. He would not examine it until the morning, and by the time he did there would be six rooms under water and a man with a shovel on a step who could not account for his evening, and he still would not call it that.
+He had never felt that before. In eleven years he had felt fear and irritation and the small clean pleasure of a plate that behaved. He had never felt the particular warmth of *this is now somebody else's to do*, and he noticed it, and he noticed that it felt good, and he did not examine it.
 
 He walked back down to the ward ledger bench at a quarter past eleven with the tube under his arm and the sheet in his hand, and Tovan Iles had the emergency book out of the cabinet, which she had not had out in four years, and the sight of it on the bench was somehow the most frightening object in the building.
 
@@ -108,6 +108,12 @@ ONE POSSIBLE TURN WILL CLOSE.
 ```
 
 He read it twice. It did not say which turn. It did not say whose. It gave him the exact words he had just agreed to sign and told him, in the flattest possible voice, that one of the things still available in the world was about to stop being available because he was making this true.
+
+And off to one side of that, in the ordinary run of the trace, there was a quarter of an inch of glass with nothing on it. He had carried this plate for three days and he would have sworn the line was continuous the whole way down, and it was not, and where the line started again it started behind itself, as though the piece in the middle had been lifted out and put back slightly wrong.
+
+He put his hand flat over it, which told him nothing he did not already know, and he could not make his eyes leave it.
+
+It took him a long moment to turn away. He put it down to the lamp.
 
 "Mr Vale?" said Tovan Iles, with her pen up.
 
@@ -133,10 +139,8 @@ And then Marek went up to the hall and read it out, twice, to a room he could no
 
 He meant to go down and see it himself. He got as far as the stair, and then a man from the Kestrel wards wanted the wording of the condition because he had people with tanks on the upper header who needed to know whether to draw down before the first hour, and that was a real question, and answering it properly took eleven minutes, and by the time Marek was outside the door with his coat on it was twenty past twelve and the rain was coming down in earnest and there was no practical version of walking seven miles down to Hearthward and back in it to look at a gate he had just been told would hold.
 
-He told himself that a man who could not trust his own arithmetic at half past midnight on a wet road was not much use to anybody. It was true, and it was the reason he did not go, and it was not the whole reason.
+He told himself that a man who could not trust his own arithmetic at that hour on a wet road was not much use to anybody. It was true, and it was the reason he did not go, and it was not the whole reason.
 
-The relief of the evening was so enormous that Marek had to stand at the side of the hall with his hand flat against a stone column and let it go through him.
+The relief of it was so enormous that he had to stop on the stair for a minute before he could go down it.
 
-Because the trace on the bench had stopped moving under his hand. There was a stretch of it in the middle with nothing in it at all, and then the moisture coming back on a shallow slope, late, and he looked at it, and he did not know yet what the stretch was, and he could not make his eyes leave it.
-
-It took him a long moment to turn away. He put it down to the lamp.
+Down the corridor, on the bench where Tovan Iles had left it under a cloth, the plate was lying in the dark with a dead stretch in the middle of the trace that he had already decided was the lamp.

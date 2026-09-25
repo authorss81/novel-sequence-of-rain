@@ -48,7 +48,7 @@ Ivo Slate's smile did not move, which was the thing about him. He was forty-odd 
 
 He put a card on the board. Sealed. Office window, eleven hundred, half rate, four carriers paid.
 
-"The Office is not wrong," he said. "That's the part people get wrong about my trade. I don't sell doubt. I sell a number that a bank will accept. Your box says the turn comes early. Fine. The Office says eleven, and the Office's number has been wrong by less than an hour in a hundred and forty published windows, and when it is wrong it is wrong in the direction of caution, and caution is what an underwriter is buying." He tapped the card. "You can be early and right. You cannot be early and covered. If the turn opens at six and you launch at seven on a sealed card, captain, you are not a route officer. You are a woman flying a passenger ship in a freight dispute."
+"The Office is not wrong," he said. "That's the part people get wrong about my trade. I don't sell doubt. I sell a number that a bank will accept. Your box says the turn comes early. Fine. The Office says eleven, and the Office's number has been wrong by less than an hour in two hundred published windows, and when it is wrong it is wrong in the direction of caution, and caution is what an underwriter is buying." He tapped the card. "You can be early and right. You cannot be early and covered. If the turn opens at six and you launch at seven on a sealed card, captain, you are not a route officer. You are a woman flying a passenger ship in a freight dispute."
 
 "Ivo." Tarin kept her voice level, which took something. "The Bellweather window. You sold it."
 

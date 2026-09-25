@@ -2,7 +2,7 @@
 
 At half past ten on day nine Marek Vale was in the chart room with a glazing block and a jar of warm gum, doing the only job in the building he was still trusted with, and doing it well, and thinking about the six hours in a way that was not the hours on a clock.
 
-The figure had come up the ridge at nine: the front, nine hours. It had read eleven on Thursday and eight at ten o'clock last night, and it had moved all week, and Malle had stopped printing the range. Six hours was a number and he could do something with a number. Six hours meant the observation floor could be staffed, the low wards could be given a window, the yards could be given one, and he could be in a corridor with a tray of instruments looking useful at a time when the whole building was going to be looking for somebody to be useful.
+The figure had come up the ridge at nine: the front, nine hours. It had read fifty on Thursday and twenty at ten o'clock last night, and it had moved all week, and Malle had stopped printing the range. A number was a number, whatever had made it, and nine meant the observation floor could be staffed, the low wards could be given a window, the yards could be given one, and he could be in a corridor with a tray of instruments looking useful at a time when the whole building was going to be looking for somebody to be useful.
 
 What he wanted, and had wanted since six o'clock, was to be somewhere else.
 
@@ -28,7 +28,7 @@ The Weatherglass at ten forty in the morning is a place where a man in a wet coa
 
 Marek had a plate in a tube in the room behind him that would have given her a time.
 
-He had cut it out of the crown of a pane her ward had paid for and never been given, on the Wednesday afternoon, nine inches square, ground edge, annealed, and it had been in the ninth ward's own feed seat since seven o'clock the previous evening, and it had the second turn on it — the collision, out of order, Release begun and not finished, and then two hours and a half of nothing in the middle of it, where the tower's own plate has the same nothing, and the tower's own plate is back up on Tannery Walk in its seat because a Deputy told him to put it back and say nothing. And if he put that plate on her district's glass and read her the low blocks' hour the way he had read it to himself two mornings ago, she would have had a number before lunch, and she would have had a number that was right, and the crews could have gone out on it.
+He had cut it out of the crown of a pane her ward had paid for and never been given, on the Wednesday afternoon, nine inches square, ground edge, annealed, and it had run in the ninth ward's own feed seat from seven o'clock on Thursday evening, the last time it was in that seat, until the keeper took it out at first light, and it had the second turn on it, the collision out of order, Release begun and not finished, and then two hours and a half of nothing in the middle of it, which is where the tower's own plate has the same nothing, and the tower's own plate is back up on Tannery Walk in its seat because a Deputy told him to put it back and say nothing. And if he put that plate on her district's glass and read her the low blocks' hour the way he had read it to himself two mornings ago, she would have had a number before lunch, and she would have had a number that was right, and the crews could have gone out on it.
 
 "Why can't you?" she said, reading his face. "You have got something."
 
@@ -90,7 +90,7 @@ Ferren stood by the door with his cap in his hands. He looked like a man who had
 
 "That is what I have been saying all morning."
 
-"Then say it in a document, because I cannot say it in a document." She did not raise her voice and it was very clear in the hall. "Three. The drains on that row are cleared on a Tuesday and a Thursday by a crew of five and a foreman. They were cleared on Tuesday. They were not cleared on Thursday. My water steward told you that at eleven o'clock on the seventh day, in front of me, in a room you were standing in, and wrote it down, and you read it out to me from your own pad this morning when I asked you, and you did not tell me one thing about it until I had already worked it out from a man standing at the back of the room who had not said a word for forty minutes."
+"Then say it in a document, because I cannot say it in a document." She did not raise her voice and it was very clear in the hall. "Three. The drains on that row are cleared on a Tuesday and a Thursday by a crew of four and a foreman. They were cleared on Tuesday. They were not cleared on Thursday. My water steward told you that at twenty to eleven on the seventh day, in front of me, in a room you were standing in, and wrote it down, and you read it out to me from your own pad this morning when I asked you, and you did not tell me one thing about it until I had already worked it out from a man standing at the back of the room who had not said a word for forty minutes."
 
 Marek did not answer that, because it was true, and there was no version of an answer that was not worse.
 
@@ -176,7 +176,7 @@ Marek read the last paragraph. It said that the Office's own instruments could n
 
 "You've got the technical cell."
 
-"I have got the technical cell, and the technical cell has got a hundred and forty people in it, and I have been in that room since eight this morning, and there is not one pair of hands in it that has seen the order those movements arrive in." Malle took the sheet back. "There is one, and he is sitting in that chair, and on Wednesday he told me the order of the six movements and could not tell me the arrival times, and on Friday morning he gave me an account of a claim of his own that was a correct description of a mechanism and not an account of anything that happened, and I have not had time to be angry about it because I have a basin to put under a roof."
+"I have got the technical cell, and the technical cell has got a hundred and eighty people in it, and I have been in that room since eight this morning, and there is not one pair of hands in it that has seen the order those movements arrive in." Malle took the sheet back. "There is one, and he is sitting in that chair, and on Wednesday he told me the order of the six movements and could not tell me the arrival times, and on Friday morning he gave me an account of a claim of his own that was a correct description of a mechanism and not an account of anything that happened, and I have not had time to be angry about it because I have a basin to put under a roof."
 
 Marek felt the floor of the room change its texture and did not look down.
 

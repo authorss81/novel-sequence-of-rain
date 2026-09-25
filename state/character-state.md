@@ -14,13 +14,13 @@ Where the cast stands at the end of the most recently completed batch. For plann
 
 **Flaw, as performed rather than described:** He narrows a frightening problem until it becomes a procedure he can manage. He told Anwen Sarr about records procedure when she asked what her district gave up. He told Malle about rainfall when Malle asked what the claim ate. He noticed and set aside, in order, three separate moments when he failed to ask a question. He put the tower's plate back where he was told and did not copy it, which is the second thing he has decided not to do in three days. The self-image and the behaviour came apart with nobody watching.
 
-**What he owes:** Pell two years of unpaid tower glasswork. The Ninth Ward a public pane *and* the paid-for pane he destroyed, which that ward is never going to be sent now and which nobody has yet told him is his fault. Anwen Sarr a document, in writing, with his name at the top, publishing what a claim costs. Malle a sequence fault he has minuted and cannot prove. The low ground a reader who is going to say numbers out loud to strangers at eight o'clock.
+**What he owes:** Pell two years of unpaid tower glasswork. The Ninth Ward a public pane *and* the paid-for pane he destroyed, which that ward is never going to be sent now and which nobody has yet told him is his fault. Anwen Sarr a document, in writing, with his name at the top, publishing what a claim costs. Malle a sequence fault he has minuted and cannot prove. The low ground a reader who is going to say numbers out loud to strangers at about six in the evening, when the collision comes over the ridge.
 
 **What he believes and should not:** He believes the Office is hiding something, and he is right, and he has just used the same machinery to hide something of his own, and he noticed the symmetry at the chart margin and did not do anything about it.
 
 ## Tarin Senn
 
-**Where she is:** At Hearthward, on day eight morning, having lost a charter worth a month of the *Petrel*'s overhead on day five and having been the only person in the district who understood what the flood was before anybody did.
+**Where she is:** Off the Hearthward terraces, on the morning of day nine, and off the water in the basin since; having lost a charter worth a month of the *Petrel*'s overhead on day five and having been the only person in the district who understood what the flood was before anybody did.
 
 **State:** Has watched an accurate claim fail anyway, and cannot get from there to a mechanism. She asked the wrong question — who stood the crew down — and knows it was the wrong one. Angry at a habit rather than a person, which is the durable kind. Her regard for the Weather Office is now formally, publicly, and on a board, on the record.
 

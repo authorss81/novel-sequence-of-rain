@@ -13,28 +13,30 @@
 
 ## Batch goal
 
-Get Marek Vale off the repair bench and onto a watch rotation, having spent his first branch in public and concealed it in private. The batch ends with the front an hour out, the Bellweather watch staffed, and Marek holding the only reading of the collision's order plus three pencil notes in his coat cuff.
+Get Marek Vale off the repair bench and onto a watch rotation, having spent his first branch in public and concealed it in private. The batch ends with the published figure at one hour and the collision itself at about 18:00, the Bellweather watch staffed, and Marek holding the only reading of the collision's order plus three pencil notes in his coat cuff.
 
 The batch must teach four rules without a lecture: a read is free and a binding spends; a conditional forecast binds the moment its condition is accepted and triggered; a binding closes the still-available turn that would have prevented its stated outcome, and a human act of preparation is such a turn; and the Office has a professional, kindly, well-dressed way of making a spent possibility look like an unattached observation.
 
 ## Starting condition
 
-Marek repairs sequence glass in the Weatherglass maintenance shop. He has never written a claim into the ward ledger, never heard the witness bell sound for a ward, and never made a forecast another person had to act on. The Bellweather Front is seventy-two hours out and the Office's instruments are already disagreeing with each other about it by six hours. Nothing is wrong yet. Everything is about to be.
+Marek repairs sequence glass in the Weatherglass maintenance shop. He has never written a claim into the ward ledger, never heard the witness bell sound for a ward, and never made a forecast another person had to act on. The Bellweather Front is out past three days and closing, and the Office's instruments are already disagreeing with each other about it by six hours. Nothing is wrong yet. Everything is about to be.
 
-**Clock convention for this batch.** Each card states a clock time and the hours remaining until the front reaches Veyra. A cycle is six hours; a watch bell is the hour. Weather phases are the *leading rain*, the *second belt*, and the *collision* — never *turn*, which stays the technical term for a change in a sequence.
+**Clock convention for this batch — corrected at the Batch 0001 review.** Each card states a clock time and a day only. A cycle is six hours; a watch bell is the hour. Weather phases are the *leading rain*, the *second belt*, and the *collision* — never *turn*, which stays the technical term for a change in a sequence.
 
-| Chapter | Clock | Hours before the front |
+**Do not quote an absolute hours-to-arrival anywhere, in the cards or in the prose.** This batch originally carried an hours-before-the-front column and the prose followed it; the repair pass stripped every instance out of Chapters 1–10 because the figures could not be made consistent with a single arrival hour. The reason the number moves is now a fact the reader owns, and it is the batch's own subject. The **only** fixed anchor is the **collision reaching the basin at about 18:00 on day nine**. The Office's published figure is the sole clock the prose may quote, and it slides downward across the batch: fifty hours on day seven, twenty on the night of day eight, nine at 10:00 on day nine, six at noon, one at 17:00.
+
+| Chapter | Clock | Weather phase |
 | --- | --- | --- |
-| 1 | 21:40, day four | 72 |
-| 2 | 06:00, day five | 64 |
-| 3 | 10:00–16:00, day six | 60 |
-| 4 | 09:15, day seven | 43 |
-| 5 | 11:00, day seven | 41 |
-| 6 | 23:00, day seven | 30 |
-| 7 | 08:30, day eight | 20 |
-| 8 | 16:00, day eight | 13 |
-| 9 | 10:30, day nine | 6 |
-| 10 | 17:00, day nine | 1 |
+| 1 | 21:40, day four | — |
+| 2 | 06:00, day five | — |
+| 3 | 10:00–16:00, day six | — |
+| 4 | 09:15, day seven | — |
+| 5 | 11:00, day seven | leading rain arrives 23:00 |
+| 6 | 23:00, day seven | leading rain |
+| 7 | 08:30, day eight | second belt 01:20–04:40 |
+| 8 | 16:00, day eight | second belt 01:20–04:40 |
+| 9 | 10:30, day nine | collision at about 18:00 |
+| 10 | 17:00, day nine | collision at about 18:00 |
 
 ## Starting relationships
 
@@ -100,7 +102,7 @@ None. **Marek remains a Reader for the whole batch and must not follow a sequenc
 
 **POV:** Marek Vale.
 
-**Location/time:** The Weatherglass maintenance shop, 21:40, day four, seventy-two hours before the front. Cold shop, paraffin and hot metal, three benches and one bad lamp.
+**Location/time:** The Weatherglass maintenance shop, 21:40, day four. Cold shop, paraffin and hot metal, three benches and one bad lamp.
 
 **Immediate goal:** Fit a replacement **sequence plate** to the Ninth Ward tower's cracked feed before Malle's fourteen-hundred inspection, and clear the backlog: a bent aneroid, a jammed rain gauge, and Feth Raal's barometer, which he will do last and not charge for. The tower's public **signal pane** is cracked too, but that is the tower crew's job on a different budget, and Marek has never once got anyone to move on it.
 
@@ -126,7 +128,7 @@ None. **Marek remains a Reader for the whole batch and must not follow a sequenc
 
 **POV:** Tarin Senn.
 
-**Location/time:** Kestrel Yards, 06:00, day five, sixty-four hours before the front. Working yards: mooring crews, a lift under repair, three route boards, and a great deal of shouted arithmetic.
+**Location/time:** Kestrel Yards, 06:00, day five. Working yards: mooring crews, a lift under repair, three route boards, and a great deal of shouted arithmetic.
 
 **Immediate goal:** Get a launch decision made for the *Petrel* on the strength of a window she believes in, and keep the Kestrel Line's uncertainty note on the yard board where nobody can quietly take it down.
 
@@ -152,7 +154,7 @@ None. **Marek remains a Reader for the whole batch and must not follow a sequenc
 
 **POV:** Marek Vale.
 
-**Location/time:** The Weatherglass, 10:00 to 16:00, day six, sixty hours before the front; then Pell's glassworks in the Kestrel Yards workshop district.
+**Location/time:** The Weatherglass, 10:00 to 16:00, day six; then Pell's glassworks in the Kestrel Yards workshop district.
 
 **Immediate goal:** Get the collision reading in front of the watch board with his name on it, and be believed without having to be senior.
 
@@ -166,7 +168,7 @@ None. **Marek remains a Reader for the whole batch and must not follow a sequenc
 
 **Power or resource change:** Read only, no spend. Resource change: one excellent private plate he is not allowed to publish, and a standing debt to Pell and to the Ninth Ward tower that is now physical rather than abstract.
 
-**Continuity fact:** The Ninth Ward's public signal glass is unreadable and then absent. The tower is dark from this chapter to Chapter 48. Marek's private sequence plate is built out of the tower's permanent pane, and the tower now has a physical reason to see him. Malle has asked for a falsifiable account, and received a true one that is not an account.
+**Continuity fact:** The Ninth Ward's public signal glass has been unreadable for a fortnight and stays that way to Chapter 48. **It is not dark because of Marek** — the frame has held a bubbled temporary since a fortnight before the opening, and 4486 was never installed. Marek's private sequence plate is built out of the tower's permanent pane, and the tower now has a physical reason to see him. Malle has asked for a falsifiable account, and received a true one that is not an account.
 
 **Ending type:** Failure, honestly labelled. The goal does not happen; the proof exists and belongs to him alone and is unusable.
 
@@ -178,7 +180,7 @@ None. **Marek remains a Reader for the whole batch and must not follow a sequenc
 
 **POV:** Tovan Iles.
 
-**Location/time:** The ward ledger bench, Weatherglass ground floor, 09:15, day seven, forty-three hours before the front. A long room, a numbered bench, a bell, a rack of copy sheets, and nine ward heads on the wall.
+**Location/time:** The ward ledger bench, Weatherglass ground floor, 09:15, day seven. A long room, a numbered bench, a bell, a rack of copy sheets, and nine ward heads on the wall.
 
 **Immediate goal:** Clear the bench before the watch bell, and do not put her hand on anything that belongs to a ward she does not understand. She is one examination from a glass-tender's post, which is a real job with a real wage, and the ward heads are looking at her.
 
@@ -204,7 +206,7 @@ None. **Marek remains a Reader for the whole batch and must not follow a sequenc
 
 **POV:** Marek Vale.
 
-**Location/time:** The ward ledger bench, then the public forecast hall, 11:00, day seven, forty-one hours before the front. The batch's structural turn.
+**Location/time:** The ward ledger bench, then the public forecast hall, 11:00, day seven. The batch's structural turn.
 
 **Immediate goal:** Get Hearthward's stored water through the front's leading rain without the terraces going under, in a form that will be acted on inside six hours.
 
@@ -237,15 +239,15 @@ ONE POSSIBLE TURN WILL CLOSE.
 
 **POV:** Tarin Senn.
 
-**Location/time:** Hearthward terraces, 23:00, day seven, thirty hours before the front. The front's leading rain. Kestrel mooring crews on the grass above the market, fifty or sixty people in a wet market, and a shed at the bottom of the lower row where the rain-garden crew keep their tools.
+**Location/time:** Hearthward terraces, 23:00, day seven. The front's leading rain. Kestrel mooring crews on the grass above the market, fifty or sixty people in a wet market, and a shed at the bottom of the lower row where the rain-garden crew keep their tools.
 
 **Immediate goal:** Get the *Wren* and two other ships onto the grass above the Hearthward market, tied down in a crosswind coming round, and keep fifty market people out of the way while she does it.
 
 **Resistance:** The claim held. The rain came. The water came. The lower row's drains filled at 23:40 and took until 08:00 to run clear, which is three times as long as it takes when the drains are clear, and six ground-floor rooms on the lowest row sit below the surcharge line for the whole of it. The seed stock in the vaults' lowest drawers is ruined. Nobody dies. It reads, to everyone standing in it, as weather.
 
-**Information revealed:** The cost of the conditional claim, seen by a witness who does not know she is seeing it. Tarin has flown onto that gate a hundred times and knows the ground: she watched the drains being cleared on the Tuesday because she was standing on the grass above them, and she knows that a clear drain on the third night of rain is a Tuesday problem that became a Thursday problem. She cannot get from there to *a claim closed a possibility*, so she does the only useful thing available and asks a question out loud.
+**Information revealed:** The cost of the conditional claim, seen by a witness who does not know she is seeing it. Tarin has landed on Hearthward a hundred and fifty times and knows the ground: she watched the drains being cleared on the previous Thursday because she was standing on the grass above them, and she knows that a clear drain on the third night of rain is a Thursday problem that has quietly moved itself to next Tuesday. She cannot get from there to *a claim closed a possibility*, so she does the only useful thing available and asks a question out loud.
 
-**Action or decision:** She secures the ships, counts sixty-one people out of the market, and then asks Marek — who has been on the terrace with the ward glass for three hours — who stood the garden crew down, and when. He does not know. He says he does not know, which is true, and he does not say the rest of it, which is not.
+**Action or decision:** She secures the ships, counts sixty-one people out of the market, and then asks Marek — who has been on the terrace with the ward glass since eight the previous evening — who stood the garden crew down, and when. He does not know. He says he does not know, which is true, and he does not say the rest of it, which is not.
 
 **Emotional change:** Hers is the beginning of real anger, and it is not yet pointed at a person. His is a small, extremely precise shame that arrives with the sentence he chose not to say, and he recognises it immediately and puts it away, which is the part that should worry the reader.
 
@@ -263,13 +265,13 @@ ONE POSSIBLE TURN WILL CLOSE.
 
 **POV:** Marek Vale.
 
-**Location/time:** The Weatherglass, 08:30, day eight, twenty hours before the front. His bench, then a corridor, then the floor outside Malle's office. Cold, bright, much too quiet.
+**Location/time:** The Weatherglass, 08:30, day eight. His bench, then a corridor, then the floor outside Malle's office. Cold, bright, much too quiet.
 
 **Immediate goal:** Work out whether the Hearthward flood was a coincidence, a bad drain, or something he did, without writing any of it down where a clerk could find it.
 
 **Resistance:** The traces. On his private plate the Release movement of the second turn does not recover at the moment the physics says it must; it recovers about forty minutes late, and in the gap there is a stretch of nothing, which is the shape a closed possibility leaves when you look at a sequence closely enough. He can see it and he cannot prove it, because the only other plate that shows the same gap is the one he cut himself, three nights ago, at his own bench, with no provenance, in a ward whose public glass is dark and whose clerk has no reason to believe the maintenance hand who ruined it. Inner-ear pressure. A taste like a coin. Fine sound gone from one side and the loss not yet explained.
 
-**Information revealed:** The mechanism, at the level of a working man rather than a doctrine. Hearthward's water held. The garden crew's clearing of the lower drains had not happened, and could not now happen, because the branch in which it happened was the branch in which the lower row had needed it — and a claim's success closes the turn that would have prevented it, whether that turn is a weather outcome or four people with shovels and a two-day window. His binding worked. It saved a hundred and forty terraces and it closed a door with people behind it.
+**Information revealed:** The mechanism, at the level of a working man rather than a doctrine. Hearthward's water held. The garden crew's clearing of the lower drains had not happened, and could not now happen, because the branch in which it happened was the branch in which the lower row had needed it — and a claim's success closes the turn that would have prevented it, whether that turn is a weather outcome or four people with shovels and a two-day window. His binding worked. It saved two hundred and twenty people on those terraces a wet night and it closed a door with people behind it.
 
 **Action or decision:** He reconstructs it alone, at his bench, with a pencil and no register. Then he makes the decision that is the real content of this volume's first ten chapters: he does not file it. He writes the times on the inside of his left cuff, where the plate number already is. He goes to Malle and gives him a falsifiable account that is technically responsive and describes the shuffled order, the arrival times, and the exhausted instruments — and leaves out the gap. Malle asks the one question that would have caught it, which is what the claim had displaced, and Marek answers around it, and Malle lets it go because he has a front to staff. The reader knows exactly what just happened and nobody in the building does.
 
@@ -281,7 +283,7 @@ ONE POSSIBLE TURN WILL CLOSE.
 
 **Ending type:** Moral climax and low point. Cost, and the deliberate choice to pay it quietly.
 
-**Next-chapter pull:** The lowest four blocks of the Ninth Ward have the worst instruments in Veyra, the most people who need a warning, a public notice nobody can read because of what Marek did with the pane, and a warden who has been handed a notice she cannot use. She has also been reading a back room's unsigned numbers without being told that is what she is doing.
+**Next-chapter pull:** The lowest four blocks of the Ninth Ward have the worst instruments in Veyra, the most people who need a warning, a public notice nobody can read, and a paid-for pane that will now never be sent, which Marek cut a plate out of on the Wednesday, and a warden who has been handed a notice she cannot use. She has also been reading a back room's unsigned numbers without being told that is what she is doing.
 
 ---
 
@@ -289,7 +291,7 @@ ONE POSSIBLE TURN WILL CLOSE.
 
 **POV:** Neris Kade.
 
-**Location/time:** The Ninth Ward, Low Spindle, 16:00, day eight, thirteen hours before the front. Shelters, pumps, a school, a ward assembly with a bad chair, and the worst-maintained instruments in the city.
+**Location/time:** The Ninth Ward, Low Spindle, 16:00, day eight. Shelters, pumps, a school, a ward assembly with a bad chair, and the worst-maintained instruments in the city.
 
 **Immediate goal:** Get one usable warning into the lowest four blocks of the Ninth Ward, find out who to shout at if it is wrong, and get the ward's school emptied before the second belt arrives.
 
@@ -315,7 +317,7 @@ ONE POSSIBLE TURN WILL CLOSE.
 
 **POV:** Marek Vale.
 
-**Location/time:** The Weatherglass, 10:30, day nine, six hours before the front. A bad day, and the batch's second low point.
+**Location/time:** The Weatherglass, 10:30, day nine. A bad day, and the batch's second low point.
 
 **Immediate goal:** Get through the day with the Hearthward claim still filed as a success, keep Neris from asking the one question he cannot answer, and not be in the room when the front is confirmed.
 
@@ -378,7 +380,7 @@ ONE POSSIBLE TURN WILL CLOSE.
 - Record the Hearthward conditional claim's wording, witnesses, emergency-ledger entry, expiry, and the fact that it is entirely true.
 - Record the Hearthward damage as six ground-floor rooms on the lowest row, a season's seed stock, and no deaths.
 - Record Marek's cuff as a physical object with three entries, and keep it consistent.
-- Record the Ninth Ward's public signal glass as out and delayed, the cause as Marek's private plate, and the debt as unpaid.
+- Record the Ninth Ward's public signal glass as unreadable and still delayed, the cause as a paid-for pane sitting uncollected in a glassblower's shop with nine inches cut out of its crown, and the debt as unpaid. **Do not record the frame as darkened by Marek's plate.**
 - Record the new minor cast: Feth Raal, Ilva Sorn, Nessa Tarrow, Ivo Slate.
 - Record Malle's first falsifiable-account request as asked and evaded.
 - Record that Ione Sere has not appeared and that no Cut-era name, document, order, or date has been named in prose. The filing mark is the only trace and the reader has not been told what it covers.

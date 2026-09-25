@@ -56,7 +56,7 @@ She thought about it for perhaps a minute and a half, standing at her own desk i
 
 She did not decide anything about the man. That was the honest part, and she was careful with herself about it, because she had spent five years learning that the fastest way to lose a district is to find a person to be angry at. A man who cuts a working plate out of a poor ward's notice in order to make himself a private instrument is not a villain. He is something she had not got a word for, and she had a whole district of people who needed the ward's water and heat and light and no glass at all, and she was not going to hand that district over to a mood.
 
-So she wrote the name down. Not in the district book — in the back of her own notebook, on the page where she kept the things she had not yet decided about. *Vale, M. — glass shop. Pane out since the sixth. Told the crew himself. Reason: own instrument.* And under it, in the same small writing, she put the question she actually had, which was: *did he know.*
+So she put the name down. Not in the district book — in the back of her own notebook, on the page where she kept the things she had not yet decided about. *Vale, M. — glass shop. Pane out since the sixth. Told the crew himself. Reason: own instrument.* And under it, in the same small writing, she set the question she actually had, which was: *did he know.*
 
 And she left that question with no answer under it, which was where she left most of them.
 
@@ -108,7 +108,7 @@ Sable's hand went to the wall of hooks, and stopped, and came down again.
 
 "That's the first sensible thing anybody has offered me this week," said Neris Kade. "Yes. Give me the number."
 
-The number was *second belt, low blocks first, 01:20 to 04:40, and the undercroft on Sump Lane goes before the low blocks do.* It came on a card with nothing on it but the number and the hour, in a hand that was very good.
+The number was *second belt, low ground from the west, 01:20 to 04:40.* It came on a card with nothing on it but the number and the hour, in a hand that was very good.
 
 "Last winter," said Neris, turning the card over. "You gave me a number in a similar vein, and I moved a shelter rota on it."
 
@@ -120,7 +120,7 @@ The number was *second belt, low blocks first, 01:20 to 04:40, and the undercrof
 
 Neris put the card inside her coat, went out into the street, and walked to the school.
 
-She closed it herself, at six o'clock, in person, in the rain, with a warden and a lamp and forty-one children waiting out front in wet coats and a great many mothers standing in it.
+She closed it herself, at six o'clock, in person, in the rain, with a warden and a lamp and forty-one children waiting out front in wet coats and a great many mothers standing in it — forty of them who walked up from the low blocks, and one who had come out of a house with no downstairs and no cart and had to be carried.
 
 "Might as well not," said the schoolmistress, a woman of sixty called Pob who had kept that school for thirty years and had never once been wrong about a parent's mood. "Whatever it is you've come for, Neris Kade, it is going to cost somebody's morning."
 
@@ -130,13 +130,11 @@ She did it on her own authority, as a warden, under a standing order that let he
 
 Which is the whole bargain, thought Neris Kade, standing in the wet in front of forty-one children. Nothing spent. That was the word for it. Nobody's possibility had closed. The only thing that had gone was a morning, and the morning had belonged to them and not to the weather, and the Office would never put it in a book because nothing had happened in the sky.
 
-The glazier who came at first light to look at the market's storm pane told her, on her way down, that the Hearthward assembly chair had been up at the Weatherglass twice this week and had read the same claim on the ward board both times through a glass, and had gone away saying nothing either time. Neris wrote that down as well.
-
-She got back to the district office at a quarter past eight with Sable Orin's card still in her coat, and she pinned the card to the board, and she wrote the pump order off it, which was the real work of the night: the low blocks first, the Sump Lane grate crew up onto the terrace and into the school undercroft before midnight, both crews on the terrace end of the drain run standing by at the second pump house, and the ward's own line to the assembly rooms open by ten. It took two hours and forty minutes and she would not remember writing it down. She did not ring the Office and tell them where she had got the shape of it. There was nobody in the number to ring, and nothing in it that named a district, and by the middle of the night four hundred and forty people in this district had moved when they moved because of a figure set in a drying room above a public bath.
+She got back to the district office at a quarter past eight with Sable Orin's card still in her coat, and she pinned the card to the board, and she wrote the pump order off it, which was the real work of the night: the low blocks first, the Sump Lane grate crew up onto the terrace and into the school undercroft before midnight, both crews on the terrace end of the drain run standing by at the second pump house, and the ward's own line to the assembly rooms open by ten. Two hours and forty minutes of it, and she would not remember writing any of it down. She did not ring the Office and tell them where she had got the shape of it. There was nobody in the number to ring, and nothing in it that named a district, and by the middle of the night four hundred and forty people in this district had moved when they moved because of a figure set in a drying room above a public bath.
 
 That one had a witness in it somewhere. It was simply not her and not the Office, and she was not going to find out which, and she was going to do it anyway, tonight, on that number, because the alternative was forty-one children standing in an undercroft at two in the morning on the strength of a published word called *between*.
 
-Then she took a fresh ruled page out of the drawer at the back of the desk, where she kept the district's own records because the Office's records had a two-year wait in them, and she wrote a heading at the top, and then she wrote a line, and then she wrote three more.
+Then she took a fresh ruled page out of the drawer at the back of the desk, where she kept the district's own records because the Office's records had a two-year wait in them, and she headed it at the top, and then put a line on it, and then three more.
 
 *NINTH WARD — WHAT THE NOTICE DID NOT SAY. One line per notice, in the order they came.*
 

@@ -45,6 +45,6 @@ Untouched this batch. The final spend, the two Last Forecasts, the corridor repa
 - **The tower's own feed plate** — back in the Ninth Ward feed seat since 22:00 on day eight, on Malle's order, carrying the two-day record and the same gap. It is the piece of evidence Marek gave back. Nobody but Marek knows it matters.
 - **Neris's ruled page** — four lines, district records drawer.
 - **The emergency ledger** — one new line, and one older line in different ink about a ferry.
-- **Plate 4470's hole** — the Ninth Ward tower's public frame, dark until Chapter 48.
+- **The Ninth Ward tower's unreadable public frame** — the frame has held a bubbled temporary since a fortnight before the opening, because 4486 was paid for and never collected; 4470 cracked in the autumn and came out. **Marek did not darken it and did not take a working notice** — he cut the crown out of a pane that was sitting in Pell's shop and the ward is now never going to be sent that pane. The frame is still unreadable at Chapter 48, and the cause is the ward's poverty, not Marek's plate. Do not write the frame as dark *because* of what Marek did with the pane.
 - **The dead feed seat** — Ninth Ward tower, no spare for two years. **The seat is no longer dead:** the plate went back in at 22:00 on day eight. The public frame is still dark.
 - **The trimmed chart margin** — chart room, north wall, last frame on the end.

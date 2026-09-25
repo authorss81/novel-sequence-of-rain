@@ -74,9 +74,9 @@ Then, because the shop was empty and the heater had gone to a sullen glow, and b
 
 He said it twice, because once is a thought and twice is a promise he might keep.
 
-The clock in the shop said half past eleven. Four hours of sleep, if he went now. The plate was under the oilcloth and the trace was on the plate and the trace was a fact about the sky four days out, in a sequence he had no instrument chain for, in a ward whose tower was fed by glass from a bundle that had been cracked in two places in the same four years.
+The clock in the shop said half past eleven. Four hours of sleep, if he went now. The plate was under the oilcloth and the trace was on the plate and the trace was a fact about the sky three days and a bit out, in a sequence he had no instrument chain for, in a ward whose tower was fed by glass from a bundle that had been cracked in two places in the same four years.
 
-He turned the other thought over, because there was another one under it and it was the one that would keep him awake. The Office had the front at four days and could not narrow it, and the disagreement between its six best instruments was six hours, and it had been six hours for three days without one sentence written upstairs about why. He knew why now. The instruments timed the movements against one another. If the movements arrive shuffled, then the timings are measuring the wrong thing, and every number on the ridge is a true number about an order that is not the one in the air.
+He turned the other thought over, because there was another one under it and it was the one that would keep him awake. The Office had the front at three days and a bit and could not narrow it, and the disagreement between its six best instruments was six hours, and it had been six hours for three days without one sentence written upstairs about why. He knew why now. The instruments timed the movements against one another. If the movements arrive shuffled, then the timings are measuring the wrong thing, and every number on the ridge is a true number about an order that is not the one in the air.
 
 He wrote on the inside of his left cuff, in pencil, small and neat against the lining: *21:40 — N9 feed 4471 — cut 22:05.* Time, plate number, tower. Three facts and no interpretation. Then he wrote the thing that actually mattered, which was the word order, because a trace without an order is a photograph of a room: *G · Wt B · R R · Rel— · Wt. Rel began and did not finish.*
 
@@ -84,7 +84,7 @@ The chart room's register was two floors up and he was not going to it. He had d
 
 He put his coat on. In the pocket was the timetable for the yard tram that ran to Kestrel in the morning, and in the cuff was a pencil note, and in his head was a sequence with two men in it who had not agreed to be there.
 
-He went up the stairs past the dark observation floor, and out into the cold, and the front was four days out and had not yet decided to be a disaster.
+He went up the stairs past the dark observation floor, and out into the cold, and the front was three days and a bit out and had not yet decided to be a disaster.
 
 Down at the foot of the Weatherglass steps a light was still burning in the barometer stall, which at a quarter to midnight on the fourth day was the most sensible thing Marek had seen for six hours.
 

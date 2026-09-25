@@ -21,7 +21,7 @@ Marek begins this batch believing the problem is that nobody will make the call.
 
 ## Starting condition
 
-Day ten. The collision passed over the basin at about 18:00 on day nine and Marek read the order of the six movements aloud on the ward floor of the ninth ward to a crew of strangers and was right. Nobody died. Six ground-floor rooms on Hearthward's lowest row were ruined on the Thursday, a season of seed stock is in a market hall, the market is shut for a month, a school in Low Spindle was emptied on a warden's own authority at a cost out of four hundred families' mouths, and forty people in that district moved in the night on a number printed in a drying room above a public bath.
+Day ten. The collision passed over the basin at about 18:00 on day nine and Marek read the order of the six movements aloud on the ward floor of the ninth ward to a crew of strangers and was right. Nobody died. Six ground-floor rooms on Hearthward's lowest row were ruined on the Thursday, a season of seed stock is in a market hall, the market is shut for a month, a school in Low Spindle was emptied on a warden's own authority at a cost out of four hundred low-ground families' mouths, and four hundred and forty people in that district moved in the night on a number printed in a drying room above a public bath.
 
 Marek holds: one private sequence plate, a coat cuff with two readings and a filing mark on it, a bench sheet in a flat drawer, a chart margin upstairs with a piece cut out of it, an unfiled tag for a March dropout, and a two-year unpaid debt to the poorest tower in the city. He has told nobody any of it. He is on a roster as a reader. He has been given the Bellweather watch and has already worked it.
 
@@ -70,7 +70,7 @@ Strain does not improve. The inner-ear pressure, the metallic taste, and the thi
 ## Required world reveals
 
 1. The collision arrives out of order and the order is knowable in advance by a bench trace and by nothing else. The city survives a bad night because of a maintenance hand's private reading, and no instrument in Veyra can confirm a word of it.
-2. Caution still costs nothing and is still uncounted: a school closed on a warden's own authority, a market shut for a month, a morning of wages out of four hundred families' mouths, and a bell rung for a corridor.
+2. Caution still costs nothing and is still uncounted: a school closed on a warden's own authority, a market shut for a month, a morning of wages out of four hundred low-ground families' mouths, and a bell rung for a corridor.
 3. The **Lower Sill culvert** is the oldest continuously deferred repair in the city. A nine-person municipal convoy is loaded with shoring timber and a replacement dewatering pump, and has been for two years, and the Office calls it deferred maintenance. **Set it up. Do not dramatize its failure.**
 4. The **Weather Council can certify a trial claim** under the Charter with a named sponsor, a published expiry, a listed alternative, and one regional seat concurring. It is a good instrument. It works.
 5. A binding closes coordinated independent preparation, not just weather. Crews, precursor summons, ferry fallbacks, and shelter rotas are all such turns.

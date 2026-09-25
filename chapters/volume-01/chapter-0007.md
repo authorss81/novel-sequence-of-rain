@@ -2,9 +2,9 @@
 
 The Weatherglass at half past eight on day eight was bright, cold, and much too quiet, in the way a building is quiet when everybody in it has been up all night and has gone home.
 
-Marek had the plate on the bench under a clean cloth and the rig lit, and he had not slept, and he had not eaten, and for the first two hours he did nothing at all except look at it.
+Marek had the plate on the bench under a clean cloth and the rig lit, and he had not slept, and he had not eaten, and for a long time after he lit it he did nothing at all except look at it.
 
-He had brought it down himself at ten past six, wrapped in a sailcloth, out of the Ninth Ward tower's feed seat, with the tower keeper standing beside him holding a lamp and not asking, because a docket on the tower's account said Marek Vale was to do its glasswork at his own hand and no charge to the ward, and a man carrying a plate down a hill at dawn in a sailcloth is performing a task the docket already describes. The feed was on a dead seat before he put it in his coat, and it is on a dead seat now. There is no spare in that tower. There has not been a spare in that tower for two years.
+He had not been near the tower since Thursday. He had arranged it on Thursday evening, on the second landing, with the keeper's lamp between them and the docket in his pocket, and the arrangement had been that a keeper taking two plates down a hill at dawn in a sailcloth was doing the tower's business rather than a man's own — a docket on the tower's account said Marek Vale was to do its glasswork at his own hand and no charge to the ward, and no charge to the ward was exactly what the keeper would tell anybody who asked. The keeper had taken them out at first light, wrapped them together, set the bundle at the foot of the ladder, and gone back up without asking a single question, and the bundle had been on the bench under the cloth for two hours. The feed was on a dead seat before the keeper touched it, and it is on a dead seat now. There is no spare in that tower. There has not been a spare in that tower for two years.
 
 This was the tower's own plate. The replacement he had cut in the shop on the Monday night and fitted on the Wednesday afternoon, the one Malle had put a knuckle against and said *plate* about, and it had done nothing interesting for a day and a half. The second piece of glass had come down the hill inside the same sailcloth, and there was a reason for that, and he had had it at seven o'clock on Thursday evening when he put it back.
 
@@ -22,7 +22,7 @@ He had seen a dropout before. He had logged one in March in that same feed: a sh
 
 The March plate dropped hard, in one step, and left a crescent.
 
-The new plate did not drop. It thinned. The moisture line went down over about a quarter of an inch of glass and kept going down until there was nothing to see, and it stayed like that for two and a half hours, and it came back on a shallow slope, forty minutes behind.
+The new plate did not drop. It thinned. The moisture line went down over about a quarter of an inch of glass, a quarter of an inch that ought to have been continuous, and it came back on a shallow slope.
 
 It was not a fault. He was as sure of that as he had ever been of anything in his life, and being sure of it was the worst thing that had ever happened to him.
 
@@ -56,9 +56,7 @@ The last line was the one that mattered and he went at it four times.
 
 A surcharged outfall does not drain. He knew that; every sequence glass in the building taught it. A surcharge is a pressure standing in the pipe, and a pipe with a pressure standing in it holds the water above it, and the only two things that clear a surcharge are time without inflow, which he had not had, and a pipe that is not actually surcharged, which means something was not there.
 
-The row had drained in half an hour.
-
-Half an hour. In nine hours of a full surcharge, with a wall of water four feet high in the market hall, the lower row had come down from eighteen inches to nothing in the time it takes to eat a meal, and the outfall throat at the foot of it had run free and taken the lot. He had put his hand into that throat with a lamp at ten past six that morning, on his own, and there was no silt in it and no rag and no brick and no wasp nest and no forty years of Hearthward's terraces in it, and he had thought at the time that it was a remarkably clean throat, and he had not followed the thought anywhere because there was nowhere to follow it to.
+The row had drained in half an hour. In nine hours of a full surcharge, with a wall of water four feet high in the market hall, the lower row had come down from eighteen inches to nothing in the time it takes to eat a meal, and the outfall throat at the foot of it had run free and taken the lot. He had put his hand into that throat with a lamp at ten past six that morning, on his own, and there was no silt in it and no rag and no brick and no wasp nest and no forty years of Hearthward's terraces in it, and he had thought at the time that it was a remarkably clean throat, and he had not followed the thought anywhere because there was nowhere to follow it to.
 
 Here was the part that had kept him awake, and it was not the gap. It was arithmetic.
 
@@ -70,7 +68,7 @@ And he had said, on a bench, on Wednesday, out loud, in front of Anwen Sarr: abo
 
 Nine.
 
-Somebody had put nine hours against a claim that said three, and the somebody was a Tuesday's worth of Hearthward terraces sitting in a pipe, and the reason it was still sitting there on Thursday evening was that the crew that cleared it on Tuesdays and Thursdays had not been out, and the reason they had not been out was in the gap in the second turn's Release, and he had known the rota since eleven o'clock the previous morning because somebody had told him the rota and he had written it down and had never once asked where the man went, and the reason the gap was in the Release was that he had made that movement true, and it had been true since eleven o'clock the previous morning.
+Somebody had put nine hours against a claim that said three, and the somebody was a Tuesday's worth of Hearthward terraces sitting in a pipe, and the reason it was still sitting there on Thursday evening was that the crew that cleared it on Tuesdays and Thursdays had not been out, and the reason they had not been out was in the gap in the second turn's Release, and he had known the rota since twenty to eleven the previous morning because somebody had told him the rota and he had written it down and had never once asked where the man went, and the reason the gap was in the Release was that he had made that movement true, and it had been true since eleven o'clock the previous morning.
 
 Nothing he had looked at had cost a branch. He stayed with that for a long moment, standing in the cold shop with his hand on a plate, because it was the last true thing available to him. Looking had cost him a headache and a ruined plate and a bent needle. It had cost him nothing at all. The water in those six rooms was not a cost of reading.
 
@@ -80,7 +78,7 @@ He sat down and put his face in his hands for about a minute and a half, and nob
 
 Then he got up, and wrote the times on the inside of his left cuff in pencil, where the plate number already was, in the same small neat hand:
 
-*08:40 — gap 23:58–02:26, Rel s.late 40m — dry throat 06:10.*
+*09:40 — gap 23:58–02:26, Rel s.late 40m — dry throat 06:10.*
 
 And then he took the clean sheet of bench paper with the four times on it, and looked at it, and put it in the flat drawer under the bench with the rest of the bench paper, where it was not a record of anything, because a sheet of bench paper is not a record and the Office did not keep bench paper and neither would anybody else unless they came and made a point of it.
 
@@ -92,7 +90,7 @@ He could say: the Office's own feed plate shows a two-and-a-half-hour absence in
 
 And here is what it was made of.
 
-The plate came out of a tower that had a dead feed seat and no spare, at ten past six in the morning, wrapped in a sailcloth, by a man with a two-year docket in his pocket and no chain. The one piece of glass in the world that corroborated it was a plate cut out of that same ward's unpaid replacement pane on the same day, in a glassblower's shop, on a private arrangement, and the pane it came from was still a public warning with a hole cut in its crown where it had been, and it had never been in a register and never would be. The foreman had told a stranger in a market hall and had told her a thing he could not account for, and a man's inability to account for a Tuesday is not a document. There was a line in the Office's own maintenance history saying that this feed drops out, and a tag in Marek's own hand in the second drawer from the top saying why, and the tag was correct, and it was dated in March, and a Deputy who wanted to be careful would look at that tag and then look at a maintenance hand who had spent the last four days eating his lunch.
+The plate came out of a tower that had a dead feed seat and no spare, at ten past six in the morning, wrapped in a sailcloth, on the word of a man with a two-year docket in his pocket and no chain, and the man himself was seven miles off at that hour with his hand in a drain. The one piece of glass in the world that corroborated it was a plate cut out of that same ward's unpaid replacement pane on the same day, in a glassblower's shop, on a private arrangement, and the pane it came from was still a public warning with a hole cut in its crown where it had been, and it had never been in a register and never would be. The foreman had told a stranger in a market hall and had told her a thing he could not account for, and a man's inability to account for a Tuesday is not a document. There was a line in the Office's own maintenance history saying that this feed drops out, and a tag in Marek's own hand in the second drawer from the top saying why, and the tag was correct, and it was dated in March, and a Deputy who wanted to be careful would look at that tag and then look at a maintenance hand who had spent the last four days eating his lunch.
 
 And the worst of it, the reason he was going to do it, and he was honest about the reason even with himself, which he thought of at the time as a kind of honesty and which was not:
 
@@ -132,7 +130,7 @@ There was a silence of about four seconds.
 
 He did not say *that is a lie*. He did not say anything at all for a moment, and he looked at the six rosters on the floor, and then he said, in the voice of a man who has a basin to get a weather onto and has not got a day to do it in:
 
-"Well. It's a rain profile," he said. "And the front is a rain profile. And I have to put a hundred and forty thousand people under one of them by four o'clock this afternoon, and if I ask the Council's technical cell to adjudicate a dispute about a wet cell at twenty to nine on the morning of a collision, then the answer I get back is a letter saying the Office is not presently in a position to certify the profile, and I do not get a profile at all, and I get nothing, and five hundred people are standing in a basin with a hole in it."
+"Well. It's a rain profile," he said. "And the front is a rain profile. And I have to put a hundred and forty thousand people under one of them by four o'clock this afternoon, and if I ask the Council's technical cell to adjudicate a dispute about a wet cell at twenty to ten on the morning of a collision, then the answer I get back is a letter saying the Office is not presently in a position to certify the profile, and I do not get a profile at all, and I get nothing, and five hundred people are standing in a basin with a hole in it."
 
 He picked up the top roster.
 
@@ -160,7 +158,7 @@ The taste of a coin was still in his mouth. The pressure behind his left ear was
 
 At ten that night he walked the plate back up the hill.
 
-The Ninth Ward tower is a brick shaft with a ladder in it and no stair, and the feed seat is on the second landing under a copper tank that sweats, and Marek had been up and down that ladder four years' worth of times and had never once had a reason to be on it at night with a sailcloth. He set the plate in the seat, cold, and it went home the way a key goes into a lock it has been in a thousand times. He wrote no line in the tower's book. The keeper, who had stood at the bottom of the ladder with a lamp for two hours and had asked nothing once, said nothing back, and that was the whole of the conversation.
+The Ninth Ward tower is a brick shaft with a ladder in it and no stair, and the feed seat is on the second landing under a copper tank that sweats, and Marek had been up and down that ladder four years' worth of times and had never once had a reason to be on it at night with a sailcloth. He set the plate in the seat, cold, and it went home the way a key goes into a lock it has been in a thousand times. He wrote no line in the tower's book. The keeper, who had carried two plates down the hill at first light that morning and had not asked a question then either, stood at the bottom of the ladder with a lamp for two hours and said nothing back, and that was the whole of the conversation.
 
 Then he came down the ladder and out into the wet, and inside twenty minutes the ninth ward's own feed was running again on the Office's glass: six movements, in the wrong order, on a plate in its correct place, in a tower with no spare. The public frame above it was still a bubbled temporary that could not carry a state, and would be for a long time yet, but the feed was back, and it was back because a maintenance hand had done as he was told.
 

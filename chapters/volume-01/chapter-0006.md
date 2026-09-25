@@ -6,7 +6,7 @@ Three ships on the grass above the Hearthward market, a crosswind coming round f
 
 "Spare line on the bow! Take the slack off the quarter or she'll go round!"
 
-The Line's people were good at this. She had spent nine years watching a yard's worth of riggers turn a wet hillside into a mooring field in the dark and she had never once had to shout at them about it twice, and the thing that made it possible was that none of them would tie a ship to a terrace in a blow without being told exactly what the ground was doing under the grass, and Tarin could tell them, because she had landed on Hearthward a hundred and forty times and had spent a night on that low row in a shed with a woman in it, and she knew where the ground gave and where the retaining wall leaned.
+The Line's people were good at this. She had spent nine years watching a yard's worth of riggers turn a wet hillside into a mooring field in the dark and she had never once had to shout at them about it twice, and the thing that made it possible was that none of them would tie a ship to a terrace in a blow without being told exactly what the ground was doing under the grass, and Tarin could tell them, because she had landed on Hearthward a hundred and fifty times and had spent a night on that low row in a shed with a woman in it, and she knew where the ground gave and where the retaining wall leaned.
 
 The claim had been true, and Tarin found herself acknowledging that fact in the middle of a mooring, which she had not expected and did not much enjoy.
 
@@ -14,11 +14,11 @@ The gate shut and stayed shut. The upper rows were dry. She had seen it when she
 
 Down in the market, though, the rain was finding every joint it had.
 
-There was a set of catch pits at the bottom of the lowest row, four of them under iron grates the size of a cartwheel, and Tarin had stood over them six days ago on a Thursday morning in the dry, with a cup of somebody's tea in her hand, and watched four men and a foreman take a whole week out of them with long-handled scoops and a bucket between them, because she had moored on the grass above that row on the way to Hearthward and had a spare hour and nothing to do with it, and because the sight of four people working in a hole is the sort of thing you stand and watch when you are tired.
+There was a set of catch pits at the bottom of the lowest row, four of them under iron grates the size of a cartwheel, and Tarin had stood over them a week earlier, on the Thursday, in the dry, with a cup of somebody's tea in her hand, and watched four men and a foreman take a whole week out of them with long-handled scoops and a bucket between them, because she had moored on the grass above that row on the way to Hearthward and had a spare hour and nothing to do with it, and because the sight of four people working in a hole is the sort of thing you stand and watch when you are tired.
 
 The foreman had straightened up halfway through and looked up at her ship sitting on his terrace with her nose over the wall, and had shouted up that the row would take anything now. Tarin had called down that it would take anything on Thursday too, and he had said that Thursday was his as well, and she had thought at the time that it was a funny thing for a man to say about his own week, and had not thought about it again.
 
-Six days. It had been clean pits on Thursday last and it was due again on Thursday this, and a row with a clear outfall on the third night of rain is a Thursday problem, and a row without one is a problem that has quietly moved itself to next Tuesday, and the pits were now four feet under water and she could not have told one of the men from the other in the dark.
+A week. It had been clean pits on Thursday last and it was due again on Thursday this, and a row with a clear outfall on the third night of rain is a Thursday problem, and a row without one is a problem that has quietly moved itself to next Tuesday, and the pits were now four feet under water and she could not have told one of the men from the other in the dark.
 
 "The market's the worst of it," said Ovett, over the noise. "Forty, fifty people still under the awnings with crates out. Hallard's stall's on the worst of the pitch and he's taken the tarp off it to sell the last of the—"
 
@@ -44,13 +44,13 @@ The water did not come through the plaster. That was the mercy in it, and it las
 
 Nobody died. She made sure of that by two in the morning and she went on making sure of it every twenty minutes after that, with Ovett and one of the Line's people walking the row with a lamp, and later with a warden, and later still with a warden and a copy from the ninth ward who wrote everything down, including a line about the seed vaults' lowest drawers that Tarin would carry around in her pocket for the rest of her life.
 
-The vaults were cut into the terrace face behind the market, and the lower six drawers of the vault were eighteen inches off the market floor, and nobody had put them up, because the vaults are Hearthward's answer to a dry year and everybody on the terraces has understood for two generations that the vaults are not to be moved in a storm, and that night the water came up eighteen inches and stayed up eighteen inches for six hours.
+The vaults were cut into the terrace face behind the market, and they held ninety drawers, and the lower six of them sat eighteen inches off the market floor, and nobody had put them up, because the vaults are Hearthward's answer to a dry year and everybody on the terraces has understood for two generations that the vaults are not to be moved in a storm. That night the water came up eighteen inches and stayed up eighteen inches for six hours.
 
-A season's seed stock. Ninety drawers in that vault cut into the terrace face, and it was the lower six of them that sat eighteen inches off the market floor, and every one of those six is ruined, most of them still in paper and tins, and there is no way to write that on a gate and have it mean what it means.
+A season's seed stock, six drawers of it, most of them still in paper and tins, and there is no way to write that on a gate and have it mean what it means.
 
 ---
 
-Marek Vale was on the terrace at half past eight in the morning, and he had been there since eight the previous evening, and he looked like a man who had read one instrument for eleven hours and had got an answer he did not want, and had then gone down onto the reach at about six with a lamp to put his hand in the outfall throat, and had come back up without saying so much as good morning.
+Marek Vale was on the terrace at half past eight in the morning, and he had been there since eight the previous evening, and he looked like a man who had read one instrument for eleven hours and had got an answer he did not want, and had then gone down onto the reach at about ten past six with a lamp to put his hand in the outfall throat, and had come back up without saying so much as good morning.
 
 Tarin came down off the grass at eight with a cup of the market's worst tea in her hand and the row behind her going white as the water went out of it, and the man from the ridge was below the market on his knees with a lamp and his hand in the outfall throat.
 
@@ -60,7 +60,7 @@ Tarin came down off the grass at eight with a cup of the market's worst tea in h
 
 "It did." Tarin drank the tea. It was as bad as she had expected. "Say something to me about that, because you have got a very particular face on and I'd like to know which part of it I'm looking at."
 
-"You've been here since eight last night," Marek said. "I came up at eight. You've been here twelve hours and I've been here eleven and neither of us left, and there are two hundred and thirty people on these terraces who went up in the night because a bell rang, and that is the reason the upper rows are dry."
+"You came up at half past ten," Marek said. "I came up at eight. You have been here nine and a half hours and I have been here twelve, and neither of us has left, and there are two hundred and twenty people on these terraces who moved in the night because a bell rang, and that is the reason the upper rows are dry."
 
 "That's the reason the upper rows are dry," Tarin agreed, "and the market is shut for a month and six people's rooms are ruined and a season's seed is in the market hall and I have got eleven people on my payroll who are not going to get paid this month because of a claim that worked."
 
@@ -70,11 +70,11 @@ They stood in it. That was the thing she would remember afterward, and it was th
 
 Then Tarin said: "Who stood the garden crew down?"
 
-"Yesterday afternoon. The water steward says she clears them Tuesdays and Thursdays."
+"Yesterday afternoon. Ferren's lot tells them when to come."
 
 "This is Thursday."
 
-"He told me he would," Marek said. "At the bench. Yesterday. Before the rain. He said *I'll clear them*, and she said she had been telling him for nine years without being asked, and I wrote the times down on a pad, and then I went up to the hall and read the claim out, and at half past twelve a man from Kestrel wanted the wording of the condition, and then it was raining, and I did not come down."
+"He told me he would," Marek said. "At the bench. Yesterday. Before the rain. He said *I'll clear them*, and she said she had been telling him for three years without being asked, and that before her it had been a standing order, and I wrote the times down on a pad, and then I went up to the hall and read the claim out, and at half past twelve a man from Kestrel wanted the wording of the condition, and then it was raining, and I did not come down."
 
 The rain had stopped some time in the night and started again in the small hours, and it was doing a light, businesslike drizzle now that made everything look rinsed.
 
@@ -116,7 +116,7 @@ At eight twenty the glazier came up off the terrace road with a pane under her a
 
 Ferren was on the step of the shed at the bottom of the row with four shovels leaning against the wall and a barrow he had not used.
 
-He was a heavy man of about fifty-five with wet trousers rolled to the knee and a way of standing with his arms down that made him look shorter than he was, and he had been the rain-garden foreman on those terraces for nine years, and he had been in a room on a ridge at ten past eleven the previous morning with a claim on it.
+He was a heavy man of about fifty-five with wet trousers rolled to the knee and a way of standing with his arms down that made him look shorter than he was, and he had been the rain-garden foreman on those terraces for nine years, and he had been in a room on a ridge at twenty to eleven the previous morning with a claim on it.
 
 The glazier asked him about the frame. Ferren told her, patiently, that the frame was fine and the sill was the problem and that she would want to let the timber dry a fortnight before she set anything in it, and then he stopped, and stood there looking at the barrow.
 
@@ -128,7 +128,7 @@ The glazier asked him about the frame. Ferren told her, patiently, that the fram
 
 The glazir waited, because glaziers wait; it is a job that is nine parts standing still.
 
-"It filled at twenty-three forty and I was stood on this step," Ferren said, "because I always am at that time, because I do it Tuesdays and I do it Thursdays and I have done since I had the crew, and I have a shovel in my hand and I have a barrow behind me, and I am stood here — and the water is coming up the row — and I am stood here." He looked at his own hands with an expression of complete bafflement, the way a man looks at a door that will not open although he has the key. "I could not tell you what I did with the evening. I was not stood down. Nobody stood me down. I was not ill and I was not sent for and I did not lose my watch." He turned the shovel over. "I remember the whole night. I remember the rain starting and the gate going and the man off the ridge being up here on the glass until the light came, and I remember thinking that the drains were clear and we were all right. I remember that like a thing I did this morning."
+"It filled at twenty-three forty and I was stood on this step," Ferren said, "because I always am at that time, because I do it Tuesdays and I do it Thursdays and I have done since I had the crew, and I have a shovel in my hand and I have a barrow behind me, and I am stood here — and the water is coming up the row — and I am stood here." He looked at his own hands with an expression of complete bafflement, the way a man looks at a machine that has done exactly what it was told and produced nothing he wanted. "I could not tell you what I did with the evening. I was not stood down. Nobody stood me down. I was not ill and I was not sent for and I did not lose my watch." He turned the shovel over. "I remember the whole night. I remember the rain starting and the gate going and the man off the ridge being up here on the glass until the light came, and I remember thinking that the drains were clear and we were all right. I remember that like a thing I did this morning."
 
 "Perhaps you did clear them," the glazier said kindly, "and it's gone from you the way hard work does."
 
