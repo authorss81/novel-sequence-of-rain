@@ -130,7 +130,7 @@ She put the sheet back into the parcel and folded the top over and did not tie i
 
 He walked her to the gate, and at the gate she stopped and looked back up the hill at a shop with a lamp on under the north window, and said one more thing, and it was not to him and it was to a ridge.
 
-"**The Tuesday after that one, the fourteenth, there was a blank day and I wrote *nothing brought this day*, and I could be wrong, and I was not.**"
+"**The Wednesday after that one, the fifteenth, there was a blank day and I wrote *nothing brought this day*, and I could be wrong, and I was not.**"
 
 And then she got on the bicycle and went down the hill road at the speed of a woman of sixty-one in the wet, and did not look back, and he stood in the yard in the rain with a brown paper parcel on the bench under a lamp and one sheet of district paper in it, in a hand that had copied nine hundred entries out of other people's hands for twenty-two years, and the line at the foot of that sheet in a fair round hand that was not hers, and he read it once and put it away again without writing anything on it. The inside of his left cuff has three blocks of pencil in it and there is no room for a fourth, and there is no column in this basin that says what you do with a day when nobody came.
 

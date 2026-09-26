@@ -1,6 +1,6 @@
 # Chapter Summaries
 
-Rolling window of the most recent twenty to thirty chapters, in full detail, for voice and continuity. Older entries are archived by volume. **Volume 01 is Chapters 1-48 and Volume 02 is Chapters 49-96; the volume 02 sections run in batch order at the foot of this file and Batch 0003 (Chapters 71-82) is the most recent prose.**
+Rolling window of the most recent twenty to thirty chapters, in full detail, for voice and continuity. Older entries are archived by volume. **Volume 01 is Chapters 1–48, Volume 02 is Chapters 49–96, and Volume 03 is Chapters 97–144. The sections run in volume and batch order; the most recent prose is Volume 03 Batch 0001 (Chapters 97–108), whose entries are the last block in this file.**
 
 ---
 
@@ -444,6 +444,8 @@ ONE POSSIBLE TURN WILL CLOSE.
 # Volume 03 — *The Quiet Ledger* (Chapters 97–144) — Batch 0001 (Chapters 97–108), ACT I
 
 **Clock.** Miremonth 20 (Tuesday) to Miremonth 30 (Friday), eleven days, twelve chapters, entirely inside one month. **Miremonth has 30 days and the 1st is a Thursday.** **No Gregorian month names; one invented month, Greengage, named once in Chapter 108 for a Tuesday three years back.** **No binding and no System panel anywhere in the batch, and nothing is spent.** Repairs applied after the Batch 0001 review are now canon and are listed in `state/continuity.md` and `state/batch-summaries.md`.
+
+**Two sentences of prose were changed at a second review pass, and the entries below are the ones to read for voice.** (1) **Chapter 102's tin** now reads *"Four shillings in the district tin on the Saturday morning of the twenty-fourth"*; it said four and six, which is the amount the first payment was reduced **by** and not a balance, and the chapter's own arithmetic thirty words later gives four shillings. (2) **Chapter 108's blank day** is now *"The Wednesday after that one, the fifteenth"*; it said *the Tuesday after that one, the fourteenth*, which cannot be both. Nothing else in either chapter moved, no scene was removed, and no plot changed. **The per-chapter dates in these entries are correct** — 98 runs to the Friday the twenty-third, 101 to the Saturday the twenty-fourth, 102 to the Wednesday morning the twenty-eighth, and 103 from the Thursday the twenty-second to the post on the Wednesday the twenty-eighth — **and it was the summary tables in `state/continuity.md` and `state/batch-summaries.md` that were stale, not these.** Chapter 106 opens on the morning of the twenty-eighth, a Wednesday, and recalls the twenty-third, twenty-sixth and twenty-seventh in summary.
 
 ### Chapter 0097 — A Minute Wants A Name
 

@@ -6,7 +6,7 @@ There is a column for the date and a column for the pump hours and a column for 
 
 So she counts the tin twice on the table with the district clerk standing at the other side of it not helping, because a man standing on the other side of a table helps.
 
-**Four and six in the district tin on the Saturday morning of the twenty-fourth, and that is the whole of the ninth ward's public weather service, and the arithmetic is the arithmetic.**
+**Four shillings in the district tin on the Saturday morning of the twenty-fourth, and that is the whole of the ninth ward's public weather service, and the arithmetic is the arithmetic.**
 
 It is worth setting out in full, because every part of the rest of the week comes out of it and none of it is a feeling.
 
