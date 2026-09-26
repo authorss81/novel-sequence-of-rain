@@ -44,15 +44,11 @@ He read the five lines under the photograph, and then he read the price, and the
 
 Here is the whole of what happened on the morning of the fifteenth of Drownmonth, and it took about four minutes and it did not require anybody to be dishonest.
 
-**The window of the morning of the seventeenth was sold three times.**
-
-It was sold on the fourth at twenty to twelve to a salvage interest — Garrick Dellow, freeholder of two hundred yards of the ninth ward's lowest ground, a barge, a gang of four, strip and cartage — and it was sold on the fourth at eight minutes to twelve to a firm which disclosed, correctly, that its use was its own onward sale, and both of those were lawful and both of them were on the board and both of them were printed with the price.
-
-**On the fifteenth, at twenty past ten, it was sold again to a barge interest, and the instrument of that sale was a photograph taken on Monday off a public apron wall, and the man who took it had been refused at a shed door and had then gone and asked a barge operator's mate a question and written the answer down, and the answer was true.**
+**The window of the morning of the seventeenth was sold three times.** Twice on the fourth, twelve minutes apart, to a salvage interest and to a firm that disclosed, correctly, that its use was its own onward sale, and both of those were lawful and both of them were on the board and both of them were printed with the price. And on the fifteenth, at twenty past ten, to a barge interest, and the instrument of that sale was a photograph taken on Monday off a public apron wall, and the man who took it had been refused at a shed door and had then gone and asked a barge operator's mate a question and written the answer down, and the answer was true.
 
 There is no mechanism in the Exchange's form, or in its licence, or in the world, that stops any of it, and everybody involved knew that, and nobody lied.
 
-**And on the Saturday the twelfth, at twenty past seven in the morning, a salvage interest who had paid seven and six on the fourth returned his window, and was refunded in full, and the refund and the release were published, and the price was published, and the whole of it took about nine minutes.**
+**And on the Saturday the twelfth, at twenty past seven in the morning, the salvage interest who had paid seven and six on the fourth returned his window, and was refunded in full, and the refund and the release were published, and the price was published, and the whole of it took about nine minutes.**
 
 That last one is the reason the morning matters, and it is not anybody's villainy, and it is the single most expensive thing anybody did in this basin this quarter.
 
@@ -219,11 +215,9 @@ He wrote it in his own level book in the right column, which is a column for the
 
 **Dellow's barge was hired and tied and not discharged. The barge interest's light was never let go. The gang of eleven was stood down at dawn and was paid for the day and a half. The ward's own crew of six with the water steward did not go out, and the second pump house ran, and about an inch came into the third block's low side and went out again by the Friday, and no ground floor was wet anywhere in the ward.**
 
-And about nine hundred pounds of shoring timber in four iron bands, and a four-hundred-and-ten-pound dewatering pump on a pallet with its cover on, stayed where they have been since the sixth of the Bellweather month under a painted board with no name on it, and the wall at the Lower Sill went into its **second consecutive season** of not being worked on, and the water office's table on the wall went from two years and about eleven months to **two years and about nine months**, and the clerk who keeps that table moved the peg without being asked and wrote nothing in the line between, and nobody could produce the line between, and a reach is not a season.
+And about nine hundred pounds of shoring timber in four iron bands, and a four-hundred-and-ten-pound dewatering pump on a pallet with its cover on, stayed where they have been since the sixth of the Bellweather month under a painted board with no name on it, and the wall at the Lower Sill went into its **third consecutive season** of not being worked on, and the water office's table on the wall went from two years and about eleven months to **two years and about nine months**, and the clerk who keeps that table moved the peg without being asked and wrote nothing in the line between, and nobody could produce the line between, and a reach is not a season.
 
 **Nothing is refunded. Nothing reopens. Nobody is paid twice for the same morning, and the Exchange paid two refunds in one morning at three and nine on the sixteenth, on printed receipts, without argument, in the ordinary way, and had paid a third on the twelfth, when a man gave a window back with a reason nobody in that building could argue with.**
-
----
 
 ---
 

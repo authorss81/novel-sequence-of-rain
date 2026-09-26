@@ -86,7 +86,7 @@ And she did the arithmetic, because that is what she is, standing at the counter
 
 Three pence a week. Fifty-two weeks, and a coin is a coin. **Thirteen shillings a year.**
 
-And two years of a woman's free, corrected, signed, timed readings — delivered on a shutter, in a plate-glass case, and on a piece of board in a district with four hundred and forty people in it, six times a day, by a woman who has been doing it since the weather turned — come to **two pounds and six shillings.**
+And two years of a woman's free, corrected, signed, timed readings — delivered on a shutter, in a plate-glass case, and on a piece of board in a district with four hundred and forty people in it, six times a day, by a woman who has been doing it since the weather turned — come to **one pound six shillings.**
 
 She stopped writing for about four seconds.
 
@@ -94,7 +94,7 @@ She had a counter clerk's arithmetic and she had been a counter clerk for nine y
 
 **The point is the other sum, and she did that one twice.**
 
-Eleven shillings is what a ward sold this ward's own information for once, in advance, off a councillor, in a coat, in forty seconds, on the second of last month.
+Eleven shillings is what a ward sold that ward's own information for once, in advance, off a councillor, in a coat, in forty seconds, on the second of last month.
 
 Eleven shillings is what a counter-reader charged one man on Saturday, in coin, on a plank, for about four hours and one morning of it, and the man counted it out in sixpences and threepences and a penny and put it in a satchel himself.
 
@@ -112,7 +112,7 @@ Then she read the ward's letter again, because it was in her bag and it was the 
 
 She put it back in the bag.
 
-**A firm that has a free corrected signed local reading for a shilling a quarter and cannot obtain one schedule from a district, because the district may refuse, and has refused, and the refusal is worth more than the reading.**
+**A firm that has a free corrected signed local reading for three shillings and threepence a quarter and cannot obtain one schedule from a district, because the district may refuse, and has refused, and the refusal is worth more than the reading.**
 
 She wrote a note for the Monday, which was read out on the floor at eleven and was about three sentences long, and then she went out at about half past one because she wanted to see the shutter in daylight with other people looking at it and she wanted to be in the middle of that and not at a counter.
 

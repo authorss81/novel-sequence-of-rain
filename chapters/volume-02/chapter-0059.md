@@ -51,7 +51,7 @@ He was also not, and Lyle understood this within about a minute and it took him 
 
 Lyle wrote it down. He wrote the whole of it down, in his own small hand, in the back of the notebook, with the date at the head and the time beside it, and he wrote the word *maybe* against forty-five, and he wrote *source: S., recd. off* the thumb* because a thing you have been told by a man who was not there is a thing you can swear to the having-been-told-of and not to the year, and Lyle was nineteen and had been a counter clerk for two years and had worked out that the difference between the two is the whole of the trade.
 
-He did not know then that seven days later an assessor in this same building would write the year down without hedging, and that the year was a particular one, and that the man's name was on the margin of the forty-fifth line in pencil in a hand that was not the clerk's.
+He did not know then that seven days later an assessor in this same building would write the year down without hedging, and that the year was a particular one, and that the man's name was on the inside face of that season's stub, in a good copperplate ink, in a hand that was not the clerk's, and that she would have it in front of her in ink and not in hearsay on the same morning, and would rule that neither of them could be ruled out.
 
 What he knew at about ten past ten on the Thursday morning of the third of Drownmonth was that there was a bound volume in a press with a heading and nothing under the ninth ward's column, and that a man had told him so, and that the man had been in the building for a long time and had not gone and look.
 

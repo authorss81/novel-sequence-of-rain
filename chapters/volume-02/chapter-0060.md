@@ -110,7 +110,7 @@ Marek Vale looked at him for a moment.
 
 "Was the fourth refusal free?"
 
-"About two minutes," said Hesk. "There is a lawyer on the Nacre Gate who charges a guinea and he was very good, and that is the fifth refusal, and it cost a guinea, and it is the only one of the five that I shall be able to put on an invoice."
+"About two minutes," said Hesk. "There is a lawyer on the Nacre Gate who charges a guinea and he was very good, and that is the sixth refusal, and it cost a guinea, and it is the only one of the six that I shall be able to put on an invoice."
 
 ---
 
