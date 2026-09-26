@@ -10,7 +10,7 @@ The Board wrote back on the Monday and it was four lines on a printed sheet with
 
 *No reply is required within the month.*
 
-Kell Bray read it at half past eight on the Monday morning of the twentieth, in the Hearthward district office, with a council meeting at ten.
+Kell Bray read it at half past eight on the Monday morning of the twenty-first, in the Hearthward district office, with a council meeting at ten.
 
 ---
 
@@ -32,7 +32,7 @@ And three inches above the season of three hundred and fifty-five, in the assess
 
 Kell Bray stood and looked at the two lines together for about a minute and a quarter, and there was nobody in the room, and then she went and wrote a minute at the counter in the corridor, in her own hand, and put it in the district file, and it is the only thing she has done in three weeks that anybody in this building has ever formally asked her about, and nobody has thanked her for it.
 
-**And here is what she wrote, in the corridor, in a minute that is in the district file and is not in a Council book, and it is the whole of the chapter's problem in eleven words:**
+**And here is what she wrote, in the corridor, in a minute that is in the district file and is not in a Council book, and it is eleven words:**
 
 *The finding stands. It is not withdrawn and it is not re-set, and the district it names has not been told that it exists.*
 
@@ -75,8 +75,6 @@ Four paragraphs. It is the first thing this Council has sent out of that buildin
 **What she did about it was write nine addresses out in a fair hand, over about forty minutes, on the back of a Council form, from a book she keeps in the bottom drawer of her own desk and which nobody in Hearthward knows exists.**
 
 It is a book of other people's clerks' names. It is nineteen years of being the person who signs the return and posts it, and it has got the name of every district clerk she has ever posted a return to and the name of the one who came after them, and the year it changed hands, and the street, in a small neat hand, because she is a woman who has been the only clerk in a room for a very long time and has consequently written things down.
-
-**Nine addresses, in a fair hand, on the back of a Council form. That is the whole of what one clerk did in the whole of the worst fortnight the ninth ward has had since the Bellweather month.**
 
 She put it in an envelope and addressed it to a records officer in the technical cell and wrote *not urgent* on it, and then she did not post it, and she carried it down to the basin house herself at about four o'clock on the Thursday because a thing carried by hand is a thing that can be given to a person rather than left on a table.
 

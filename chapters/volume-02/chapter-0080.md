@@ -94,7 +94,7 @@ It cannot be invoiced. **The Council's assessor has opened a temporary compensat
 
 ---
 
-**At about a quarter past eight on the morning of the thirtieth, a shed foreman of sixty-eight came down eleven steps with a chain over his shoulder and put a kettle on at the end of the bench, because a kettle is the first thing anybody who comes up that hill intends to put on, and putting one on is how a shed foreman says stay as long as you like.**
+**At about ten past six on the morning of the thirtieth, a shed foreman of sixty-eight came down eleven steps with a chain over his shoulder and put a kettle on at the end of the bench, because a kettle is the first thing anybody who comes up that hill intends to put on, and putting one on is how a shed foreman says stay as long as you like.**
 
 "Morning."
 
@@ -114,7 +114,7 @@ It cannot be invoiced. **The Council's assessor has opened a temporary compensat
 
 He shut the book and put it on the bench, and then he said:
 
-"You'll not want to be up there either. The council's bell's been going all morning, and it's the sixth ward's not ours, and there's a man in a room over a chandler's been in there two days."
+"You'll not want to be up there either. The council's bell went over a chandler yesterday afternoon, and it's the sixth ward's not ours, and there's a man been in that room two days."
 
 "Wardening?"
 

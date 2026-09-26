@@ -83,7 +83,7 @@ Nobody joined them.
 
 **Not because they are unrelated. Because joining them takes one sentence and the sentence takes a reader, and the reader is a censured man on a bench in a shop on the ridge who cannot be put in a sponsor's line and who has said, in about four rooms this quarter, that he cannot hold a trace alone, and who has held one, on Monday, for nine hours, with a woman in a dark tower at the other end of it, and who is not in this building and has not been asked.**
 
-And nobody joined them, and it was not anybody's doing, and the two documents will be pinned six inches apart on that wall for the rest of the season because a tobacconist pins whatever is handed to him.
+And nobody joined them, and it was not anybody's doing, and the two documents will be pinned three feet apart on that wall for the rest of the season because a tobacconist pins whatever is handed to him.
 
 ---
 

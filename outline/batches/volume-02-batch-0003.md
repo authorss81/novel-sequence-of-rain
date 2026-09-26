@@ -166,7 +166,7 @@ Ordinary civic time, as in Batches 0001 and 0002. **Drownmonth 1 is a Tuesday an
 
 **POV:** Kell Bray.
 
-**Location/time:** Hearthward district office, the Council press room, the technical cell, and a counter in Ferrygate, Drownmonth the twentieth (Monday) to the twenty-fourth (Thursday). **The chapter deliberately overlaps Chapter 71's Sunday and Monday and the overlap is a feature, not a fault.**
+**Location/time:** Hearthward district office, the Council press room, the technical cell, and a counter in Ferrygate, Drownmonth the twenty-first (Monday) to the twenty-fourth (Thursday). **The chapter deliberately overlaps Chapter 71 on the Monday and the Wednesday and the overlap is a feature, not a fault.** *Corrected at the Batch 0003 review: this card said the twentieth, which is a Sunday. The prose is the twenty-first and the prose is canon.*
 
 **Immediate goal:** Get nine districts to fill in a form the Council has decided to send, knowing what happened to the last four-and-forty-five years of trying.
 

@@ -68,7 +68,7 @@ She said it slowly, the way you say a thing you have just thought of and are not
 
 ---
 
-Then she did the thing that the chapter is named for, and she did it because a woman had put a thing on a shutter in a poor ward that the firm could have sold, and because she is a person who, when she cannot compete with a thing, goes and puts a price on it.
+Then she did the thing she had come in to do, and she did it because a woman had put a thing on a shutter in a poor ward that the firm could have sold, and because she is a person who, when she cannot compete with a thing, goes and puts a price on it.
 
 **She priced it.**
 

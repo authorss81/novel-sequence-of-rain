@@ -4,7 +4,7 @@ The ward ledger bench is on the ground floor of the Weatherglass, at the end of 
 
 Nobody in this basin is quite sure what the bell is for. It is not the certification bell, which is a hand bell and lives in a case in the technical cell and is rung once by an assessor. It is not a fire bell. It is a brass hand bell about five inches over with a bracket on it and it has been on that wall for longer than the building's accounts go back, and it is struck when a claim goes on the rail, once for every ward the claim touches, and the ward's head on the wall above the rail lights for the length of the strike and then goes out.
 
-The ninth ward's head has not lit since the middle of the autumn before last.
+The ninth ward's head has not lit since the middle of the Bellweather month.
 
 ---
 
@@ -55,7 +55,7 @@ Marek could not hear the bell. He is on the same side of the rail as the clerk a
 
 The ninth ward's head on the wall above the rail did not light.
 
-It has not lit since the autumn, and it did not light on the thirtieth of the Bellweather month when a claim touching that ward's own floodplain went into the world, and it did not light now. There is a bubbled temporary in a brass frame where a pane ought to be, and the brass is very good work, and a four hundred and forty people live on a low ground and none of them can see this from the street.
+It has not lit since the middle of the Bellweather month, and it did not light on the thirtieth of that month when a claim touching that ward's own floodplain went into the world, and it did not light now. There is a bubbled temporary in a brass frame where a pane ought to be, and the brass is very good work, and it has been in that frame since the autumn before last, and four hundred and forty people live on a low ground and none of them can see this from the street.
 
 **The claim bound anyway.** That is worth being exact about, because everything that follows happens because of it, and it is a fact about bells and witnesses and not about glass. The bell is struck in a room with nineteen people in it and a reader in it and a clerk in it and a sheet of foolscap on a rail with six boxes filled in. The glass on the wall is not the witness. The glass on the wall is a notice, and a notice is a thing a ward is *told*, and a ward cannot be bound by a thing it is told.
 
@@ -283,6 +283,6 @@ Two hundred and forty children in that school. Forty of them walk up from the lo
 
 "Read it out," said Ampow, from the back, to nobody, in a sergeant's voice, and then, to Pet, who was fifteen and furious and a runner: "Pet, go down to the Bellweather apron and tell the foreman with the book to leave it be four days. And tell him if anybody from a carrier's office comes up there asking what's in the shed, he's to say the load is paid for and stored against an order and there is a painted board on it, and that's the whole of what he says, and he's not to be clever about it."
 
-The ninth ward's signal glass, two thousand feet above the low end of the city, on the corner of Tannery Walk and Sump Lane, showed nothing at all, as it had shown nothing at all since the middle of the autumn before last, and the frame above it was a permanent brass surround bedded by hand around a bubbled temporary, and the reason was money, and there is no hand in it anywhere, and no form for it, and the district's line item has never once in two years covered a man and a crate sent forty miles.
+The ninth ward's signal glass, two thousand feet above the low end of the city, on the corner of Tannery Walk and Sump Lane, showed nothing at all, as it had shown nothing at all since the middle of the Bellweather month, and the frame above it was a permanent brass surround bedded by hand around a bubbled temporary that has been in it since the autumn before last, and the reason was money, and there is no hand in it anywhere, and no form for it, and the district's line item has never once in two years covered a man and a crate sent forty miles.
 
 And the claim sat in a tray in a records room with a card in a fair hand on it, and a second true copy sat in a locked box on the same floor, and the first thing in that box has been there since the third of the Bellweather month, and neither one of them was a document anybody could be shown.

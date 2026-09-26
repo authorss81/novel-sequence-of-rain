@@ -14,7 +14,7 @@ And a woman said, out loud, to a man she has known thirty years: "Nine minutes. 
 
 ---
 
-**And there was one other thing about the morning, and it is small, and it is the reason the ninth ward is going to spend the season without a window and be right to.**
+**And there was one other thing about the morning, and it is small.**
 
 **The district did not put the hours on the door of its own office.**
 

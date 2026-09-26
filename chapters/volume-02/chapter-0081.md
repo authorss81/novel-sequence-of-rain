@@ -25,7 +25,7 @@ Warrick is fifty-eight and has been a lighter on the sixth ward's water for thir
 
 ---
 
-**Here is the thing about a tide that nobody in this room had thought of, and it is the reason the chapter is called what it is called, and it is about four words long.**
+**Here is the thing about a tide that nobody in this room had thought of, and it is about four words long.**
 
 **A tide is arithmetic.**
 
@@ -123,7 +123,7 @@ It came in the middle of the sixth box, in the fair hand of a district clerk who
 
 ---
 
-**And at about six o'clock the assessor wrote a line into that column in the Office's weekly sheet, in the cold version, in the ordinary hand, for the Monday's printing — the fourth this volume and the fifth the column has ever had, and the column is still headed CLAIM — DISPLACED TURNS and the column still has no sponsor field and the heading still carries no disclaimer:**
+**And at about six o'clock the assessor wrote a line into that column in the Office's weekly sheet, in the cold version, in the ordinary hand, for the Monday's printing — the fifth the column has ever had, and the column is still headed CLAIM — DISPLACED TURNS and the column still has no sponsor field and the heading still carries no disclaimer:**
 
 *Tide, sixth ward, low side, lower than quoted, forty tons of stone not carried, morning of the thirtieth. Basis: a claim entered by a district. No branch of this office was closed.*
 

@@ -34,9 +34,9 @@ And on the ledge, in the book, in a column headed by a date in October, there is
 
 "I did it because the tobacconist's sheet comes four times a day and it is on my nail," said Gant Ollis, "and because I have a book and no reason to have a book."
 
-He showed her the whole of the fifth column, and the two-line note to a shed on the freight apron a hundred and forty miles down the hill road, and the sentence that came back: *it is the chain.* And he did not show her the holder, and she did not ask, and she was in that room for the best part of six hours with a working plate in its seat carrying a twelve-year-old Witness in its substrate, and neither of them ever went near it, and neither of them ever mentioned it, and that is the whole of what happened in that tower that day.
+He showed her the whole of the fifth column, and the two-line note to a shed on the freight apron a hundred and forty miles down the hill road, and the sentence that came back: *it is the chain.* And he did not show her the holder, and she did not ask, and she was in that room for the best part of six hours with a working plate in its seat carrying a twelve-year-old Witness in its substrate, and neither of them ever went near it, and neither of them ever mentioned it.
 
-**And she asked him two questions in six hours and both of them were about the weather and one of them was the best question anybody asked her all year.**
+**And both of the questions she asked him that day were about the weather, and one of them was the best question anybody asked her all year.**
 
 The first was at about half past seven, when she had been on the ladder and the feed for an hour and had worked out that the plate in the seat has a certain kind of mark on it that she had seen on about nine hundred pounds' worth of strip of sequence glass in her life and had never once seen on a plate that was being read by a person.
 
