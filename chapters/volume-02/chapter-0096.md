@@ -8,7 +8,7 @@ On the trestle there are three things. One is the bound book about two inches th
 
 **The temporary compensation ledger expires at the end of the financial year. It is a ledger and not a fund. It pays documented loss only. It has paid one claimant and refused another in the same afternoon.**
 
-Peascod works the payment page with the flat of his hand, because a ruled book that has had a wet thumb on it in October has a curl in it and the entries are in a fair hand and he is not going to have the curl put a smudge through the seventh and six.
+Peascod works the payment page with the flat of his hand, because a ruled book that has had a wet thumb on it in the autumn has a curl in it and the entries are in a fair hand and he is not going to have the curl put a smudge through the seventh and six.
 
 The page reads as it reads. The ninth ward, seventh and six, the window of the morning of the seventeenth of Drownmonth given up in writing to stop a second sale, the Exchange's published price, the one and four refused in a column beside it for want of a record, and under that the salvage man refused in the same afternoon because a claimant must be a district. Four entries in the book altogether, and the first of them is nineteen words long and says the figure is unknown, and it is still the line everybody can say without looking.
 
