@@ -95,3 +95,16 @@
 - **Gant Ollis:** sixty-three or sixty-four and deliberately not pinned, keeper eleven years, and he has given a counter-reader the keepers' argument without being asked: *a record is a thing somebody can be asked for, and I have had this chair eleven years and I have never once been asked for anything out of it.* He showed her the fifth column and the note to a shed and did not show her the holder, and she did not ask, **and neither of them went near the plate in the seat.**
 - **Dessie Trask, Bram Slee, Ivy Tranter, Ampow, Teodora Bain, Marda Loon, Renn Sallow, Doak, Pet:** all carried forward unchanged. **Renn Sallow's quotation for a second point on the reach, ninety feet from the first, is still on Mear's desk in pencil and is not answered in this batch.**
 - **Warrick:** fifty-eight, a lighter on the sixth ward's water for thirty-one years, four flat-bottomed lighters and a chain barge and a lighterman and two men, and **the only man in this basin who has voluntarily said he would rather the ground were a place than a resource, and who has now written down what that costs him, in pencil, and refused to put a figure on it.**
+
+## Volume 02 close — end of Batch 0004 (Chapter 96)
+
+**Marek Vale:** censured private reader, Tracer in method only, about £1 12s. Sponsored/attested nothing in Batch 0004; absent from ward's own binding. Ear worse left (shelf; figures twice in Ch 84, 89, 92), undisclosed to all. Saw bleed once (Ch 92), unreported, still intends to tell, no fourth block. Partnership offered in yard, unanswered.
+**Sable Orin:** attested Miremonth window (order only); paid 1s/week, terms restated, better, still not consent; shutter 3d/week unlearned.
+**Neris Kade:** bound ward's window, paid at 7/6, refused 1/4, both correctly; page seven lines, eighth unwritten; shelter rota unmanaged; lit-glass money managed.
+**Sabin Orle:** held hearing, admitted three documents, paid one/refused another same afternoon; clause-four defeat administered correctly.
+**Anwen Sarr:** refused fourth time, correctly, no temper, no consolation; owed nothing.
+**Garrick Dellow:** asked, produced, admitted, refused as claimant; schedule retained as measure; no fuss.
+**Tovan Iles:** copy clerk throughout; box two→three (third: private sixth-ward copy incl. seventh box); first asker Kell Bray; permanent, unthanked.
+**Maro Hesk:** correct, more frightening; withdrawal stands; no price on it.
+**Tarin Senn:** said *partnership* once in yard; disagreement real, public; no romance.
+**Malle:** staffing, frightened, no obstruction/redemption. **Rook:** in print once; 14+15 stand; more frightening. **Oren** offstage. **Anja** dead. **Venn** unnamed. **Gant Ollis** never looked at substrate. Gangs/figures/counters unchanged.

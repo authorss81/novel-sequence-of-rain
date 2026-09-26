@@ -1,14 +1,14 @@
 # Current State
 
-Current phase: **Volume 02, Batch 0003 is COMPLETE.** Chapters 1–48 (Volume 01), Chapters 49–58 (Volume 02 Batch 0001), Chapters 59–70 (Batch 0002) and Chapters 71–82 (Batch 0003) are finished prose.
+Current phase: **Volume 02 is COMPLETE.** Chapters 1–48 (Volume 01) and Chapters 49–96 (Volume 02, Batches 0001–0004) are finished prose.
 
-Current volume: 2 (`outline/volume-02.md`, four batches: 49–58, 59–70, 71–82, 83–96). **Batches 0001, 0002 and 0003 are done. Batch 0004 is not started and the only prompt for it is the one this phase created at `workspace/volume-02/batch-0004/PROMPT.md`.**
+Current volume: 2 (`outline/volume-02.md`, four batches: 49–58, 59–70, 71–82, 83–96). **All four batches are done. The only next prompt is `workspace/volume-03/batch-0001/PROMPT.md` (Volume 03, Batch 0001, Chapters 97–108).**
 
-Last completed chapter: **0082 — The Number On The Board**
+Last completed chapter: **0096 — Lit for Money**
 
 Last batch summary: `state/batch-summaries.md`, *Volume 02 — Batch 0003 (Chapters 71–82) — ACT III, The Price of Preparation*
 
-Prose status: **eighty-two chapters exist**, in `chapters/volume-01/` and `chapters/volume-02/`. **Volume 01: forty-eight chapters, 172,671 words. Volume 02 Batch 0001: ten chapters, 36,887 words. Batch 0002: twelve chapters, 44,697 words. Batch 0003: twelve chapters, 32,827 words** (71: 2,733; 72: 2,806; 73: 2,895; 74: 2,603; 75: 2,590; 76: 2,528; 77: 2,537; 78: 2,773; 79: 2,679; 80: 2,607; 81: 3,146; 82: 2,930). **Volume 02 now stands at 114,410 words in thirty-four chapters.** The plan's per-chapter figure does not describe this manuscript and no scene is padded to reach it. **Every one of these figures was re-measured after the Batch 0003 review repairs; the earlier Batch 0001, Batch 0002 and Volume 01 totals in this file were stale by up to about three thousand words, because they were measured before later repair passes added words to those chapters.**
+Prose status: **ninety-six chapters exist**, in `chapters/volume-01/` and `chapters/volume-02/`. **Volume 01: forty-eight chapters, 172,671 words. Volume 02: forty-eight chapters, 129,983 words** (Batch 0001: ten chapters, 36,887 words; Batch 0002: twelve chapters, 44,697 words; Batch 0003: twelve chapters, 32,827 words; Batch 0004: fourteen chapters, 15,092 words). No scene is padded to reach any per-chapter figure.
 
 ---
 

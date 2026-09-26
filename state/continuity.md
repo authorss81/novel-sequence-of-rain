@@ -698,3 +698,38 @@ The temporary compensation ledger has **one line in it, and the line is a statem
 
 ### WORD COUNT
 Batch 0003 is **32,827 words across twelve chapters** (71: 2,733; 72: 2,806; 73: 2,895; 74: 2,603; 75: 2,590; 76: 2,528; 77: 2,537; 78: 2,773; 79: 2,679; 80: 2,607; 81: 3,146; 82: 2,930), after the review repairs, which removed 104 words of narrator over-explanation and added none. **The plan's per-chapter figure of 2,800–4,200 does not describe this manuscript and no scene is padded to reach it.** Volume 02 now stands at **114,410 words in thirty-four chapters.**
+
+## Prose canon from Volume 02, Batch 0004 (Chapters 83–96) — ACT IV, THE LEDGER
+
+**Volume 02 is complete. Nothing below is a plan; everything below happened. Batches 0001–0003 above are unaltered and remain the authority for Chapters 49–82.**
+
+**CALENDAR, prose canon and the authority. Drownmonth has 30 days (Tue–Wed). MIREMONTH is the third month of the wet quarter, named in Chapter 83 in Sabin Orle's mouth, plainly, once: *Put Miremonth.* Miremonth has 30 days; the 1st is a Thursday.** Batch runs Miremonth 1–19. **The season's third back-cut is the morning of the 11th of Miremonth, the smallest of the three.** No Gregorian month names; civil months are Bellweather, Sleetmonth, Drownmonth, Miremonth; years/seasons by year, season, *the autumn*, *the spring*. Spans as dates only; no state file says eleven weeks.
+
+| Ch | Miremonth | Weekday | What happens |
+| --- | --- | --- | --- |
+| 83 | 1 | Thursday | Third month named; ledger one line read; Neris page seven lines, eighth unwritten; shelter card unmanaged. |
+| 84 | 2–3 | Fri–Sat | 7/6 vs 1/4 is five and a half (said once); withdrawal has no price; yard 2s chalked; ear asked twice. |
+| 85 | 4–5 | Sun–Mon | Ward works trace hours on four shutters; Sable term restated; Dellow papers unasked, unmentioned. |
+| 86 | 6 | Tuesday | Tovan's third object: private true copy of sixth-ward claim sheet incl. seventh box; box now three; first asker Kell Bray. |
+| 87 | 7–8 | Wed–Thu | Ninth ward binds Miremonth window (sponsor N. Kade, attestation S. Orin, Marek absent). Batch's only binding + panel. Column gains a new window line. |
+| 88 | 11 | Sunday | Smallest back-cut; Mear has both documents, does not join them; Anwen 41st reading. |
+| 89 | 12–13 | Mon–Tue | Malle staffing/frightened; Rook in print (14+15 stand); trace check; ear undisclosed. |
+| 90 | 14 | Wednesday | Hearing day one: Neris admitted/not compellable; Tovan uncalled; 1/4 refused (no record); 7/6 only price; Anwen refused fourth. |
+| 91 | 14–15 | Wed–Thu | The asking: Dellow produces two sheets, quoted full, admitted; refused as claimant (not district). |
+| 92 | 15 | Thursday eve | Held trace; bleed seen once as physical fact, unreported, unremarked; still untold, still intends, no fourth block. |
+| 93 | 16 | Friday | Ledger pays ward at 7/6, refuses 1/4 (no record), refuses Dellow same afternoon; 2/6 stands for season. |
+| 94 | 17 | Saturday | *Partnership* once, yard, woman to man, unanswered; public professional disagreement; no romance. |
+| 95 | 18 | Sunday | Glass dark for money (oil/keeper hours unpaid; ledger money unreleased). |
+| 96 | 19 | Monday | Ledger open (*available responses* dated, nothing under) + salvage schedule priced; column head CLAIM→LOSS by clerk completing form; tower lit for money (hours+oil from ledger; no pane fitted, nothing repaired). |
+
+**THE HEARING (one hearing, not a fight):** Neris page admitted, not compellable, still. Tovan copies unknown, unasked. Dellow schedule admissible — ordinary commercial document, only one pricing a preparation — because somebody asked; asking stopped it being his. **Nobody asked before the hearing; no clerk/assessor/reader/ward mentioned the papers before it.**
+
+**THE REVERSAL (mechanism):** record-keeping rule (18-page return is internal district record per Malle; computation is firm's property for 11s); definition (claimant must be district; figure must be entered or published by claimant); dates (computation 17th Sleetmonth after claim; furnished 2nd); expiry (2/6 stands for season); stamp (minutes copies, tray, cell). Ledger pays ward at 7/6 (only published price), refuses 1/4 (never entered/published by ward), refuses Dellow (not district) same afternoon. Clause four defeats author fourth time, correctly, room, clerk. 7/6 vs 1/4 is five and a half, said once (Ch 84, Ch 90).
+
+**RESOLUTIONS (all seven):** 1) Exchange cannot conceal Bellweather dry line — Mear has both documents, does not join; reader knows why; two thirtieths never joined, never confused. 2) Ledger provisional, expires end financial year, not fund, documented loss only, pays one/refuses another same afternoon. 3) Right to refuse real/cheap/correct/insufficient — said in volume's mouth (Ch 90). 4) Reach priced, wrong, wrongness is finding (five and a half). 5) Marek: ear sentence (shelf, figures twice, undisclosed, Sable unlearned) + second-reader sentence (terms better, still not consent). 6) Tovan copy clerk throughout; box 2→3; first asker Kell Bray (not Tovan); demotion permanent; no thanks; shelter rota unmanaged. 7) Sable paid with conditions, better, still not consent; shutter 3d/week (£1 6s/two years) never learned.
+
+**FINAL IMAGE (Ch 96, fixed):** hearing room, basin house, ledger on trestle (*available responses* dated, nothing under) + salvage schedule priced; wall returned ledger, column head changed CLAIM→LOSS by clerk completing form's alternative head, season window line naming what closed not who; downhill rain, ninth-ward signal glass lit first time since middle Bellweather — lighting-up not restoration; dark for money Ch95, lit for money Ch96; no pane fitted, nothing repaired; keeper hours+oil paid from ledger payment. Nobody learns why so long. No hands in anything.
+
+**BINDINGS/PANELS:** one + one, Ch 87 only (ninth ward, sponsor N. Kade, attestation S. Orin). Four Volume 02 spends (58, 68, 81, 87), none Marek's. All five branches (21, 29, 58, 68, 81) closed/unprovable. No second tide. Second of two remaining held in reserve.
+
+**WORD COUNT:** Batch 0004 is 15,573 words in fourteen chapters. Volume 02 stands at 129,502 words in forty-eight chapters. Scenes complete, unpadded; density below Batch 0003, recorded honestly.

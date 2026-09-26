@@ -376,3 +376,65 @@ ONE POSSIBLE TURN WILL CLOSE.
 ### Chapter 0082 — The Number On The Board
 
 *POV Edda Tarn. The sixth ward's low side from four minutes past seven on the Wednesday the thirtieth, then the Exchange's forward board at eleven, then Tannery Walk at about twenty to twelve. **Turn and cliff.*** The tide comes up to six foot seven and stops. Forty tons do not go on. The masons are in the yard at seven, are released at seven, and are paid for the morning. Four lighters go down the reach at the turn empty. A crew stands on a quay for three hours and is paid. **A stone merchant's clerk takes Warrick's tide off him in nine words and goes away without a word about money, which is what Warrick says he expected and is the only time in thirty-one years a merchant has done that without arguing first.** The quay wall waits a month; there is one tide left and it is the small one and it takes the lighters at half, in nine hours instead of six. **Nothing is refunded. Nothing reopens.** At eleven the firm puts a paragraph and a figure where the reach line was, and the figure is **one and four**, and under it, in the firm's own hand: *the Bellweather reach is not quoted by this firm this season — this firm has struck this line through twice in one quarter, at one price, in public, under its own refund rule, and a market which has struck a line through twice cannot go on selling the thing behind it, and we are not going to try* — with the instrument, its accuracy, **a level, a level is not a sequence and this firm has said so in public on the 21st** — and then the district's figure with the receipt: ***computed by this firm on the seventeenth of Sleetmonth out of a return of the ninth ward's clearing rota, shelter rota and pump order. Eighteen pages. Furnished to this firm on the second of Sleetmonth, for eleven shillings, by a councillor of the ninth ward, out of a book, in a coat, on a vote taken at four o'clock on a Wednesday.*** And ***we print it because we have no other figure, and because a market which cannot sell a reach has to admit that a number exists, and the only number in this basin that it owns is one it bought for eleven shillings.*** **Signed in his own hand by Maro Hesk, in the counting floor, with about twenty people in it, and the reason printed in full, and the price of the withdrawn line not printed at all** — a window not opened is refunded at the quoted price and the price published, and a line withdrawn with nothing against it has no price and the rule does not reach it. On three boards: the counting floor, the quotation hall, and the free district sheet twice a day at a counter on Tannery Walk. **A nineteen-year-old's note under the paragraph: the district has not been paid it, has not been asked whether it may be printed, and has not been asked whether the firm still holds it. The firm holds it.** Three feet away on the same wall is the Office's weekly sheet carrying the Bellweather reach line for the morning of the thirtieth of the Bellweather month — a window quoted and not opened, no reason in it — and **nobody joins them, because joining them takes one sentence and the sentence takes a reader, and the reader is a censured man on a bench on the ridge who cannot be put in a sponsor's line and has not been asked.** And the last scene: at about twenty to twelve, on Tannery Walk, in the rain, **Neris Kade reads her own district's figure on a market's board with the receipt for eleven shillings underneath it**, puts her hand out and takes it off the shutter because of a rule she has had since the winter, and says: *there is nobody in this city who can say who decided that, and there is no column in the world that says a figure is only yours if you say so.* And then: **no, not today. Today I have a tide coming at eleven minutes past four at the south end and a ward that has been told its own hours for the first time in its life, and I am going to go and write all of it on a shutter and get it to the school before eight, because the children walk up.** *No spend, no panel, no claim. The binding of Chapter 81 holds and is discharged on its own expiry.*
+
+---
+
+# Volume 02 — Batch 0004 (Chapters 83–96) — ACT IV, THE LEDGER
+
+**Clock.** Miremonth 1 is a Thursday (Drownmonth had 30 days, Tue–Wed); batch runs Thursday the 1st of Miremonth to Monday the 19th. Miremonth has 30 days. Season's third and smallest back-cut: morning of the 11th. Ordinary clock hours used freely; nothing states an hours-to-arrival. **One binding and one System panel in the batch, Chapter 87 only, sponsored by the ninth ward and attested by S. Orin; Marek sponsors nothing and attests nothing in this batch.**
+
+### Chapter 0083 — The Third Month
+
+*Basin house and Low Spindle, Thursday the 1st of Miremonth.* Kell Bray carries the nine addresses still refused for want of a schedule; the ledger's one nineteen-word line (figure unknown, 2/6) read aloud. **Sabin Orle names the new month once, in her mouth, plainly: Miremonth, thirty days from today.** Neris banks the second shilling, reads 1/4 on the firm's wall, checks the school shutter; her page stays seven lines, the eighth unwritten; shelter card untouched, not managed. Tovan copies minutes; no thanks. *No spend, no panel.*
+
+### Chapter 0084 — The Asking Price
+
+*Counting floor and Kestrel Yards, 2nd–3rd of Miremonth.* Edda Tarn defends printing 1/4 (only number owned); withdrawal carries no price so refund rule does not reach it. **Mear does the arithmetic once on the page: 7/6 against 1/4 is five and a half times, both defensible, difference is what the Exchange knows about its buyers; pencil instruction never to print it.** Fourth party still unasked. Tarin chalks the 2s receipt (invoiced Fri 25th, posted Sat 26th 2d, receipted Wed 30th); no thank-you. Marek asks a figure twice (ear, physical, undisclosed). *No spend, no panel.*
+
+### Chapter 0085 — A Ward's Own Hours
+
+*Low Spindle and the south bank, 4th–5th of Miremonth.* Ward works trace hours (half past one / eleven past four, nine minutes on all four shutters, school before eight). Sable restates term (not consent; shutter at 3d/week unknown to her). Dellow's two sheets unasked-for, unmentioned by all; gangs restated without migration; timber second season vs wall third season kept separate; water-office table two years about nine months. *No spend, no panel.*
+
+### Chapter 0086 — The Third Thing
+
+*Tovan POV, west end of records room, 6th of Miremonth.* She makes the Office minutes copy of the sixth-ward sheet, then a **private true copy of the sixth-ward claim sheet including the whole seventh box (pencil), dated/timed/initialled, into her box without asking — the volume's reserved third object: true, one thing, a copy clerk's work.** Box now three. First asker about any copy is Kell Bray (minutes procedure), not Tovan; counts unlearned by all including her. Demotion permanent, no thanks; glass dark since middle Bellweather, temporary since autumn before last. *No spend, no panel.*
+
+### Chapter 0087 — The Miremonth Window
+
+*Ninth ward district office, 7th–8th of Miremonth.* Ward binds its Miremonth second-day reach window for itself: sponsor N. Kade, concurring seat ninth ward 8–1, **attestation S. Orin (order only); Marek absent, unasked.** Seventh box (fifth in city) with schedule, no sum. Bell struck; ward head dark (middle Bellweather; temporary autumn before last). **One binding, one panel (quoted verbatim).** Tide arithmetic used as method (districts acting; no second tide). Column gains sixth line (window, names what closed not who). All five branches stay closed. *One binding, one panel.*
+
+### Chapter 0088 — The Small Back-Cut
+
+*South bank, Exchange second floor, Hearthward, 11th of Miremonth.* Season's third and smallest back-cut, morning, smallest of three. Petrie's book; timber vs wall counters separate. Small tide at half; Warrick waits. **Mear has Office sheet and firm paragraph before him and does not join them; reader knows why (joining takes a reader; censured, unasked).** Two thirtieths kept apart. Anwen reads Circulars 14 (true) and 15 (closing) forty-first time; refused three times, fourth coming; no temper. *No spend, no panel.*
+
+### Chapter 0089 — The Two Thirtieths
+
+*Ridge shop, Office, south bank, 12th–13th of Miremonth.* Malle staffing, frightened, one true sentence; no obstruction/redemption. Rook in print once: 14 stands, 15 stands, no new instrument; more frightening. Hearing notices; Dellow unasked, papers unmentioned by all. Trace check holds (half past one / eleven past four, nine minutes); Sable terms better, still not consent; shutter 3d/week still unknown to her; ear beat (figure twice, undisclosed). Oren offstage; Anja dead; no facts side by side; no Crown Basin. *No spend, no panel.*
+
+### Chapter 0090 — The Hearing, First Afternoon
+
+*Basin-house hearing room, 14th of Miremonth, two o'clock.* One hearing, not a fight. Ledger on trestle (provisional, expires end financial year, not fund, documented loss only). Neris seven-line page admitted, not compellable. Tovan not called, copies unknown. **1/4 refused as ward's figure for want of record (never entered/published by ward; return internal per Malle; computation firm's; Council may not invent; period not sum). 7/6 admitted as only published price (five and a half, said once).** Anwen's side-by-side demand refused within hour; fourth refusal, no temper, no consolation. Right-to-refuse sentence spoken for Volume 01's audience. *No spend, no panel.*
+
+### Chapter 0091 — The Asking
+
+*South-bank shed and hearing room, 15th of Miremonth.* On Mear's pencil note (only intending party can price preparation; fourth party unasked) the assessor's asking reaches Dellow: may I ask for your papers. **Dellow produces the two sheets; quoted in full (as Ch 80).** Admissible: ordinary commercial document, only one pricing a preparation. **Refused as claimant same scene (not a district; no box/form/bell/copy but one), schedule retained as measure.** Stops being his. No fuss. *No spend, no panel.*
+
+### Chapter 0092 — The Held Trace
+
+*Maintenance shop and tower wire, evening of the 15th.* Marek + Sable hold trace to check Miremonth hours. **He sees a movement in the middle in neither end, about a fifth of a second, arriving before its movement and going when it goes; does not report; nobody remarks; Sable/Orle/Tovan/Tarin neither see nor hear.** Ear beat (hour twice down wire, undisclosed). Write-up on Circular 15 back; cuff third block full, no fourth. Ends: still untold, still intends to. *No spend, no panel.*
+
+### Chapter 0093 — The Ledger Pays
+
+*Hearing room, afternoon of the 16th.* **Ledger pays ninth ward at 7/6 for window given up (only published price; documented: entered claim, seventh box, concurrence, published price, refunds, struck lines, salvage measure) and refuses 1/4 for want of record; refuses Dellow as claimant same afternoon (schedule retained as measure).** 2/6 stands for season, not re-derived; paid for morning not wall. Clause four defeats author fourth time, correctly, room, clerk. Hesk correct, more frightening; no obstruction from Malle. *No spend, no panel.*
+
+### Chapter 0094 — Partnership
+
+*Kestrel Yards, 17th of Miremonth, morning shift in earshot.* Public professional disagreement (shilling vs two shillings; attribution vs dependability). **Tarin says *partnership* once, describing yard-and-reader arrangement; Marek does not answer; volume ends without answer.** No romance/rescue/jealousy. Board: 2s receipt, fifth condition; district shilling the district's business; readers unasked. *No spend, no panel.*
+
+### Chapter 0095 — Dark for Money
+
+*Tower, shop, records room, district office, 18th of Miremonth.* **Glass dark for money: lamp trimmed, oil short, keeper's hours unpaid; ledger 7/6 entered but not yet released (ledger not fund; post takes days).** Ollis never looks at substrate; spare still boxed. Three uncompellable books unasked. 4486/crown unlearned; ladder unclimbed. Tovan box three, uncounted. Shelter rota unwritten, not managed. *No spend, no panel.*
+
+### Chapter 0096 — Lit for Money
+
+*Basin house and ninth-ward tower, 19th of Miremonth, rain.* **Fixed final image.** Ledger open on trestle: *available responses* page dated, nothing under; salvage schedule beside, priced. Wall: returned ledger column with season's window line (names what closed not who); **head word changed CLAIM→LOSS by clerk completing form's alternative head, uncosted.** Downhill: **tower signal glass lit first time since middle Bellweather — lighting-up not restoration; dark for money Ch95, lit for money Ch96; no pane fitted, nothing repaired; keeper's hours + oil paid from ledger payment.** Nobody learns why so long. No hands in anything. Bleed last sentence: still untold, still intends, no fourth block. Volume closes. *No spend, no panel.*
