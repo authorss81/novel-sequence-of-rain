@@ -20,7 +20,7 @@ The market's low yard is clear for the first time since the autumn. That is the 
 
 She wrote the days in the book, because the days are what the book is for.
 
-She walked up to the pump house on the Saturday morning with the lantern still in her hand because it wanted trimming and there is nobody else who will do it. It was the first day of Frostmonth, and the month had begun on a Friday, and the district has been getting used to saying the name for two days and has not settled into it. Marda Loon was in there with the book open on the sill, and the two of them looked at it for a while without saying anything much.
+She walked up to the pump house on the Saturday morning with the lantern still in her hand because it wanted trimming and there is nobody else who will do it. It was the first day of Frostmonth, and the month had begun in the night, and the district has been getting used to saying the name since the thirtieth and has not settled into it. Marda Loon was in there with the book open on the sill, and the two of them looked at it for a while without saying anything much.
 
 "You have it all in there," said Neris Kade.
 
@@ -58,7 +58,7 @@ There were four places on Friday. There are five on Tuesday, and the fifth is on
 
 She went on doing it. Nobody has asked her. There is no column in the ninth ward's district book that takes a woman's Tuesdays.
 
-The shilling came in on the Tuesday from the firm, and the tin stands at two and fourpence, and the oil is three and six and is bought on a Saturday by a man who has carried a can up that ladder twice since the eighteenth and has never been thanked. The lamp is still out. The keeper's evening hours for that week are a shilling and are unpaid. The only line any of it has ever got is in the pump hours column, and it says *27th. Lamp out at half past six. No oil. Keeper paid to the 27th.*
+The tin stands at one shilling and fourpence, which is the whole of it and has been since the twenty-seventh of Miremonth, when a shilling came in and was not spent, and the oil is three and six and is bought on a Saturday by a man who has carried a can up that ladder twice since the eighteenth and has never been thanked. The lamp is still out. The keeper's evening hours for that week are a shilling and are unpaid. The only line any of it has ever got is in the pump hours column, and it says *27th. Lamp out at half past six. No oil. Keeper paid to the 27th.*
 
 ---
 

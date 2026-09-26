@@ -1,6 +1,6 @@
 # Chapter 117 — A Place Is A Thing
 
-The Council's technical cell posted a notice on the sixteenth of the month, on the board outside the basin house and in a hand to nine district offices, and it was a standing day and a printed head, and Wend Lyle read it in the counting floor on the Wednesday morning with a cup of water he did not drink.
+The Council's technical cell posted a notice on the Tuesday of the eighteenth, on the board outside the basin house and in a hand to nine district offices, and it was a standing day and a printed head, and Wend Lyle read it in the counting floor on the Wednesday morning with a cup of water he did not drink.
 
 *Fourth Thursday of each month. That a district state in writing what it is able to do about its water. Head printed, enclosed. Not obliged. A district which cannot answer may say so, and saying so is an answer.*
 
@@ -62,9 +62,9 @@ He asked what a request for a district's own papers looks like. He asked it the 
 
 A request for a district's own papers requires a district. In writing. Signed by a person in the district who can be identified afterwards, on a form, with the ward's name at the head of it, and the request goes to the district and not to this office, and this office cannot make a district send anything, and has never tried, and is not going to.
 
-And the whole of it, he worked out on the step, in about ninety seconds, on the Monday the seventeenth, is that a printed head and a standing day and two shillings at a counting floor are not a machine for taking things. They are a machine for asking, once a month, in a form, in the same words, whether anybody wants to hand anything over. And a district that fills it in has agreed to be asked, and a district that has agreed to be asked once has agreed to be asked for ever, and there is no box in that head that says any other thing.
+And the whole of it, he worked out on the step, in about ninety seconds, on the Monday the twenty-fourth, is that a printed head and a standing day and two shillings at a counting floor are not a machine for taking things. They are a machine for asking, once a month, in a form, in the same words, whether anybody wants to hand anything over. And a district that fills it in has agreed to be asked, and a district that has agreed to be asked once has agreed to be asked for ever, and there is no box in that head that says any other thing.
 
-*Sixth ward: a minute book, offered on request, to a district, and not to a Council. Eight days ago.*
+*Sixth ward: a minute book, offered on request, to a district, and not to a Council. Four weeks ago.*
 
 *Fourth ward: a page on a board, a shilling a week refused in writing, a form put face down on a counter.*
 

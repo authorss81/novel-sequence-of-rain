@@ -62,7 +62,7 @@ There is a day. There is a week. There is a line. And there is no column for wha
 
 "Then what is it for?"
 
-""It is for the basket," said Tovan Iles. "A return is a receipt for transit. It says the basket went. It does not say what was in it, and it was never printed with a place for it, and anybody who wants you to think otherwise has not been in here."
+"It is for the basket," said Tovan Iles. "A return is a receipt for transit. It says the basket went. It does not say what was in it, and it was never printed with a place for it, and anybody who wants you to think otherwise has not been in here."
 
 He thanked her and she went back to the third desk and picked up her pen and did not lift it for the rest of the afternoon, and nobody thanked her for anything, because nothing had happened, and because she is a copy clerk, and because the demotion from the third of the Bellweather month is permanent and there is no post in this building in which being right about a rule book is the description of her work.
 
@@ -104,7 +104,7 @@ Tovan Iles wrote the name on the slip. She wrote the date. She wrote the four mi
 
 "You'll let me have the book?"
 
-"You will not have the book. "Nobody has ever had this book. You will have a copy of eleven days of it on a sheet, made in this room, in my hand, and it will be true, and a true copy is true whatever the reason it was asked for, and if your firm sells it I will not know and I would not be able to tell you that I had not known."
+"You will not have the book. Nobody has ever had this book. You will have a copy of eleven days of it on a sheet, made in this room, in my hand, and it will be true, and a true copy is true whatever the reason it was asked for, and if your firm sells it I will not know and I would not be able to tell you that I had not known."
 
 He took the slip and went up, and it was the fastest four minutes of his working life, and he did not sleep much that night, and the two things he thought about were that the basket return had no column for its contents and that a person had stood next to him in a room and told him so, and that she had told him so before he had asked, and that she had told him so as a matter of course, in the tone of a woman correcting a printer.
 

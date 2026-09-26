@@ -42,7 +42,7 @@ She stood in the yard with the brush in her hand for about six minutes and did n
 
 ---
 
-The letter from the third ward came on the same afternoon, three days in the post, and it went in after the other two, and it is the first letter anybody in this basin has ever written to her about a sheet she gave away, and it is four lines and it is the correctest thing that has come through that door in a year.**
+The letter from the third ward came on the same afternoon, three days in the post, and it went in after the other two, and it is the first letter anybody in this basin has ever written to her about a sheet she gave away, and it is four lines and it is the correctest thing that has come through that door in a year.
 
 *To the reader who came to this office on the fourteenth of Drownmonth. The district has your sheet and a copy of it and has had it since that day. The district placed it at the coal steps and the water came at twenty minutes to five, as you said. Nobody was hurt.*
 
@@ -56,7 +56,7 @@ A name on a sheet makes it a notice. A notice can be refused. A reading that can
 
 And if it can be refused, it will be. Not out of malice. Out of an ordinary Wednesday, in a room, by nine people who have a wall and a market and a gauge, who have no reason to be hostile to her and no reason to be careful with her either.
 
-**She took out a sheet and wrote the answer on the Monday, and it took her three attempts and about an hour, and the thing she finally wrote is not a refusal of the third ward and is not a yes, and she sent it on the Tuesday at a cost of twopence out of her own hand.
+**She took out a sheet and wrote the answer on the Monday, and it took her three attempts and about an hour, and the thing she finally wrote is not a refusal of the third ward and is not a yes, and she sent it on the Tuesday at a cost of twopence out of her own hand.**
 
 *To the clerk of the third ward. I cannot put my name on it, and I am going to give you the whole of the reason and not a part of it, because you have given me your whole reason and the fourth ward is right about the practice and I am not going to be the reader who only gives half.*
 

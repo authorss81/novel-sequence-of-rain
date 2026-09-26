@@ -32,9 +32,15 @@ She did not go up the ridge about it. She went up that ridge once, in the rain, 
 
 What she wrote instead went in her own minute, in a drawer of her own, because nobody has ever asked her for a minute in eleven years:
 
-*Certified. The sponsor is a water steward and not an officer of this Council and cannot be indexed. The resource relied on is a book in her own hand kept at a pump house, of which this office has held a copy since the sixteenth. This office has never held a district paper. It now holds one, of which no duplicate exists anywhere, of a district's own capacity, and the district did not know that it was a record until this claim.*
+*Certified. The sponsor is a water steward and not an officer of this Council and cannot be indexed. The resource relied on is a book in her own hand kept at a pump house, of which this office has held a copy since the fourteenth. This office has never held a district paper. It now holds one, of which no duplicate exists anywhere, of a district's own capacity, and the district did not know that it was a record until this claim.*
 
 *No action. I have been an assessor for eleven years and I do not know what to do with that and I have not found anybody in this building to ask.*
+
+There is a third thing in that drawer and it is why there is a fourth. In Drownmonth the Hearthward assembly submitted this Council a standing requirement on its own paper, separately, and asked for it to be read, and it says that no claim certified under the Charter be entered without the cost of that claim being published at the point of entry, or the sponsor recording in writing that the cost cannot be made public and why. No minute of this Council has adopted it. Nobody in this building has ever been told that it binds anybody. It is the most quoted sentence in the west end and it is not a rule.
+
+And this claim entered no cost at the point of entry.
+
+*Third. The standing requirement of the Hearthward assembly, of Drownmonth. Not adopted, not binding, and not enforced by this office. This claim entered no cost at the point of entry. The resource line is the cost and the resource line is not a column. The sponsor has not recorded in writing that it cannot be published, and I have not asked her to, and there was nobody in this room to ask me whether I was permitted to. The assembly that submitted it refused a claim in front of nine witnesses a season ago because of it and got nothing, and was right, and I have entered one against it this afternoon and said nothing to anybody about it. Noted. Not enforced. Nobody has asked me to enforce it.*
 
 ---
 

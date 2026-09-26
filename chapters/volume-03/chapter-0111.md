@@ -28,11 +28,11 @@ He had never had a district do anything on its own authority that he could put a
 
 Then, on the night of the fourteenth, about ten o'clock, with the water a foot deep four hundred yards away and nothing happening on the steps, the district clerk of the third ward stood in a schoolroom with thirty-nine children in it and a lamp on a barrel and did the thing that made it a district act rather than a piece of luck.
 
-He wrote it out, in longhand, on the back of a requisition for thirty-nine candles, in about nine minutes, and he read it out to the room, and he asked three people to sign it, and two of them signed it and the third was a woman of sixty-eight who said she would sign anything for this ward and he made her write her name in full.
+He wrote it out, in longhand, on the back of a requisition for thirty-nine candles, in about nine minutes, and he read it out to the room, and he asked three people to sign it, and all three of them signed it, and the third was a woman of sixty-eight who said she would sign anything for this ward and he made her write her name in full.
 
 *Fourteenth day of Drownmonth, about ten at night, the schoolroom. The ward has put the lower room out of use, and the six households at the third house and above are in the two upper floors, and the water came at twenty minutes to five as the sheet said it would, and the wall is the coal steps, and the place was put on the wall by Rennick, who is forty-one and has been on it since he was nine, and the reading was brought into this office by a person whose name is not on it, and there is nobody else to ask.*
 
-The third signature is the whole of the good case and it is on a piece of paper in a schoolroom in a lock ward, and it is the only document in this basin that says a reading was right and a person put water on the right street, and the person is not named on it, and the document is produced without asking anybody, because the district made it for itself on the night, in a room, in front of witnesses.**
+The third signature is the whole of the good case and it is on a piece of paper in a schoolroom in a lock ward, and it is the only document in this basin that says a reading was right and a person put water on the right street, and the person is not named on it, and the document is produced without asking anybody, because the district made it for itself on the night, in a room, in front of witnesses.
 
 ---
 
@@ -46,7 +46,7 @@ It can be produced. He is the clerk. It is the only thing in the third ward in s
 
 Four of them in nine days. A man pricing a market for the steps. A woman with a notebook who wanted the copy for a shop window. Two clerks from a counting floor who said the same thing in the same words, which is that they wanted to know whether the district would *endorse the sheet*, and he said no, and they said thank you, and went away, and the fact that they said thank you is the part he has not been able to put anywhere.
 
-"They did not want the reading," he said. ""They wanted the district's name next to it. And the district will not put its name next to a thing it cannot check, and that is not a rule we have got, it is just what happened when we tried.""
+"They did not want the reading," he said. "They wanted the district's name next to it. And the district will not put its name next to a thing it cannot check, and that is not a rule we have got, it is just what happened when we tried."
 
 ---
 
@@ -54,7 +54,7 @@ The council rehashed the fourteenth in full and confirmed the action nine to not
 
 "We'd have done it," Ferrow said. "Two hours later, and we'd have got the schoolroom wet, and it wouldn't have been anybody's fault, and we'd have done it off the same sheet, because there is no other sheet."
 
-"So the third ward has a document proving it was right, produced in front of nine men who voted on it, entered in a minute book with a spine on it, available to anybody who comes to the office and asks," said Amery, writing it out. "**And it has no cause. It has a corridor and an hour and a woman who will not be named in it, and the district cannot say to a council, a firm, a newspaper or a court: here is why we did what we did, here is the paper, and here is the person who told us."
+"So the third ward has a document proving it was right, produced in front of nine men who voted on it, entered in a minute book with a spine on it, available to anybody who comes to the office and asks," said Amery, writing it out. "And it has no cause. It has a corridor and an hour and a woman who will not be named in it, and the district cannot say to a council, a firm, a newspaper or a court: here is why we did what we did, here is the paper, and here is the person who told us."
 
 It is the only district in this basin that could produce a record of a correct act and the only district in this basin that could not produce a person.
 

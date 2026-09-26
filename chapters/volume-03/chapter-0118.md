@@ -20,7 +20,7 @@ Nobody answered her, because there was nothing to answer.
 
 "And there is a second thing and it is the one I actually want in the minute." She put her hand flat on the table. "This Council keeps a column. I have read it and I have quoted it in three districts and I am not going to stop quoting it. It is headed *turns displaced*, and it may name what closed, and by no means who closed it, and every claim certified in this basin has to fill it in or say why it cannot be filled in. That is the instrument's own word. Turn. And a form is a turn."
 
-"Not a weather turn. A preparation. A thing a district was going to do and had not yet done, which was still open, and which a thing that was written on the fourteenth can now be shut by, because a district that has been asked has been asked, and a district that has answered has answered, and the fourth ward has answered nothing and will answer nothing and has said so on a board in its own name at its own cost, and there is not one box in your head that lets a district take an answer back out again."
+"Not a weather turn. A preparation. A thing a district was going to do and had not yet done, which was still open, and which a thing that was written on the seventh can now be shut by, because a district that has been asked has been asked, and a district that has answered has answered, and the fourth ward has answered nothing and will answer nothing and has said so on a board in its own name at its own cost, and there is not one box in your head that lets a district take an answer back out again."
 
 Nothing was written into the minute except that an objection was received. There is no column for objections. The clause of the twenty-first is still law-adjacent in practice, and the DISPLACED TURNS column is now the mechanism that nine districts are arguing inside, and Anwen Sarr was given nothing, was owed nothing, and went down the hill at about half past ten in a raincoat.
 
@@ -66,13 +66,13 @@ She did not ask him what the question was for. She has never once asked him a qu
 
 ---
 
-Then the Council's standing day went on the board and the nine returns went into the tray, and the board notice and the printed head are the same object, and the fourth Thursday of every month is printed at the head of it; and by that same afternoon the sixth ward had sent back the only answer in the basin that anybody in this Council will ever be proud of, which is one line, and it is the minute of the twenty-sixth of last month, copied out in full by a woman's own hand with nothing added and nothing removed:**
+Then the Council's standing day went on the board and the nine returns went into the tray, and the board notice and the printed head are the same object, and the fourth Thursday of every month is printed at the head of it; and by that same afternoon the sixth ward had sent back the only answer in the basin that anybody in this Council will ever be proud of, which is one line, and it is the minute of the twenty-sixth of last month, copied out in full by a woman's own hand with nothing added and nothing removed:
 
 *Book retained. Offered for the use of a district, on request. Not sent.*
 
-Orle read it standing in the tray room at about four o'clock on the Tuesday, and then stood at the window for a while with her hands behind her back, and there was nothing in the room. The ninth ward's envelope was still on her desk unopened, because it is addressed to a person, and she is going to take it down to Low Spindle herself on the Thursday, which is the standing day, and which is the first date in eleven years on which this Council has expected to hear from a district. The ninth ward is the only one she has any real hope about. The fourth ward is the only one she is frightened of, and she has not worked out why, and she has not asked anybody.
+Orle read it standing in the tray room at about four o'clock on the Tuesday, and then stood at the window for a while with her hands behind her back, and there was nothing in the room. The ninth ward's envelope was still on her desk unopened, because it is addressed to a person, and she is going to take it down to Low Spindle herself on the fourth Thursday, which is the standing day, and which is the first date in eleven years on which this Council has expected to hear from a district. The ninth ward is the only one she has any real hope about. The fourth ward is the only one she is frightened of, and she has not worked out why, and she has not asked anybody.
 
-The second ward's return came in on the same afternoon, six days after the head went out, and it is the answer she will keep, and it is four lines and every one of them is true.**
+The second ward's return came in on the same afternoon, eight days after the head went out, and it is the answer she will keep, and it is four lines and every one of them is true.
 
 *Second ward, district office. Return for the fourth Thursday.*
 

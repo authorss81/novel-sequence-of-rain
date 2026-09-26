@@ -16,7 +16,7 @@ There is no answer in the district's file to the first one, because the first on
 
 She took the drawer out. It is the drawer of papers nobody can produce, and it has a label on it that she has not touched in eleven years, because the label is on the other drawer.
 
-"And the honest answer to her question is the one I put in our own minute nine days ago, and it is that anybody may come to this office and look at it. You may look at it now. And there is nobody in this ward who has ever asked, and I would be obliged if you would let me read it out in front of a witness, because I have been a clerk eleven years and I have never once read a line of it back."
+"And the honest answer to her question is the one already in our own minute, and it is that anybody may come to this office and look at it. You may look at it now. And there is nobody in this ward who has ever asked, and I would be obliged if you would let me read it out in front of a witness, because I have been a clerk eleven years and I have never once read a line of it back."
 
 ---
 
@@ -74,4 +74,4 @@ She put the file back in the drawer, and the drawer is not locked and has never 
 
 "No," he said. "I did not think you would. That is why I said it."
 
-**And at about four o'clock on the Tuesday a boy came into the office with a bicycle and an envelope, and asked for the ninth ward, which is four miles and a lock downriver and not this office, and Verna Sly told him the road and he went out into the rain with it. The envelope was from Hearthward and it was five weeks old and it was a minute number and a letter, and the covering line said, in a fair hand, *I wrote this on the twentieth of last month and I did not post it until today, and I have not told the district, and I would be obliged if you would not tell it either.* There were eleven people at the other end of it who could not be named, and a ward with a district book of five columns and no column for a person, and nobody in the fourth ward's office said so, and the boy went up the hill road at the speed of a boy with a bicycle in the wet.**
+**And at about four o'clock on the Tuesday a boy came into the office with a bicycle and an envelope, and asked for the ninth ward, which is four miles and a lock downriver and not this office, and Verna Sly told him the road and he went out into the rain with it. The envelope was from Hearthward and it was five weeks old and it was a minute number and a letter, and the covering line said, in a fair hand, *I wrote this on the twentieth of last month and I did not post it until today, and I have not told the district, and I would be obliged if you would not tell it either.* There were eleven people at the other end of that hill road who could not be named, and a ward with a district book of five columns and no column for a person, and nobody in the fourth ward's office said so, and the boy went up the hill road at the speed of a boy with a bicycle in the wet.**

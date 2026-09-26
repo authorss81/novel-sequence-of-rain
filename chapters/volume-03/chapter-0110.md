@@ -42,7 +42,7 @@ He read it standing. It took him about four minutes and he read it the way a cle
 
 **And that is the whole of it, and it is two lines out of nine years in a dead clerk's hand, and Verna Sly had read them once, in her third year, in a drawer, on a wet afternoon, and had thought nothing of them, and had gone on thinking nothing of them every day since, which is a thing she is now going to think about for some time.**
 
-Eleven people. Off the low side. To the ninth ward, which is four miles and a lock downriver and has four hundred and forty people on it. Three trips in one boat with a lamp at night, in Sleetmonth, in a freeze, because something was going to happen on that low side, and nobody in the fourth ward wrote down what it was, because nobody in the fourth ward was told what it was, because the notice that came named a corridor and hours and no place.
+Eleven people. Off the low side. To the ninth ward, which is four miles and a lock downriver and has four hundred and forty people on its lowest four blocks. Three trips in one boat with a lamp at night, in Sleetmonth, in a freeze, because something was going to happen on that low side, and nobody in the fourth ward wrote down what it was, because nobody in the fourth ward was told what it was, because the notice that came named a corridor and hours and no place.
 
 *Sheet to follow.* The sheet did not follow. The ward wrote about it on the twenty-fifth and there was no reply, and a clerk wrote *no reply* in a file, and that is where it stopped, and the file has been in a drawer in a goods yard off the north road for eleven years and three weeks and nobody has ever come and asked.
 

@@ -74,7 +74,7 @@ And then there was Corrin Malle in a corridor at about half past four, with a ro
 
 ---
 
-She had it set and printed and in nine envelopes by the Friday the fourteenth, and she addressed nine of them by hand, and the ninth ward's is the only one that does not say *to the clerk of the ward*, because the ninth ward does not keep a clerk and has never kept one, and it is addressed to a warden's office in a room over a locker's yard, which is a person, and the eighth envelope she addressed to a chairman whose clerk had been at a meeting in his chair's absence, and the fourth envelope is the one she looked at longest.
+She had it set and printed and in nine envelopes by the Friday the seventh, and she addressed nine of them by hand, and the ninth ward's is the only one that does not say *to the clerk of the ward*, because the ninth ward does not keep a clerk and has never kept one, and it is addressed to a warden's office in a room over a locker's yard, which is a person, and the eighth envelope she addressed to a chairman whose clerk had been at a meeting in his chair's absence, and the fourth envelope is the one she looked at longest.
 
 *To the clerk of the fourth ward. From the Weather Council, technical cell.*
 
