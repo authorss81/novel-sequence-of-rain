@@ -35,7 +35,7 @@ Seven weeks after the forty-eighth day of the Bellweather month. The method surv
 | 55 | 10 | Wednesday | 18th | The Exchange's quotation hall; then Hearthward | **The forward board goes up.** No bell, no entry, no Office anywhere in it. |
 | 56 | 11 | Thursday | 19th | The ninth ward tower and the low ground | Still clearing. The rain gardens are full and the low lane is running. |
 | 57 | 12 | Friday | 20th | The ninth ward assembly rooms | **The claim is agreed and drafted.** Midpoint. |
-| 58 | 13–15 | Saturday – Monday | 21st – 23rd | The ward ledger bench, the reach, the technical cell | **Entry on the twenty-first, the back-cut on the twenty-third, the register on the Monday.** Climax and cliff. |
+| 58 | 13–15, then 19, 20, then back to 13 | Saturday – Monday, then Wednesday, Thursday, then back to the Monday | 21st – 23rd, then 25th, 28th, then the 2nd of Drownmonth | The ward ledger bench, the reach, the technical cell, a room over a drying floor, a corridor | **Entry on the twenty-first, the back-cut and the struck line on the twenty-third, the notice on the twenty-fifth, the firm's payment and letter on the twenty-eighth, the second true copy and the register on the Wednesday of the second of Drownmonth — and the chapter closes by going back eight days to the twenty-third.** Climax and cliff. *Corrected at the Batch 0001 review: the first version of this row said days 13–15 and 21st–23rd, which was true of the plan and not of the chapter. The prose runs to the second of Drownmonth deliberately — the notice and the register cannot happen inside a fortnight — and the close is a marked return to the twenty-third.* |
 
 ## Starting relationships
 

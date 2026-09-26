@@ -19,38 +19,38 @@ A claim is not weather, so a claim is a breach, and somebody has to answer for a
 
 ## Starting condition
 
-The second of Drownmonth. A ward has bound a true claim that stopped a reach window and cost itself a repair. The Exchange has paid its own buyer thirteen shillings and declined in writing to claim anything against the ward. A Council assessor has minuted a limitation on a reader. A copy clerk's box has two documents in it. A tower keeper has a fifth column nobody asked for. A counter-reader is on a bench with a fee and a term. **And the Exchange's clerk went to the technical cell four weeks ago for the standing schedule of what each ward is able to do about its water, and has not come back with it.**
+The second of Drownmonth, a Wednesday. A ward has bound a true claim that stopped a reach window and cost itself a repair. The Exchange has paid its own buyer thirteen shillings and declined in writing to claim anything against the ward. A Council assessor has minuted a limitation on a reader. A copy clerk's box has two documents in it. A tower keeper has a fifth column nobody asked for. A counter-reader is on a bench with a fee and a term. **And the Exchange asked the Council's technical cell for the standing schedule of what each ward is able to do about its water on the thirteenth of Sleetmonth, which is three weeks back, and nothing has come back, and a nineteen-year-old clerk goes to fetch it on the morning of the third.** *Corrected at the Batch 0001 review: the first version of this card said the clerk went four weeks ago. The prose is Chapter 52, on the Friday of the thirteenth of Sleetmonth, where Fisk gives the clerk two lines of work and the second of them is the instruction that Chapter 59 exists to execute. Nineteen days, not four weeks, and the form's provenance is load-bearing for the Chapter 64 midpoint, so the date matters.*
 
 Three documents in this city now carry the twenty-third and none of them can be used in a room:
 
 1. **The Office's published column**, which says a window was quoted and not opened and gives no reason, because there is no instrument in the Office which looks at a reach.
 2. **The entered claim sheet**, with the ward's own ninety words in capitals in the seventh box, on a rail for ninety days, in a room on the ground floor.
-3. **Tovan Iles's second true copy**, in a locked box on the same floor, which is the only document in the basin that says *THE WARD IS CLOSING ITS OWN REPAIR WINDOW TO STOP A SECOND SALE OF IT. That is the cost and it is not money*, and which cannot be produced to anybody, including its author.
+3. **Tovan Iles's second true copy**, in a locked box on the same floor, which carries a second true copy of *THE WARD IS CLOSING ITS OWN REPAIR WINDOW TO STOP A SECOND SALE OF IT. That is the cost and it is not money*, and **it is the only one of the three that cannot be produced to anybody, including its author.** *Corrected at the same review: the first version called it the only document in the basin that says the sentence. The ninety words are also on the rail copy and in the minutes of entry. What the private copy adds is that it is a second copy nobody can be shown.*
 
 And one document that the ward's own negligence destroyed: **an eighteen-page quarterly return in a market file with a receipt for eleven shillings, and not in the register.**
 
 ## Clock convention for this batch
 
-Ordinary civic time, and **Drownmonth is the second month of the wet quarter and is named for what it does.** Batch days 1–12 run from the **third of Drownmonth to the fourteenth**, day 1 a **Wednesday** (Sleetmonth 23 was a Monday, so the twenty-fourth is a Tuesday and the first of Drownmonth is a Tuesday, the second a Wednesday). **The season's second back-cut falls at the end of the batch and is the event the batch is built around: a window that nobody has claimed, sold in advance, and a district that has to decide whether to buy one.**
+Ordinary civic time, and **Drownmonth is the second month of the wet quarter and is named for what it does.** Batch days 1–12 run from the **third of Drownmonth to the fourteenth**, day 1 a **Thursday** (Sleetmonth 23 was a Monday, so the twenty-fourth is a Tuesday and the first of Drownmonth is a Tuesday, the second a Wednesday, and the third a Thursday). **The season's second back-cut falls at the end of the batch and is the event the batch is built around: a window that nobody has claimed, sold in advance, and a district that has to decide whether to buy one.** *Corrected at the Batch 0001 review: the first version of this table carried the right derivation and a weekday column one day early, so every row was a day out. The prose canon is the derivation. **Drownmonth the second is a Wednesday**, because Chapter 58 puts Tovan Iles's second true copy and Neris Kade's visit to the technical cell on the Wednesday of the second, and Chapter 59 opens on the third.*
 
 | Chapter | Day | Weekday | Drownmonth | Where | What the clock is doing |
 | --- | --- | --- | --- | --- | --- |
-| 59 | 1 | **Wednesday** | 3rd | The technical cell, a corridor, then the yards | Ordinary rain. Nothing on any instrument. |
-| 60 | 2 | **Thursday** | 4th | Kestrel Yards, the boards, then a solicitor's room on the Nacre Gate | Ordinary. |
-| 61 | 4 | **Saturday** | 6th | The ninth ward, the low ground, the district office | Clearing after rain. The reach is coming down. |
-| 62 | 5 | **Sunday** | 7th | The Exchange, the second floor | Ordinary. |
-| 63 | 7 | **Tuesday** | 9th | Low Spindle and the Bellweather freight apron | Ordinary. |
-| 64 | 8 | **Wednesday** | 10th | The Council's basin house, then the technical cell | **Midpoint: the register, and who stopped asking.** |
-| 65 | 10 | **Friday** | 12th | Kestrel Yards, the Line, and a room over the Ninth Baths | Ordinary. |
-| 66 | 11 | **Saturday** | 13th | The Exchange and a chandler's counter | Ordinary. |
-| 67 | 12 | **Sunday** | 14th | The ninth ward, the assembly, a shed on the south bank | Ordinary. |
-| 68 | 13–14 | **Monday–Tuesday** | 15th–16th | The forward board; a hearing; a second paid read | **External climax.** |
-| 69 | 15 | **Wednesday** | 17th | A records room, a boat hook, a shop | Ordinary. |
-| 70 | 16–17 | **Thursday–Friday** | 18th–19th | The reach, the back-cut, a fair hand, a signature | **Moral climax and cliff.** |
+| 59 | 1 | **Thursday** | 3rd | The technical cell, a corridor, then the yards | Ordinary rain. Nothing on any instrument. |
+| 60 | 2 | **Friday** | 4th | Kestrel Yards, the boards, then a solicitor's room on the Nacre Gate | Ordinary. |
+| 61 | 4 | **Sunday** | 6th | The ninth ward, the low ground, the district office | Clearing after rain. The reach is coming down. |
+| 62 | 5 | **Monday** | 7th | The Exchange, the second floor | Ordinary. |
+| 63 | 7 | **Wednesday** | 9th | Low Spindle and the Bellweather freight apron | Ordinary. |
+| 64 | 8 | **Thursday** | 10th | The Council's basin house, then the technical cell | **Midpoint: the register, and who stopped asking.** |
+| 65 | 10 | **Saturday** | 12th | Kestrel Yards, the Line, and a room over the Ninth Baths | Ordinary. |
+| 66 | 11 | **Sunday** | 13th | The Exchange and a chandler's counter | Ordinary. |
+| 67 | 12 | **Monday** | 14th | The ninth ward, the assembly, a shed on the south bank | Ordinary. |
+| 68 | 13–14 | **Tuesday–Wednesday** | 15th–16th | The forward board; a hearing; a second paid read | **External climax.** |
+| 69 | 15 | **Thursday** | 17th | A records room, a boat hook, a shop | Ordinary. |
+| 70 | 16–17 | **Friday–Saturday** | 18th–19th | The reach, the back-cut, a fair hand, a signature | **Moral climax and cliff.** |
 
 ## Starting relationships
 
-- **Marek / Sable Orin:** a fee of eleven shillings and a term she adopted, agreed on the twenty-first of Sleetmonth and paid for on the twenty-second. **He has a second reader and has not used her for anything, and she is on a bench whenever he goes past a counter-reader.**
+- **Marek / Sable Orin:** **a price and a term, not an agreement.** She named eleven shillings aloud in her room over a drying floor on the Saturday afternoon of the twenty-first of Sleetmonth and adopted the warden's term, and **the ninth ward has never been asked for the money, has never paid it, and has not been told that she exists.** **What is on a board is hers, not the ward's: the shutter at the district office by noon on the twenty-second, and the plate glass case at the Sump Lane school at eight on the morning of the twenty-third, where two hundred and forty children are in the building and forty walk up from the low blocks.** *Corrected at the Batch 0001 review: the first version of this line said the fee was agreed on the twenty-first and paid for on the twenty-second. Chapter 58 has Marek visit her on the Saturday afternoon, she prices it, nobody signs anything, nobody pays anything, and the twenty-second is a Sunday. **Chapter 65 is the first money that moves, and it is Marek's own eleven shillings out of his own pocket, in coin, in advance.** He has a second reader and has not used her for anything, and she is on a bench whenever he goes past a counter-reader.*
 - **Marek / Neris:** a claim he attested and a cost he did not write and a page he cannot see. **She has not asked him for anything since the twenty-first and has one thing she wants and has not said she wants.**
 - **Marek / Sabin Orle:** a limitation on a page in her own hand, minuted, and not a finding, and neither of them has mentioned it since.
 - **Marek / Tovan:** a sheet on a rail and a copy in a box two hundred feet away and **no conversation between them since the third day of the Bellweather month.**
@@ -92,7 +92,7 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 - **The exchange's outstanding request must be answered on the page in Chapter 59 and the form must arrive empty.** If it is not answered, the request is orphaned and Volume 03 loses its opening.
 - **Tovan is a copy clerk throughout and her demotion is not a favour and nobody thanks her.** **Nobody learns how many are in her box, including her, and nobody asks.**
 - **Marek's hearing is not explained to anybody. Absolute.**
-- **The ninth ward's public glass is still dark.** It is dark for money and the reason is the district's glasswork line. **No character learns that Marek destroyed the paid-for pane.** Gant Ollis does not go further than he went in Batch 0001.
+- **The ninth ward's public glass is still dark.** It is dark for money and the reason is the district's glasswork line. **No character learns that 4486 was paid for and never collected, or that its crown is the plate in Marek's coat — Marek did not darken the frame and there is no hand in it anywhere.** Gant Ollis does not go further than he went in Batch 0001.
 - **Lior Venn is not named and his problem is not restated, and the Register is a technical-cell instrument and is not a Records act.**
 - **Malle does not obstruct and is not redeemed.**
 - **Anwen Sarr is not softened and is not bought off, and she is not here to be told she was right about the column.**
@@ -108,7 +108,7 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 ### Chapter 00059 — The Form With Nothing In It
 
-**POV:** Oren Lyle, nineteen, a clerk of the Cloud Exchange.
+**POV:** Wend Lyle, nineteen, a clerk of the Cloud Exchange.
 
 **Location/time:** The technical cell on the ground floor of the Council's basin house, Drownmonth the third, from about ten.
 
@@ -116,9 +116,9 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 **Resistance:** The form is a **request for a schedule**, and a Council has no procedure for issuing one, and the clerk who handles it is a records officer in the basement who treats an unanswerable request as a category. **The form comes back with the heading filled in, the season filled in, and nothing under it.** The ninth ward's line is empty and the fourth's is empty and the sixth's has a run of nine. **And the same is true of a form the Exchange fills in itself**, which is the discovery of the chapter: the firm is as bad as the Council, because the firm has never asked a district what it can do either, because asking costs a relationship and not asking costs a client.
 
-**Information revealed:** **A form that is filled in is a record and a form that is not is a silence, and the silence has a date.** A records officer names the year — the fiftieth — and names a man: *there was a fella wanted it done properly and then he went, and after that nobody's wanted it.* He is not hiding anything and is annoyed on the Council's behalf. He also says the thing that the volume is made of, without any idea: **that the schedule is a form a *district's own clerk* fills in, and that the district is not obliged to, and that nobody has ever written to a district saying it was.**
+**Information revealed:** **A form that is filled in is a record and a form that is not is a silence, and the silence has a date.** A records officer names the season — the forty-fifth — and names a man: *there was a fella wanted it done properly and then he went, and after that nobody's wanted it.* He is not hiding anything and is annoyed on the Council's behalf. He also says the thing that the volume is made of, without any idea: **that the schedule is a form a *district's own clerk* fills in, and that the district is not obliged to, and that nobody has ever written to a district saying it was.** *Corrected at the Batch 0001 review: the first version of this card said the fiftieth and "fifty years." Chapter 58 is prose canon and the clerk in the technical cell says "That'll be the four-and-fiftieth, maybe," and then says he could not tell you the year if you asked him — so the figure arrives in this batch already hedged, and somebody competent then makes it firm.*
 
-**Action or decision:** Lyle takes it back because he was told to bring it even if it is empty, **and he asks one question, which is out of scope and which is the whole of his character: he asks whether the Council has ever sent the form out.** It has not. It has never once. The form exists to be returned by a district that comes to it, and no district has come to it since the fiftieth, and the reason nobody has come is on page four of a form the ninth ward filled in once and never again.
+**Action or decision:** Lyle takes it back because he was told to bring it even if it is empty, **and he asks one question, which is out of scope and which is the whole of his character: he asks whether the Council has ever sent the form out.** It has not. It has never once. The form exists to be returned by a district that comes to it, and no district has come to it since the forty-fifth, and the reason nobody has come is on page four of a form the ninth ward filled in once and never again.
 
 **Power or resource change:** **No spend, no panel, no claim.**
 
@@ -158,7 +158,7 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 **POV:** Neris Kade.
 
-**Location/time:** Low Spindle and the Bellweather freight apron, Drownmonth the sixth, a Saturday, from seven in the morning until the light goes.
+**Location/time:** Low Spindle and the Bellweather freight apron, Drownmonth the sixth, a Sunday, from seven in the morning until the light goes.
 
 **Immediate goal:** Get the low ground ready for a back-cut that nobody has told her about, with a reach that is coming down whether anybody is ready or not.
 
@@ -182,19 +182,19 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 **POV:** Ivo Slate.
 
-**Location/time:** The Exchange's second floor, Drownmonth the seventh, a Sunday, from eleven.
+**Location/time:** The Exchange's second floor, Drownmonth the seventh, a Monday, from eleven.
 
 **Immediate goal:** Find out what an empty form actually means commercially, without asking, because asking is what the firm is for and he is the firm's man.
 
-**Resistance:** **Slate is the man who has done every courteous thing in this volume and this is the chapter where his courtesy is shown to be a method and the method is shown to be a wall.** He has four conversations on one Sunday morning, with a barge operator, a chandler, a carrier's clerk and a man from the works, and he learns four things he did not know, and he learns them because he asks, and asking is his job, and **he notices halfway through the fourth conversation that he has asked four questions and none of them was about the weather, and that this is the first time in eleven years he has had a day in which that was true.**
+**Resistance:** **Slate is the man who has done every courteous thing in this volume and this is the chapter where his courtesy is shown to be a method and the method is shown to be a wall.** He has four conversations on one Monday morning, with a barge operator, a chandler, a carrier's clerk and a man from the works, and he learns four things he did not know, and he learns them because he asks, and asking is his job, and **he notices halfway through the fourth conversation that he has asked four questions and none of them was about the weather, and that this is the first time in eleven years he has had a day in which that was true.**
 
-**Information revealed:** The window market's real product is not the window. **It is the fact that four unrelated people already agree on what the basin is doing, and the window is the receipt.** **A firm that stops asking stops knowing anything on Sunday, and a firm that starts asking a district anything is a firm that can be refused by a district, and a firm that can be refused has to be able to afford it.** **And the second back-cut is on the seventeenth and four of the four men know it and one of them has a price for it and none of them has a level instrument.**
+**Information revealed:** The window market's real product is not the window. **It is the fact that four unrelated people already agree on what the basin is doing, and the window is the receipt.** **A firm that stops asking stops knowing anything on a Monday, and a firm that starts asking a district anything is a firm that can be refused by a district, and a firm that can be refused has to be able to afford it.** **And the second back-cut is on the seventeenth and four of the four men know it and one of them has a price for it and none of them has a level instrument.**
 
-**Action or decision:** Slate writes two lines. The first is a memorandum to the firm: *the Sunday question is a question about people and not about glass, and we have stopped doing it, and the day we started paying for readings instead we stopped asking the only people who answer for free.* The second is a letter to the ninth ward, unsigned, drafted in his own words, asking the ward what its available responses to a season's water are, and offering the ordinary price. **Hesk signs it. It goes out on the Monday. And the ward refuses it inside four days, in a hand Neris Kade has used every day of her working life, and the refusal is the best document in the volume, because it is in the ward's own words and it names the reason and the reason is true and the reason is that the ward has nothing to give anybody and that a district which has just spent its own window on purpose is not going to be seen writing to the firm that sold it.**
+**Action or decision:** Slate writes two lines. The first is a memorandum to the firm: *the Monday question is a question about people and not about glass, and we have stopped doing it, and the day we started paying for readings instead we stopped asking the only people who answer for free.* The second is a letter to the ninth ward, unsigned, drafted in his own words, asking the ward what its available responses to a season's water are, and offering the ordinary price. **Hesk signs it. It goes out on the Tuesday. And the ward refuses it inside four days, in a hand Neris Kade has used every day of her working life, and the refusal is the best document in the volume, because it is in the ward's own words and it names the reason and the reason is true and the reason is that the ward has nothing to give anybody and that a district which has just spent its own window on purpose is not going to be seen writing to the firm that sold it.**
 
 **Power or resource change:** **No spend, no panel, no claim.**
 
-**Continuity fact:** Slate files a report on everything and this is the first one that argues against his own employer. **He is not a dissident and is not a plot device; he is a man who noticed something on a Sunday and wrote it down, and the volume does not tell him what it is worth.**
+**Continuity fact:** Slate files a report on everything and this is the first one that argues against his own employer. **He is not a dissident and is not a plot device; he is a man who noticed something on a Monday and wrote it down, and the volume does not tell him what it is worth.**
 
 **Ending type:** A firm asking a question it has not asked in eleven years, and being told no in the plainest possible language.
 
@@ -206,7 +206,7 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 **POV:** Tobias Mear.
 
-**Location/time:** The yards and the freight apron, Drownmonth the ninth, a Tuesday, from eight.
+**Location/time:** The yards and the freight apron, Drownmonth the ninth, a Wednesday, from eight.
 
 **Immediate goal:** Find out whether the forward board's second back-cut is going to be sold twice, before somebody buys it, on the strength of one memorandum in pencil and a form with nothing in it.
 
@@ -222,7 +222,7 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 **Ending type:** A man who prices things for a living deciding to publish his own mistake to a Council, and getting a reply within a week.
 
-**Next-chapter pull:** The assessor has the memorandum, and the memorandum is a number, and a number with nobody's schedule attached to it is the exact thing a review is for, and the review is called on the Wednesday.
+**Next-chapter pull:** The assessor has the memorandum, and the memorandum is a number, and a number with nobody's schedule attached to it is the exact thing a review is for, and the review is called on the Thursday.
 
 ---
 
@@ -230,7 +230,7 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 **POV:** Sabin Orle.
 
-**Location/time:** The Council's basin house and then the technical cell, Drownmonth the tenth, a Wednesday, from about ten. **Midpoint.**
+**Location/time:** The Council's basin house and then the technical cell, Drownmonth the tenth, a Thursday, from about ten. **Midpoint.**
 
 **Immediate goal:** Decide what to do with a memorandum from a commercial underwriter that contains a price, a comparison the author says is invalid, and an instruction that it be held, and which has arrived in her building with no sponsor and no claim attached to it.
 
@@ -254,7 +254,7 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 **POV:** Marek Vale.
 
-**Location/time:** Kestrel Yards and a room over the Ninth Baths, Drownmonth the twelfth, a Friday, from six in the morning.
+**Location/time:** Kestrel Yards and a room over the Ninth Baths, Drownmonth the twelfth, a Saturday, from six in the morning.
 
 **Immediate goal:** Learn to hold a sequence across two ends with somebody else at the other one, so that a district can time its own reach, and pay for the privilege honestly.
 
@@ -278,7 +278,7 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 **POV:** Edda Tarn.
 
-**Location/time:** The Exchange's second floor and a chandler's counter, Drownmonth the thirteenth, a Saturday, from ten.
+**Location/time:** The Exchange's second floor and a chandler's counter, Drownmonth the thirteenth, a Sunday, from ten.
 
 **Immediate goal:** Explain to a firm why a hand-painted board in a shut shop is a commercial threat, and do it without the firm losing its temper or its product.
 
@@ -286,7 +286,7 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 **Information revealed:** **A market cannot sell certainty against a record that is cheaper to check than to buy, and the Exchange's own refund rule is the mechanism of its own defeat, because a firm that has published a price once cannot unpublish it and has to keep publishing it.** **And the second effect, which nobody saw coming: the district's free service becomes worth something to the firm.** There are four other wards with dark glass and no free service, and a firm that can supply a corrected, timed, signed reading to a ward for eleven shillings a week has a product nobody in the basin has thought of, **and the counter-reader has just given the product away for nothing, in a ward, once, on a shutter.**
 
-**Action or decision:** Edda Tarn does the correct commercial thing and is told to do it, and it is the chapter's turn: **she prices the shutter.** Not by closing it and not by buying it and not by writing to a ward. She puts a price on a counter-reader's free published reading, in the firm's own list, at a rate that reflects what it is worth to a buyer, and it is a very small number, **and that number is the price of everything Sable Orin has done for two years, and it is in a list, in a fair hand, on a wall, and a nineteen-year-old clerk will see it on Monday morning.**
+**Action or decision:** Edda Tarn does the correct commercial thing and is told to do it, and it is the chapter's turn: **she prices the shutter.** Not by closing it and not by buying it and not by writing to a ward. She puts a price on a counter-reader's free published reading, in the firm's own list, at a rate that reflects what it is worth to a buyer, and it is a very small number, **and that number is the price of everything Sable Orin has done for two years, and it is in a list, in a fair hand, on a wall, and a nineteen-year-old clerk will see it on Tuesday morning.**
 
 **Power or resource change:** **No spend, no panel, no claim.**
 
@@ -294,7 +294,7 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 **Ending type:** A small number on a wall, and a woman with a cloth and a counter who does not know what she is looking at.
 
-**Next-chapter pull:** A clerk sees a number and asks who set it, and the answer is a licensed agent's memorandum, and a partner asks a question on a Sunday, and the question is the one the whole volume has been circling: *what is it worth to a person, and how would anybody find out.*
+**Next-chapter pull:** A clerk sees a number and asks who set it, and the answer is a licensed agent's memorandum, and a partner asks a question on a Monday, and the question is the one the whole volume has been circling: *what is it worth to a person, and how would anybody find out.*
 
 ---
 
@@ -302,7 +302,7 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 **POV:** Petrie.
 
-**Location/time:** The Bellweather freight apron and the ninth ward, Drownmonth the fourteenth, a Sunday, daylight.
+**Location/time:** The Bellweather freight apron and the ninth ward, Drownmonth the fourteenth, a Monday, daylight.
 
 **Immediate goal:** Refuse, politely, to be a party to four different things at once, and keep a shed.
 
@@ -310,7 +310,7 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 **Information revealed:** **The photograph is the real threat and nobody in the volume has seen it yet.** A market has discovered that a reach window can be sold on the strength of a photograph of a load that is not going anywhere, and a photograph is cheaper than a survey and there are nineteen of them in this basin. **Petrie's rule is the oldest compensation logic in the city: a thing that is written down and priced is a thing somebody can be made to pay for, and a thing that is kept is not, and the difference is worth about four pounds of timber and about a year of a wall.**
 
-**Action or decision:** He writes **one** thing down, in his own level book, on the Sunday, in the correct column, and it is the first entry in thirty years in the column headed *no work, reason*, and it is not the warden's, because the warden's is in a different book, and his says: *Reach asked for by three parties this week. Sold to none. No work, because nobody has anything I can sell.* And then he does the chapter's real work: **he asks a question. He has never asked one. In about seventy seconds, at about four in the afternoon, standing in his own doorway, he asks Neris Kade what happened on the thirtieth, because for the first time in nine weeks somebody from a district office has told him to inspect a flat.**
+**Action or decision:** He writes **one** thing down, in his own level book, on the Monday, in the correct column, and it is the first entry in thirty years in the column headed *no work, reason*, and it is not the warden's, because the warden's is in a different book, and his says: *Reach asked for by three parties this week. Sold to none. No work, because nobody has anything I can sell.* And then he does the chapter's real work: **he asks a question. He has never asked one. In about seventy seconds, at about four in the afternoon, standing in his own doorway, he asks Neris Kade what happened on the thirtieth, because for the first time in nine weeks somebody from a district office has told him to inspect a flat.**
 
 **Power or resource change:** **No spend, no panel, no claim.** **Petrie suspects nobody and has never suspected anybody and is not going to, and the answer he gets in the next chapter is going to be a true sentence in the only vocabulary the conversation has, and that vocabulary is the reason it is not evidence.** This is *it was just the water* spoken the other way round, **about a different morning, by a different man, to a different person, and the echo is deliberate and must not be mistaken for a repetition.**
 
@@ -350,7 +350,7 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 **POV:** Kell Bray.
 
-**Location/time:** Ferrygate and a records room, Drownmonth the seventeenth, a Wednesday, from ten.
+**Location/time:** Ferrygate and a records room, Drownmonth the seventeenth, a Thursday, from ten.
 
 **Immediate goal:** Get her district's answer into the Council's hands in a form that will survive being read by a man who is looking for a reason to object, and find out what the boat hook against the wall of her district office is for.
 
@@ -358,7 +358,7 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 **Information revealed:** **Nell Cray's four copies of the shelter rota are the first multiplicity in this volume and they are the seed of the whole argument: a thing copied four times and sent to one address is a record; a thing copied four times and sent to four addresses is a defence.** And a district clerk of twenty years' standing, at the end of a chapter about records, says the sentence the volume's ending is built on and does not know it: **you cannot be compensated for a thing you have not got written down, and you cannot get it written down afterwards, and the only time anybody will let you write it down is before you need it.**
 
-**Action or decision:** **She writes the register.** One column for the ninth ward's line in the Council's own form, dated, in her own hand, with a warden's signature and a chair's, **and it is the first time the ninth ward's line has had anything under it since a man left in the fiftieth, and it is not a form the district was ever sent.** She sends it to the Council and to nobody else, and it is not a notice, and she writes that on it.
+**Action or decision:** **She writes the register.** One column for the ninth ward's line in the Council's own form, dated, in her own hand, with a warden's signature and a chair's, **and it is the first time the ninth ward's line has had anything under it since a man left in the forty-fifth, and it is not a form the district was ever sent.** She sends it to the Council and to nobody else, and it is not a notice, and she writes that on it.
 
 **Power or resource change:** **No spend, no panel, no claim.**
 
@@ -378,7 +378,7 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 **Immediate goal:** Let a back-cut come down without a market on it, and find out whether a district can be shown, in a room, what its own reach is worth, now that somebody has written it down.
 
-**Resistance:** **The reach comes down, and it comes down for a full forty minutes with nobody claiming it and nobody buying it and nobody selling it, and it is the best Monday this basin has had on a reach in nine years, and the ward cannot get a flatbed on it and does not try.** A flat needs low water and a load and nine crew and a district that has a reach window and about four hundred and forty people, and there is no window and the load has been on the books since the sixth of the Bellweather month. **The timber does not go out for a second consecutive season. The chapter says so in one sentence and then does not say it again, and the sentence is the batch's whole moral weight and it is load-bearing in the way the Volume 01 batch's forty minutes were.**
+**Resistance:** **The reach comes down, and it comes down for a full forty minutes with nobody claiming it and nobody buying it and nobody selling it, and it is the best morning this basin has had on a reach in nine years, and the ward cannot get a flatbed on it and does not try.** A flat needs low water and a load and nine crew and a district that has a reach window and about four hundred and forty people, and there is no window and the load has been on the books since the sixth of the Bellweather month. **The timber does not go out for a second consecutive season. The chapter says so in one sentence and then does not say it again, and the sentence is the batch's whole moral weight and it is load-bearing in the way the Volume 01 batch's forty minutes were.**
 
 **Then the turn, and it is the volume's cliff, and it is not a battle.** A Council assessor has a memorandum in pencil with two figures in it and a form with nothing in it and a line in a register with something under it for the first time in a generation in a clerk's hand. **The arithmetic at last works — and only because a district clerk put a return in a book nobody asked for, and a keeper made a fifth column, and a shed foreman asked one question, and a counter-reader published a correction, and a warden wrote in an empty column on a form she was never sent** — and the number that comes out is not 7/6 and is not 1/4 and is **about two and six, and it is the first figure in this basin that anybody can defend, and it is the average of two wrong figures and one fair hand and it is wrong in a third direction, which is that it is a figure for a thing that has not happened yet.** **And the assessor rules that a compensation schedule requires a claimant, and a claimant requires a claim, and a claim requires a sponsor, and the ninth ward has already spent its two claims, and the ward's own figures are the only ones anybody can produce, and the ward's figures are for a window the ward closed on purpose, and there is no box anywhere in the Charter of Public Notice for a district that has cost itself something on purpose.**
 
@@ -390,4 +390,4 @@ Ordinary civic time, and **Drownmonth is the second month of the wet quarter and
 
 **Ending type:** A signature, a figure that is wrong in a new direction, and a first line in a new book that says *the claimant's figure is unknown*, and a man who has finally used Anwen Sarr's own escape clause in a room that will not forgive him for it.
 
-**Next-chapter pull into Batch 0003 — *The Price of Preparation*:** the ledger has one line and it is a statement of ignorance; a market that has struck a line through twice in public needs a reason nobody can give it; three districts have answered a Council letter and two of the answers are worse than nothing; **and the reader now holds a sentence nobody in the story has ever said out loud, which is that the ninth ward's line in the register was empty for fifty years because a man left a job and nobody wrote to any district again, and the same sentence is true of the Exchange, and Volume 03 is about who does that writing and what happens to a record nobody was ever asked to keep.**
+**Next-chapter pull into Batch 0003 — *The Price of Preparation*:** the ledger has one line and it is a statement of ignorance; a market that has struck a line through twice in public needs a reason nobody can give it; three districts have answered a Council letter and two of the answers are worse than nothing; **and the reader now holds a sentence nobody in the story has ever said out loud, which is that the ninth ward's line in the register has been empty since the forty-fifth because a man left a job and nobody wrote to any district again, and the same sentence is true of the Exchange, and Volume 03 is about who does that writing and what happens to a record nobody was ever asked to keep.**

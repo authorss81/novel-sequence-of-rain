@@ -51,7 +51,7 @@ ONE POSSIBLE TURN WILL CLOSE.
 
 It came on no instrument in this building, because there is no instrument in this building that will say a thing like that out loud, and it did not say which possibility was going. It stood on the claim sheet, in the middle of the sixth box, in the fair hand of a district clerk who has never seen one before and did not write one, and Marek Vale read it twice with his finger on the rail, and put it in his coat pocket on a slip of bench paper in his own hand, the way he has put six things in that pocket since the eighth of the Bellweather month, and it is the first time in his working life that it has come to paper and he has no idea at all what it is made of, and it is a piece of paper with no chain behind it and it is the only reason he will ever be able to say what this claim cost anybody, and it is a piece of paper about a claim he did not make, by a ward he has met twice, on a form he did not write.
 
-Marek could not hear the bell. He is standing on the same side of the rail as the clerk and the bell is four feet above the rail and the room has a stone floor and there are nineteen people in it and a press going somewhere, and he got nothing. He saw the clerk's wrist go and he saw the sound arrive in the rest of the room about a fifth of a second late, in people's shoulders, and he did not ask her to strike it again, and she would not have.
+Marek could not hear the bell. He is on the same side of the rail as the clerk and the bell is four feet above the rail and the room has a stone floor and there are nineteen people in it and a press going somewhere, and he got nothing. He saw the clerk's wrist go and he saw the sound arrive in the rest of the room about a fifth of a second late, in people's shoulders, and he did not ask her to strike it again, and she would not have.
 
 The ninth ward's head on the wall above the rail did not light.
 
@@ -71,7 +71,7 @@ It is in her job. Every claim entered at that rail gets a true copy in the minut
 
 She did it in eleven minutes. She did not do it quickly; she has never in her life done anything quickly. She wrote out the place, and the trigger, and the effect, and the alternative word for word, and the expiry, and the sponsor, and the attestation, and then she came to the seventh box and she read it out to herself, silently, from the rail, twice, and then she wrote it out word for word, in her own hand, and initialled the sheet, and dated it, and timed it at eleven twenty-six, and it is the longest of the seven items and it is in capitals in one place and she copied the capitals.
 
-Nobody asked her to. Nobody in that room knew there was anything on that rail except a claim. Nobody in this basin knows that a true copy of a claim sheet is made by a specific pair of hands on a specific Saturday morning, and that this one has gone into a locked box on the same floor, and that the box has a lock on it and the key is in her pocket and the key has been in her pocket since the third day of the Bellweather month.
+Nobody asked her to. Nobody in that room knew there was anything on that rail except a claim. Nobody in this basin knows that a true copy of a claim sheet is made by a specific pair of hands on a specific Saturday morning, and that this one went into a tray, and that the tray went down to the technical cell, and that a tray is the safest place a piece of paper can be in this building.
 
 She put the sheet in the tray. She put the other two copies on top of it. She wrote *entered 21st, Sleetmonth, 11:26* on the tray card in her own hand because that is what is done.
 
@@ -95,7 +95,7 @@ He had not expected her to price it and he was wrong.
 
 "**The reading goes on a board a warden is welcome to read, free, and I do not pass it to anybody who has to pay for it.**"
 
-"**The reading goes on a board a warden is welcome to read, free, and I do not pass it to anybody who has to pay for it.**"
+She said it in Neris Kade's words and she said it without looking at the slip, and Marek understood that the woman across the bench from him had copied a sentence out of a letter to a yard and had not touched the copy since.
 
 Marek Vale sat on a bench in a room over a drying floor above the Ninth Baths and could not remember the last time anybody had improved on a thing Neris Kade had written in a letter to a yard in the Bellweather month.
 
@@ -179,7 +179,7 @@ The man on the bicycle looked at him.
 
 ---
 
-**What came back to the ninth ward on the second of Drownmonth was a question, and it is worth setting down exactly, because almost everything that follows is a consequence of it.**
+**What came back to the ninth ward on the twenty-eighth of Sleetmonth was a question, and it is worth setting down exactly, because almost everything that follows is a consequence of it.**
 
 Dellow had bought the window of the twenty-third for seven and six. The firm had sold it to him. The firm had then been the instrument of a claim that made the window unopenable, and clause 3 of a contract between a firm and a buyer does not contemplate a third party, and the buyer's remedy was therefore against the firm.
 
@@ -223,7 +223,7 @@ The key has been in that pocket since the third day of the Bellweather month.
 
 There are two things in that box. The first is a true copy of the thirtieth's day sheet as it stood before the classification was changed. The second is a true copy of a ward's own words about a window. **They are the only two documents in this basin that say, on the same two months, that a cost can be written down in a fair hand and be worth nothing to anybody.** And there is no form in the Charter of Public Notice, or in this building, or in this basin, under which a copy clerk's private copy of anything may be produced to anybody, and she is a copy clerk, and the demotion is permanent, and the glass-tender's examination is in the spring and is held by somebody else and she will not sit it.
 
-She wrote the tray card in her own hand, as she always does: *entered 21st, Sleetmonth. Rail copy returned, 24th, 10:09.*
+She wrote the tray card in her own hand, as she always does: *entered 21st, Sleetmonth. Rail copy returned, 2nd, Drownmonth, 10:09.*
 
 Which is true. Which is the whole of what she has.
 
@@ -263,13 +263,11 @@ At the end of the corridor there is a bench, and on the bench in the last of the
 
 "Both of those have been what I said they were going to be, since about eleven o'clock on Saturday morning, in a room with nineteen people in it, and I was not in the room." She put the notebook down on the bench. "And before you say anything at all, I know what I sound like, and I have thought about it, and I have decided I would rather be eleven shillings with a term on it than free with none, and that the reason I have decided it is that being free with none is what I have been for two years and it got me four refusals and a fourth notebook."
 
-She wrote the tray card in her own hand, as she always does: *entered 21st, Sleetmonth. Rail copy returned, 24th, 09:10.*
-
-Which is true. Which is the whole of what she has.
+She did not offer her hand and he did not ask for it, and both of them were careful about that in the way two people are careful who have each been burned by an arrangement that was not written down.
 
 ---
 
-Neris Kade was in the lane at about half past nine on the Monday with a ruled page in her coat, and this is where she was in the morning.
+**Go back eight days. It is the Monday morning of the twenty-third, and it is the reason for the whole of it.** Neris Kade was in the lane at about half past nine with a ruled page in her coat, and this is where she was in the morning.
 
 It has been a page of seven lines in a drawer since the middle of the Bellweather month, and it is headed **NINTH WARD — WHAT THE NOTICE DID NOT SAY. One line per notice, in the order they came**, and it is stamped and dated in her own hand, and the seventh line is the load-bearing one and it has been in two files in two buildings and has been ruled not compellable in both.
 
@@ -277,7 +275,7 @@ The eighth line is still unwritten and she still cannot write it and it is the s
 
 She had two wardens, a barrow, six catch pits and two grates, and about an inch of water on the twenty-third and no ground floor wet anywhere and the best Monday morning this ward has had in four years.
 
-And on the ninth ward's low ground at about a quarter to ten on the Monday morning there was a woman standing at the head of the Sump Lane school steps in the rain holding a printed sheet, because a counter-reader had given her the reading at eight that morning with a condition attached, and the woman had taken it, and the condition was that the reading go on a board a warden is welcome to read and be free, and Neris Kade had said, in a room over a drying floor, *the ward's own women have four hands* —
+And on the ninth ward's low ground at about a quarter to ten on that Monday morning there was a woman standing at the head of the Sump Lane school steps in the rain holding a printed sheet, because a counter-reader had given her the reading at eight that morning with a condition attached, and the woman had taken it, and the condition was that the reading go on a board a warden is welcome to read and be free, and Neris Kade had said, in a room over a drying floor, *the ward's own women have four hands* —
 
 and it was on the board at about a quarter to ten, and it was in a fair hand, and nobody in Low Spindle had ever seen a sequence reading in their own language before, and there is a plate glass case at that school that has had the ward's weekly copy in it since before anybody living put it there, and the reading went into the case, and the glass at the school is not the tower's glass, and the school is on the low ground and the low ground can read.
 

@@ -118,7 +118,7 @@ Two places, and he wrote them on the back of the Office's weekly in pencil, beca
 
 He looked at the two lines for a while.
 
-Then he went and got a clerk, and the clerk was nineteen and called Oren Lyle, and he gave him two lines of work to take to the Council's technical cell, and they were:
+Then he went and got a clerk, and the clerk was nineteen and called Wend Lyle, and he gave him two lines of work to take to the Council's technical cell, and they were:
 
 **First. Ask the technical cell for the standing schedule of what each ward is able to do about its water in a season. Not our water. Their water. A list of works, a list of crews, a list of what a ward can be relied upon to have, and what it can be relied upon to be able to do, in a season, with a date against it.**
 
