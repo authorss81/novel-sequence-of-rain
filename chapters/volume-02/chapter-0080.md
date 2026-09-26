@@ -54,13 +54,13 @@ He came in at about seven, put the kettle on, ate nothing, and did not tell anyb
 
 *Spoil goes into the third block's drains and I pay for clearing them after, every time, to the district's man and a cart, and it has been 3/-, 3/6, 4/1 over eleven years and I have written all forty-one of them down.*
 
-*Yardage on a good forty minutes: a hundred and sixty, if the water is off at the top and the chain's hooked at the S bend. Less if it's short. It is a hundred and twenty when it's short and I have had both in one month. Eleven years, forty-one times, a hundred and sixty at the best of it and a hundred and twenty at the worst, and the average of it is about a hundred and forty and I have never once been asked what a reach is worth and I could tell you what my own is worth in a minute.*
+*Yardage on a good forty minutes: a hundred and sixty, if the water is off at the top and the chain's hooked at the S bend. Less if it's short. It is a hundred and twenty when it's short and I have had both in one month. Eleven years, forty-one times, a hundred and sixty at the best of it and a hundred and twenty at the worst, and the average of it is about a hundred and fifty and I have never once been asked what a reach is worth and I could tell you what my own is worth in a minute.*
 
 *So: forty minutes is worth to me a hundred and sixty yards of the lowest ground in the ninth ward, stripped and carted, with the drains clear by the following Tuesday. At the worst of it, a hundred and twenty. In eleven years, forty-one times.*
 
 *The firm's price is 7/6. My own figure for the work is the clearing, the crew and the tackle, and it is nowhere near 7/6 and it is not supposed to be, because 7/6 is a price for a barge coming and a crew standing off and a hull's hire and I am not buying that, I am not using it. I have never said that to anybody and I have thought about it every time I have paid it.*
 
-*This is the first time I have written any of it down and I have written it because a woman said in a room on the fifteenth that the only time anybody lets you write it down is before you need it, and she is right, and I would not have remembered the sentence if it had not been said.*
+*This is the first time I have written any of it down and I have written it because a woman said in a room on the fifteenth of Drownmonth that the only time anybody lets you write it down is before you need it, and she is right, and I would not have remembered the sentence if it had not been said.*
 
 — G. Dellow.*
 

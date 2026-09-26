@@ -28,11 +28,15 @@ It is nineteen words long, and it says the figure is unknown.
 
 "That is the whole of it," says Peascod. "A ledger and not a fund, and it pays documented loss only, and nobody knows yet what it is for."
 
+"Then what goes in it?"
+
+"Whatever anybody can prove, and nobody has proved anything yet, and that is a sentence about this month and not about the book." He squares the cover. "It will be opened tomorrow and the day after, and there is no penalty anywhere in the world for a book that is opened and left alone, and that is the arrangement."
+
 Upstairs, in the technical cell, Sabin Orle is writing the hearing notice in her own hand. She writes slowly because the notice has to carry the date and the room and the parties, and because a notice with a place and an hour and a name under it is the one thing nobody in this basin has been able to get for a year.
 
-The notice says the Council will hear the matter of the ninth ward's reach window, and the sixth ward's tide, and the temporary ledger, on the fourteenth of the new month, in the basin house, at two o'clock.
+The notice says the Council will hear the matter of the ninth ward's reach window, the sixth ward's tide, and the temporary ledger, on the fourteenth of the new month, in the basin house, at two o'clock.
 
-She puts the pen down and looks at the calendar on the wall, which is a Council calendar with the wet quarter marked in three bands, and the third band has no name written on it in her hand because no chapter in this building has ever had to write it.
+She has written the parties four times and struck them out three times, because a party to a matter in this building has to be a district, and the ninth ward is a district, and the sixth ward is a district, and the line under them has to say what is being heard, and there is no line under them that will hold a window, a tide and a book without making a party of the party that sold the window, which the Charter says this Council is not and does not price.
 
 Skell leans in. "What do I put on the notice for the month, ma'am? The boys will ask."
 
@@ -80,8 +84,12 @@ She puts the pen down and picks it up and puts it down.
 
 Because there is an eighth, and she has known there was an eighth for a fortnight, and it is the line about the shilling: it does not say who may have this, and nobody has asked, and I said yes.
 
+She tries it. She gets as far as a date and the word *hours* and stops, because the line above her says the return does not say the reach levels came down, and the line she wants to write says the ward's reach hours were sold for a shilling a week without a vote, and both of those are true, and a page where both of those are true is a page that has to be produced, and she has not got anybody to produce it to.
+
 **She has a card of nine names in a drawer and the sheet she cannot bring herself to write, because a card of nine names is a list of people she is fond of and a sheet is a document that says she is answerable for them.**
 
 The page is seven lines. There is no eighth line and she cannot write one.
 
 In the drawer under it is the ward's shelter rota card with nine names on it, and it is still unwritten in the form it would need to be managed, and she closes the drawer on both of them and goes down to the pump house, because the pump house is a thing she can manage.
+
+Beddoe is there with a lamp and a gauge and no questions. The pump is a four-hundred-and-ten-pound thing that was ordered by a district in the autumn before last and has been paid for since the spring before that, and it is on a painted board with no name on it, order 114, and nine men are on the district's books for it, and the gauge says what the gauge says, and she writes the gauge in the column that has been there since her father's time.

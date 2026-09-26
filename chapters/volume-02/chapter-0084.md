@@ -10,6 +10,16 @@ Edda Tarn stands in front of it with a proof in her hand and does not look at it
 
 Nobody in the room can. That is the whole of the counting floor's morning.
 
+There had been an hour of it before she said that, in which a man from the desk that handles timber had proposed taking the paragraph down.
+
+His argument was not stupid. A firm that cannot sell a reach can still sell a hull, and a hull buyer does not care whose water he is in, and a paragraph saying what forty minutes of that reach was worth to somebody who was not the buyer was a paragraph that a competitor with nine pounds could turn into an argument for paying four.
+
+"Take it down," he said, "and put a line in instead that says the reach is not quoted, and the not-quoted is the truth this month, and we lose nothing, because we have nothing to sell."
+
+"We would lose the only number in the basin that we own," said Edda Tarn, "and we would lose it on a morning when a man up the hill has put one and four on a wall of his own and a district has not been asked. Take that down, and the only number left in this basin about that reach is his, and in a month his is a price and ours is an absence, and an absence does not compete. It loses."
+
+"Or it does not last," said the man from the timber desk, and nobody answered him, and it was carried four to three, and he put his own name against it in the minute because a man who loses an argument in a counting floor should be in the minute, and there is no rule that says he has to be.
+
 **The Exchange's own price was seven shillings and sixpence, struck through twice in public in one quarter at one price, and withdrawn for the season with no price on it at all, because a line withdrawn with nothing against it has no price and the refund rule does not reach it. The refund on a window not opened is three and nine, exactly half, and it has been paid three times.**
 
 Wend Lyle, who is nineteen and reads the board every morning because it is the only thing in the building that changes in a way he can be blamed for not knowing, comes down the floor with a sheet of paper and shows it to her.
@@ -20,7 +30,7 @@ It is his own hand, dated and initialled, copied entire from the withdrawal para
 
 ---
 
-Tobias Mear comes in at about ten with a Council form used as a pallet cover and a pencil, and spreads it on the counter, and does the arithmetic that the whole volume has been walking round for a month.
+Tobias Mear comes in at about ten with a Council form used as a pallet cover and a pencil, and spreads it on the counter, and does the arithmetic that the whole of this season has been walking round for a month.
 
 He writes 7/6 in one column and 1/4 in the other, and converts them, because an underwriter who cannot convert shillings to pence in front of a room is an underwriter who should not be in the room.
 
@@ -64,6 +74,10 @@ She repeats it. He writes it down. Then he asks her to repeat it a second time, 
 
 "The district's shilling is the district's business." She turns back to the board. "A shilling a week for the right to print its own reach hours, with the ward's name on it, said yes in ninety seconds with no vote, and nobody in the room asked either named reader whether the reading might be printed. I have got opinions about that and this board is not the place for them."
 
-They stand there for a while in the yard with the disagreement between them, and it is professional and it is real and it is in public, with the whole morning shift in earshot, and neither of them softens it.
+"Then whose are they?"
+
+"Mine, and they are not for a board, and you are a reader and you have an opinion about them, and I have watched you not say it for about four minutes, which is longer than it took me to write the fifth line." She squares the chalk on the board's edge. "Say it or do not say it, Marek. Not on this board. This board is for the yard's name and the hour and the date and the money, and everything else either of us thinks is a thing we take home."
+
+He does not say it. The launch hour goes up the crane post and Ilva Sorn calls it, and the tide clock gets its chalk, and the whole of the morning shift is in earshot because a yard is not a room, and neither of them softens anything, and both of them goes home by a different gate.
 
 **A district that cannot read its notice cannot buy a window, and a district that cannot buy a window is a district nobody has to compensate, and a ward with a dark public glass is a ward with a private reading twice a day, and the ward has to decide about it.**
